@@ -3,14 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Résumé Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+enableMissingTranslationPlaceholders: true
+
+title: Stanislav Valášek # Website name
+baseURL: 'https://www.stanislavvalasek.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: sk
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -18,6 +20,8 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
+
+pluralizelisttitles: false
 
 build:
   writeStats: true

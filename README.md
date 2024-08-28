@@ -11,3 +11,19 @@ Static page generator [Hugo](https://gohugo.io/) using [**HugoBlox**](https://hu
 ## License
 
 Copyright 2020-present [Stanislav Valasek](www.stanislavvalasek.com)
+
+## ToDo
+Služby
+- Mentoring
+- Koučing
+- Soft Skills
+  - Manažérske minimum - školenie
+  - Komunikácia
+- Osobné konzultácie
+Referencie
+
+Favicon
+Ako stránka - O mne menu a obrázok
+
+Clean EN a CZ site
+Deploy

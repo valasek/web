@@ -3,20 +3,57 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+sk:
+  languageCode: sk-sk
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/sk
+  menu:
+   main:
+     - name: Úvod
+       url: '/'
+       weight: 1
+     - name: O mne
+       url: '/o-mne'
+       weight: 2
+     - name: Služby
+       url: '/sluzby'
+       weight: 3
+     - name: Mentoring
+       parent: Služby
+       url: '/mentoring'
+       weight: 1
+     - name: Koučing
+       parent: Služby
+       url: '/koucing'
+       weight: 2
+     - name: Soft skills
+       parent: Služby
+       url: '/soft-skills'
+       weight: 3
+     - name: Osobné konzultácie
+       parent: Služby
+       url: '/osobne-konzultacie'
+       weight: 4
+     - name: Referencie
+       url: '/referencie'
+       weight: 4
+     - name: Blog
+       url: '/blog'
+       weight: 5
+     - name: Kontakt
+       url: '/kontakt'
+       weight: 6
+
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+en:
+ languageCode: en-us
+ contentDir: content/en
+ title: Chinese website title...
+ params:
+   description: Site description in Chinese...
+ menu:
+   main:
+     - name: About
+       url: '#about'
+       weight: 1

@@ -3,6 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+# Disable hugo-academy credit
+i_am_a_sponsor: true
+
 # Appearance
 appearance:
   mode: system
@@ -14,10 +17,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Osobné stránky, koučing, mentoring, manažérske nástroje, komunikácia, Stanislav Valášek'
+    twitter: 'valasek'
   analytics:
     google_analytics: ''
+    google_tag_manager: 'G-MY4DPKPTHS'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -30,22 +34,36 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: "navbar"
+    # Align menu links: `left`, `center`, or `right`
+    align: "center"
+    # Fix the navigation bar to the top of the page
+    fixed_to_top: true
+    highlight_active_link: true
+    show_translations: true
+    # If `show_translations` is enabled, do you wish to hide the current language name?
+    hide_language_name: false
+    logo:
+      # Logo text
+      text: "Tvoja autenticita je dôležitá"
+      # Logo filename in `assets/media/` folder
+      # filename: "logo.svg"
+
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Stanislav Valášek'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2. 1. 2006'
+  time_format: '15:04'
 
 # Site features
 features:

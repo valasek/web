@@ -1,0 +1,788 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 28. augusta 2024 --><html lang="sk-sk" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.2.0" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Stanislav Valášek" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Osobné stránky, koučing, mentoring, manažérske nástroje, komunikácia, Stanislav Valášek" />
+
+  
+  <link rel="alternate" hreflang="sk-sk" href="http://localhost:1313/mentoring/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/blue.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <link rel="alternate" href="/mentoring/index.xml" type="application/rss+xml" title="Stanislav Valášek" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://localhost:1313/mentoring/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@valasek" />
+    <meta property="twitter:creator" content="@valasek" />
+  
+  <meta property="og:site_name" content="Stanislav Valášek" />
+  <meta property="og:url" content="http://localhost:1313/mentoring/" />
+  <meta property="og:title" content="Mentoring | Stanislav Valášek" />
+  <meta property="og:description" content="Osobné stránky, koučing, mentoring, manažérske nástroje, komunikácia, Stanislav Valášek" /><meta property="og:image" content="http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="sk-sk" />
+  
+    
+      <meta property="og:updated_time" content="2023-10-24T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+
+
+
+  <title>Mentoring | Stanislav Valášek</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-sk.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Stanislav Valášek">
+        Tvoja autenticita je dôležitá
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Úvod</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/o-mne"
+        >O mne</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item nav-dropdown group relative">
+            <span
+              class="nav-link 
+                
+                
+                
+              
+                
+                
+                
+              
+                
+                
+                
+              
+                
+                
+                
+               inline-flex items-center">
+              Služby
+              <svg class="h-4 w-4 fill-current inline-block" viewBox="0 0 20 20">
+                <path
+                  d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
+              </svg>
+            </span>
+        <ul
+          class="nav-dropdown-list lg:group-hover:visible lg:group-hover:opacity-100">
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a
+              class="nav-dropdown-link "
+              
+              href="/mentoring">
+              Mentoring
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a
+              class="nav-dropdown-link "
+              
+              href="/koucing">
+              Koučing
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a
+              class="nav-dropdown-link "
+              
+              href="/soft-skills">
+              Soft skills
+            </a>
+          </li>
+          
+          
+          
+          <li class="nav-dropdown-item">
+            <a
+              class="nav-dropdown-link "
+              
+              href="/osobne-konzultacie">
+              Osobné konzultácie
+            </a>
+          </li>
+          
+        </ul>
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/referencie"
+        >Referencie</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/blog"
+        >Blog</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/kontakt"
+        >Kontakt</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">Mentoring</h1>
+    <p><a
+href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
+class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+Rezervuj si 15 minútový úvodný telefonát
+</a></p>
+<h3 id="akým-roliam-poskytujem-mentoring-najčastejšie">Akým roliam poskytujem mentoring najčastejšie?</h3>
+<ul>
+<li>Manažéri</li>
+<li>Majitelia firiem</li>
+<li>Vedúci technického, vývojového alebo produktového tímu</li>
+<li>Scrum master alebo product owner</li>
+</ul>
+<h3 id="prečo-konzultácie-so-mnou">Prečo konzultácie so mnou?</h3>
+<ul>
+<li>Pretože <strong>mám dlhoročnú prax</strong>. Mám za sebou 20 rokov v IT a z toho 15 rokov v manažmente.</li>
+<li>Vnímam a <strong>pomenúvam i veci &ldquo;za oponou&rdquo;</strong>, ktoré <strong>zásadne ovplyvňujú dianie</strong> vo firme, tíme alebo určujú správanie jednotlivca.</li>
+<li>Dokážem klásť <strong>esenčné otázky</strong>, ktorými dokážeme získať nové pohľady.</li>
+<li>Som <strong>štrukturovaný</strong> a <strong>záleží mi na výsledku a pridanej hodnote</strong>.</li>
+</ul>
+<p>Viac o mojej kariére nájdeš na <a href="https://www.linkedin.com/in/stanislavvalasek/" target="_blank" rel="noopener">LinkedIn</a>.</p>
+<p><a
+href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
+class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+Rezervuj si 15 minútový úvodný telefonát
+</a></p>
+<h3 id="ako-konzultácie-prebiehajú">Ako konzultácie prebiehajú?</h3>
+<p><strong>V prípade záujmu:</strong></p>
+<ul>
+<li><strong>Priprav si popis situácie</strong>, v ktorej sa nachádzaš a aký je ideálny výsledok a žiadaná zmena.</li>
+<li><strong>Kontaktuj ma. Prvé stretnutie je zoznamovacie. Na základe <a href="https://dojo.sk/nase-temy/pre-jednotlivca/it-a-manazment-konzultacia/_wp_link_placeholder" target="_blank" rel="noopener">nezáväznej telefonickej konzultácie</a> v rozsahu 15 - 30 minút dohodneme ďalšie kroky i časovanie.</strong> Je možné sa stretnúť i osobne, a to v Bratislave, Prahe alebo okolí. Už z prvého stretnutia si odnesieš pár postrehov, ale primárne slúži na komunikáciu tvojich cieľov a dohodnutí ďalšieho spoločného postupu.</li>
+<li>Ďalšie konzultácie môžu prebiehať <strong>online, telefonicky alebo osobne v Bratislave</strong> napríklad v <a href="https://www.hubhub.com/location/bratislava-nivy-tower/" target="_blank" rel="noopener">HubHub</a>, <strong>v Prahe</strong> vo vhodnom CoWorku alebo na mieste <strong>podľa dohody</strong>.</li>
+<li><strong>Konzulácie sú najčastejšie 60 - 90 minutové</strong> – nastavíme ich ale individuálne podľa tvojich potrieb.</li>
+<li>V cene konzultácie, ako ide o viacej hodín, je i <strong>telefonická podpora medzi konzultáciami</strong>. Vačšina náročnejších zmien vyžaduje dlhší čas a sadu súvislých zmien a v dobe medzi konzultáciami budeš mať poradcu na telefóne.</li>
+<li><strong>Konzultáciu je možné zrušiť najneskôr 12 hod vopred,</strong> inak sa ráta ako absolvovaná (kontaktuj ma prosím, hneď, ako vieš, že musíš termín zrušiť).</li>
+</ul>
+<h3 id="cena">Cena</h3>
+<p><em>Je obdobná ako cena večere pred dvoch v dobrej reštaurácii.</em></p>
+<ul>
+<li>70,- EUR / 1h</li>
+<li>1 700,- Kč / 1h</li>
+</ul>
+<p>Nie som plátcom DPH.</p>
+<p>V cene je započítaná moja telefonická dostupnosť po mentoringu v prípade potreby.</p>
+
+  </article>
+</div>
+
+
+
+
+<div class="flex flex-col items-center">
+
+  <div class="container max-w-[65ch] mx-auto bg-white dark:bg-zinc-900 rounded-xl border-gray-100 dark:border-gray-700 border shadow-md overflow-hidden my-5">
+
+
+  
+  
+
+  </div>
+
+
+  
+
+
+</div>
+
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by text-center">
+    © 2024 Stanislav Valášek
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+  </p>
+
+</footer>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
