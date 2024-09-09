@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Flex:wght@300..800&display=swap');
+
+/* Apply to all elements */
+* {
+    font-family: 'Open Sans Flex', sans-serif;
+  }
+  
+  /* Basic text elements */
+  body, p, span, div, li, td, th {
+    font-weight: 400;
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+  }
+  
+  /* Bold text */
+  strong, b {
+    font-weight: 700;
+  }
+  
+  /* Light text */
+  .light-text {
+    font-weight: 300;
+  }
+  
+  /* Form elements */
+  input, textarea, select, button {
+    font-family: 'Open Sans Flex', sans-serif;
+  }
+  
+  /* Links */
+  a {
+    font-weight: 400;
+  }

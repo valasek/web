@@ -8,8 +8,8 @@ i_am_a_sponsor: true
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: system # light, dark, or system
+  color: sky # blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc
 
 # SEO
 marketing:
