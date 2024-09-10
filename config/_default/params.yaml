@@ -21,7 +21,7 @@ marketing:
     twitter: 'valasek'
   analytics:
     google_analytics: 'G-MY4DPKPTHS'
-    google_tag_manager: 'G-MY4DPKPTHS'
+    google_tag_manager: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
