@@ -27,6 +27,16 @@
     <loc>http://localhost:1313/mentoring/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/mentoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="http://localhost:1313/mentoring/"
+                />
   </url><url>
     <loc>http://localhost:1313/o-mne/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>

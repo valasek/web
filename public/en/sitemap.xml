@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/coaching/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,5 +23,27 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/mentoring/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="http://localhost:1313/mentoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/mentoring/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/about/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/references/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -21,6 +21,7 @@ Jedna rovina koučinku je proces, ktorým klienta vediem. Na pozadí tohoto proc
 - Týmy
 - Majitelé firem
 - Operativní pracovníci
+
 Nie je pre mňa dôležité zadanie, je pro mňa dôležité či zadávateľ skutočne chce zmenu a či ten/tá, koho koučujem je zo zmenou v súlade. 
 
 <a

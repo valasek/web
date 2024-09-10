@@ -61,6 +61,31 @@ en:
   
   menu:
     main:
+      - name: About
+        url: '/about'
+        weight: 2
+      - name: Services
+        url: '/services'
+        weight: 3
+      - name: Mentoring
+        parent: Services
+        url: '/en/mentoring'
+        weight: 1
+      - name: Coaching
+        parent: Services
+        url: '/en/coaching'
+        weight: 2
+      - name: Soft skills
+        parent: Services
+        url: '/soft-skills'
+        weight: 3
+      - name: Personal consultations
+        parent: Services
+        url: '/personal-consultations'
+        weight: 4
+      - name: References
+        url: '/references'
+        weight: 4
       - name: Contact
         url: '/contact'
-        weight: 1
+        weight: 6
