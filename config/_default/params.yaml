@@ -20,7 +20,7 @@ marketing:
     description: 'Osobné stránky, koučing, mentoring, manažérske nástroje, komunikácia, Stanislav Valášek'
     twitter: 'valasek'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-MY4DPKPTHS'
     google_tag_manager: 'G-MY4DPKPTHS'
     baidu_tongji: ''
     plausible: ''
