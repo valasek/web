@@ -21,3 +21,7 @@ Vyber si [koučing](../koucing), [mentoring](../mentoring) alebo si [rezervuj si
 - 2022, [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure
 - 2022, Ročný kurz: management, Ján Hausmann
 - 2015 - [Managing the Company of the Future](https://www.coursera.org/account/accomplishments/verify/mbHTGpaVp9czYC2z), University of London
+
+---
+
+Občas ešte programujem a to hlavne preto, aby som bol v kontakte s trendami alebo sa záznámil z novými technológiami a ich použitím. Zoznam mnou vytvoreného SW je v [GitHub](https://github.com/valasek/).
