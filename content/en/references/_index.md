@@ -9,7 +9,7 @@ He has a profound understanding of the unique strengths women bring to IT manage
 
 Stanislav is not only generous with his time and knowledge, but he also shares his life experiences openly, creating a supportive environment that encourages learning and confidence-building. His willingness to help, coupled with his deep insight into IT, makes him an excellent mentor and an advocate for advancing women in technology.
 
-I highly recommend Stansilav for any future mentoring roles, as his passion for diversity and empowerment truly elevates the quality of mentorship and strengthens the future of IT leadership.
+I highly recommend Stanislav for any future mentoring roles, as his passion for diversity and empowerment truly elevates the quality of mentorship and strengthens the future of IT leadership.
 
 [Karolina Szweda](https://www.linkedin.com/in/karolina-szweda-18103099/), Service Delivery Manager, [Tietoevry](https://www.tietoevry.com)
 
