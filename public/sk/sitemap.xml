@@ -53,5 +53,15 @@
     <loc>http://localhost:1313/soft-skills/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/soft-skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk-sk"
+                href="http://localhost:1313/soft-skills/"
+                />
   </url>
 </urlset>

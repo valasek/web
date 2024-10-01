@@ -3,11 +3,8 @@ title: 'Mentoring'
 date: 2023-10-24
 ---
 
-<a
-     href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
-    class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
-Rezervuj si 15 minútový úvodný telefonát
-</a>
+### Mentoring je pre mňa odmena
+Pre mňa je mentoring o pozornom a aktívnom počúvaní klienta, zvedomovania jeho hodnôt, ale i hraníc a vlastných obmedzení. Tam kde je to vhodné, dopĺňam osobné skúsenosti z mojej dlhoročnej praxe v manažmente, vedení a podpore pri rozvoji ľudí i týmov.
 
 ### Akým roliam poskytujem mentoring najčastejšie?
 
@@ -25,12 +22,6 @@ Rezervuj si 15 minútový úvodný telefonát
 
 Viac o mojej kariére nájdeš na [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/).
 
-<a
-    href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
-    class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
-Rezervuj si 15 minútový úvodný telefonát
-</a>
-
 {{% ako-konzultacie-prebiehaju %}}
 
 ### Cena
@@ -42,4 +33,4 @@ Rezervuj si 15 minútový úvodný telefonát
 
 Nie som plátcom DPH.
 
-V cene je započítaná moja telefonická dostupnosť po mentoringu v prípade potreby.
+V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzutáciu v priebehu mentoringu.

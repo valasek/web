@@ -17,12 +17,12 @@ Jedna rovina koučinku je proces, ktorým klienta vediem. Na pozadí tohoto proc
 - praxou koučovaním v posledných dvoch firmách uLékaře.cz a DataArch, obe sídliace v Prahe.
 
 ***Moji klienti sú rôznorodí***
-- Manažeři a Team-leadeři
-- Týmy
-- Majitelé firem
-- Operativní pracovníci
+- Manažéry a tím-leadery
+- Tímy
+- Majitelia firiem
+- Operatínvi pracovníci
 
-Nie je pre mňa dôležité zadanie, je pro mňa dôležité či zadávateľ skutočne chce zmenu a či ten/tá, koho koučujem je zo zmenou v súlade. 
+Nie je pre mňa dôležité zadanie, je pro mňa dôležité či klient skutočne chce zmenu a či ten/tá, koho koučujem je zo zmenou v súlade. 
 
 <a
     href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
@@ -34,11 +34,11 @@ Rezervuj si 15 minútový úvodný telefonát
 
 ### Cena
 
-*Je obdobná ako cena večere pred dvoch v dobrej reštaurácii.*
+*Do začiatku roku 2025 som vo výcviku, i keď už profesionálne koučujem. Z toho dôvodu mám stále uvádzacie ceny.*
 
 - 40,- EUR / 1h
 - 1 000,- Kč / 1h
 
 Nie som plátcom DPH.
 
-V cene je započítaná moja telefonická dostupnosť po koučingu v prípade potreby.
+V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzutáciu v priebehu koučingu.

@@ -13,11 +13,10 @@ Presunul som za z Čiech na Slovensko, školím sa na kvalifikovaného kouča po
 
 Poskytujem služby koučingu a mentoringu pre svojich klientov alebo pod záštitou organizácií ako [Femme Palette](https://www.femmepalette.com/), [DoToho](https://dotoho.pro/) alebo [Tour De App](https://tourdeapp.cz/).
 
-Ak máš pred sebou výzvu a nevieš, kde začať, alebo problém, ktorý sa zdá neriešiteľný, neváhaj a kontaktuj ma.
-
-Vyber si [koučing](../koucing), [mentoring](../mentoring) alebo si [rezervuj si 30 minut online konzultáciu zdarma](https://calendar.app.google/fNxKmJxX3D3HStkb9) alebo ma kontaktuj [telefonicky či emailom](../kontakt) a spoločne sa rozhodneme, či má vzájomná spolupráca zmysel alebo nie.
+Ak máš pred sebou výzvu, problém, potrebuješ skutočne dobre zvážiť a rozhodnúť sa pre svoju správnu možnosť, alebo iba nevieš spraviť svoj prvý krok, neváhaj a kontaktuj ma a spoločne sa rozhodneme, či má spolupráca zmysel alebo nie.
 
 ### Vzdelanie
+
 - 2024 (prebieha) - ([ICF](https://coachingfederation.org/)) akreditovaný kouč úrovne ACC v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing)
 - 2023, [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy
 - 2022, [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure

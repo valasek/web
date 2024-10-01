@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/55d70577-8dcd-40be-8032-58b23ba8c4a5/deploy-status)](https://app.netlify.com/sites/valasek/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/690590fb-b596-413b-8916-a249de10db01/deploy-status)](https://app.netlify.com/sites/stanislavvalasek/deploys)
 
 # www.stanislavvalasek.com
 
