@@ -5,16 +5,16 @@ date: 2023-10-24
 
 Email: valasek@gmail.com<br/>
 Telefón: +421 949 888 634<br/>
-Kalendár: [Rezervuj si 15 minútový online telefonát](https://calendar.app.google/fNxKmJxX3D3HStkb9)<br/>
+Kalendár: [Rezervuj si 15-minútový online telefonát](https://calendar.app.google/fNxKmJxX3D3HStkb9)<br/>
 [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)
 
 ---
 
 ### Fakturačné údaje
 Ing. Stanislav Valášek<br/>
-Moskovská 12, 811 08, Bratislava<br/>
+Moskovská 12, 811 08 Bratislava<br/>
 IČO: 56319266<br/>
-DIČ 1074496654
+DIČ: 1074496654
 
 ### Bankové spojenie
 

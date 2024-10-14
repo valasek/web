@@ -169,7 +169,7 @@ profiles:
 
 # Tvoja autenticita je dôležitá
 
-To najviac čo môžeme svetu dať je naplno sa prejaviť. Vo všetkom, čo robíme. Po svojom. Máme to v sebe. Niekedy sme pripravení a odvážni, niekedy nie. Chýbajú nám zdroje. Kouč ich môže pomôcť nájsť. 
+To najviac čo môžeme svetu dať je naplno sa prejaviť. Vo všetkom, čo robíme. Po svojom. Máme to v sebe. Niekedy sme pripravení a odvážni, niekedy nie. Chýbajú nám zdroje. Kouč môže pomôcť ich nájsť. 
 
 <a
     href="o-mne"
