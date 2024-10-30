@@ -3,26 +3,26 @@ title: 'Koučing'
 date: 2023-10-24
 ---
 
-### Koučink je pre mňa súhra a spolupráca.
+### Koučing je pre mňa súhra a spolupráca.
 
-***Moju rolu v téjto spolupráci vidím v***
+***Moju rolu v tejto spolupráci vidím v***
 - objavovaní zdrojov a potenciálu klienta
-- pomoci pri pomenování prekážok a hľadaní stratégie ako sa s prekážkami vysporiadať
+- pomoci pri pomenovanie prekážok a hľadaní stratégie ako sa s prekážkami vysporiadať
 - neustálom sebarozvoji a vzdelávaní, aby som bol dobrým partnerom pre túto spoluprácu
 
-Jedna rovina koučinku je proces, ktorým klienta vediem. Na pozadí tohoto procesu je hľadání klientových /tímových zdrojov a neustále smerovánie k cielu / zámeru klienta. Druhou rovinou je širší kontext zákazky. I to je moje práce. Vidieť nielen detail, ale aj celok a klientovi pomôcť rozšítiť horizont, ak je to potreba. Otázkami, spätnou väzbou, cvičením, hrou.
+Jedna rovina koučinku je proces, ktorým klienta vediem. Na pozadí tohoto procesu je hľadanie klientových /tímových zdrojov a neustále smerovanie k cieľu / zámeru klienta. Druhou rovinou je širší kontext zákazky. I to je moja práca. Vidieť nielen detail, ale aj celok a klientovi pomôcť rozšíriť horizont, ak je to potrebné. Otázkami, spätnou väzbou, cvičením, hrou.
 
 ***Svoje koučovacie vzdelanie som získal na dvoch miestach***
 - certifikovaného koučovacieho programu v rámci medzinárodnej federácie koučovania ([ICF](https://coachingfederation.org/)) v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
 - praxou koučovaním v posledných dvoch firmách uLékaře.cz a DataArch, obe sídliace v Prahe.
 
 ***Moji klienti sú rôznorodí***
-- Manažéry a tím-leadery
+- Manažéri a tím-leaderi
 - Tímy
 - Majitelia firiem
-- Operatínvi pracovníci
+- Operatívni pracovníci
 
-Nie je pre mňa dôležité zadanie, je pro mňa dôležité či klient skutočne chce zmenu a či ten/tá, koho koučujem je zo zmenou v súlade. 
+Nie je pre mňa dôležité zadanie, je pre mňa dôležité či klient skutočne chce zmenu a či ten/tá koho koučujem je zo zmenou v súlade. 
 
 <a
     href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
@@ -41,4 +41,4 @@ Rezervuj si 15 minútový úvodný telefonát
 
 Nie som plátcom DPH.
 
-V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzutáciu v priebehu koučingu.
+V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzultáciu v priebehu koučingu.

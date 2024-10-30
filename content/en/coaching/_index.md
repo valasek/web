@@ -3,14 +3,14 @@ title: 'Coaching'
 date: 2023-10-24  
 ---
 
-### Coaching is a synergy and collaboration for me.
+### Coaching is a synergy and collaboration for me
 
 ***I see my role in this collaboration as***
 - discovering the resources and potential of the client
 - assisting in identifying obstacles and finding strategies to deal with them
 - continuous self-development and education to be a good partner in this collaboration
 
-One aspect of coaching is the process through which I guide the client. Behind this process is the search for the client’s/team’s resources and continuous direction towards the client’s goals/intention. The second aspect is the broader context of the assignment. This is also part of my work. To see not only the detail but also the whole picture and to help the client expand their horizons when needed, through questions, feedback, exercises, and play.
+One aspect of coaching is the process through which I guide the client. Behind this process is the search for the client’s/team’s resources and continuous directing towards the client’s goals/intention. The second aspect is the broader context of the assignment. This is also part of my work. To see not only the detail but also the whole picture and to help the client expand their horizons when needed, through questions, feedback, exercises, and play.
 
 ***I obtained my coaching education in two places***
 - a certified coaching program under the International Coaching Federation ([ICF](https://coachingfederation.org/)) at the [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).

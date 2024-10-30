@@ -5,32 +5,37 @@
     font-family: 'Open Sans Flex', sans-serif;
   }
   
-  /* Basic text elements */
-  body, p, span, div, li, td, th {
-    font-weight: 400;
-  }
-  
-  /* Headings */
-  h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
-  }
-  
-  /* Bold text */
-  strong, b {
-    font-weight: 700;
-  }
-  
-  /* Light text */
-  .light-text {
-    font-weight: 300;
-  }
-  
-  /* Form elements */
-  input, textarea, select, button {
-    font-family: 'Open Sans Flex', sans-serif;
-  }
-  
-  /* Links */
-  a {
-    font-weight: 400;
-  }
+/* Basic text elements */
+body, p, span, div, li, td, th {
+  font-weight: 400;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+/* Bold text */
+strong, b {
+  font-weight: 700;
+}
+
+/* Light text */
+.light-text {
+  font-weight: 300;
+}
+
+/* Form elements */
+input, textarea, select, button {
+  font-family: 'Open Sans Flex', sans-serif;
+}
+
+/* Links */
+a {
+  font-weight: 400;
+}
+
+.page-body {
+  margin-right: 30px;
+  margin-left: 30px;
+}
