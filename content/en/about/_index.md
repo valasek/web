@@ -27,3 +27,5 @@ Choose [coaching](../coaching), [mentoring](../mentoring), or [book a free 30-mi
 ---
 
 I occasionally still program, mainly to stay up to date with trends or familiarize myself with new technologies and their applications. A list of software I have created can be found on [GitHub](https://github.com/valasek/).
+
+At the moment I work on SW for coaches to manage clients and coaching sessions which I use. At the moment it is freely available for other coaches as well - www.findacoach.eu.

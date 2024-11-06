@@ -41,3 +41,9 @@ Book a 15-minute introductory phone call
 I am not a VAT payer.
 
 The price includes my phone availability after the coaching session if needed.
+
+---
+
+### App for coaches
+
+I manage my clients and coaching sessions using my own application. At the moment it is freely available for all coaches - www.findacoach.eu.

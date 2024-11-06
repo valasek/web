@@ -4,7 +4,7 @@ date: 2023-10-24
 ---
 
 Email: valasek@gmail.com<br/>
-Telefón: +421 949 888 634<br/>
+Telefón/WhatsApp: +421 949 888 634<br/>
 Kalendár: [Rezervuj si 15-minútový online telefonát](https://calendar.app.google/fNxKmJxX3D3HStkb9)<br/>
 [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)
 

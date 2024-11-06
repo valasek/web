@@ -29,4 +29,8 @@ Ak máš pred sebou výzvu, problém, potrebuješ skutočne dobre zvážiť a ro
 
 Aby som zostal v kontakte s najnovšími trendmi, občas sa venujem aj programovaniu. Ak vás zaujíma môj softwarový vývoj, nájdete ukážky mojej práce na [GitHub](https://github.com/valasek/).
 
+Aktuálne pracujem na SW na evidenciu klientov a koučovacích sedení pre seba. V súčasnosti je zdarma dostupný všetkým koučom - www.findacoach.eu.
+
+---
+
 Som tu, aby som vám pomohol rásť, prekonávať prekážky a dosahovať vaše ciele. Poďme spolu objaviť váš potenciál!

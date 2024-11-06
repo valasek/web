@@ -42,3 +42,9 @@ Rezervuj si 15 minútový úvodný telefonát
 Nie som plátcom DPH.
 
 V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzultáciu v priebehu koučingu.
+
+---
+
+### Aplikácia pre koučov
+
+Evidenciu si vediem vo vlastnej aplikácií na správu klientov a koučovacích sedení. V súčasnosti je aplikácia zdarma dostupná všetkým koučom - www.findacoach.eu.
