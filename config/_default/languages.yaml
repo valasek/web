@@ -86,6 +86,9 @@ en:
       - name: References
         url: '/references'
         weight: 4
+      - name: Blog
+        url: 'blog'
+        weight: 5
       - name: Contact
         url: '/contact'
         weight: 6
