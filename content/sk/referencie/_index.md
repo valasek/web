@@ -1,6 +1,12 @@
 ---
 title: 'Referencie'
-date: 2023-10-24
+date: 2024-11-11
+---
+
+Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
+
+[Advit Tiple](https://www.linkedin.com/in/advittiple/)
+
 ---
 
 S radosťou poskytujem referenciu pre Stanislava, s ktorým som mala tú česť spolupracovať v rámci mentoringového programu [Femme Palette](https://www.femmepalette.com) zameraného na posilnenie postavenia žien v IT. Stanislav preukázal mimoriadnu oddanosť programu, pričom neustále ponúkal svoje vedenie s úprimným záujmom podporovať ma a riešiť všetky ciele mentoringu, ktoré sme si stanovili.

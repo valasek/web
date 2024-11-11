@@ -3,7 +3,13 @@ title: 'References'
 date: 2023-10-24
 ---
 
- I am pleased to provide a reference for Stansilav, whom I have had the privilege of working with through the [Femme Palette](https://www.femmepalette.com) mentoring program aimed at strengthening women’s position in IT. Stanislav has demonstrated exceptional commitment to the program, consistently offering his guidance with a genuine desire to empower me and address all the mentoring goals we identified.
+I am impressed, and I like how you structure your questions. Answers are spontaneously appearing in my head. Thank you!
+
+[Advit Tiple](https://www.linkedin.com/in/advittiple/)
+
+--
+
+I am pleased to provide a reference for Stansilav, whom I have had the privilege of working with through the [Femme Palette](https://www.femmepalette.com) mentoring program aimed at strengthening women’s position in IT. Stanislav has demonstrated exceptional commitment to the program, consistently offering his guidance with a genuine desire to empower me and address all the mentoring goals we identified.
 
 He has a profound understanding of the unique strengths women bring to IT management, particularly their collaborative leadership style, attention to detail, and resilience. 
 
