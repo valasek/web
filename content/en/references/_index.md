@@ -3,6 +3,12 @@ title: 'References'
 date: 2023-10-24
 ---
 
+Friends, if you feel that you need to change something in your life, that something is pulling you somewhere, if you hear that inner voice daily telling you to do something but don't know what, then know that Stanislav Valášek is a coach, mentor, simply put - he's a person who has helped me significantly multiple times to look into my inner self. He does it in an interesting way... and you know what, try to reach out to him and find out how he works. Or visit his website where you can learn more about him...
+
+[Martin Letko](https://www.facebook.com/martin.letko.37)
+
+---
+
 I am impressed, and I like how you structure your questions. Answers are spontaneously appearing in my head. Thank you!
 
 [Advit Tiple](https://www.linkedin.com/in/advittiple/)

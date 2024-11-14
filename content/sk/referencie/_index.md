@@ -3,6 +3,12 @@ title: 'Referencie'
 date: 2024-11-11
 ---
 
+Priatelia, ak máte pocit, že čosi potrebujete v živote zmeniť, že vás to kamsi ťahá, denne počúvate ten vnútorný hlas, že máte čosi spraviť, ale neviete čo, tak vedzte, že Stanislav Valášek je koučom, mentorom, jednoducho je človekom, ktorý mi už viac krát významne pomohol nazrieť do môjho vnútra. Robí to zaujímavým spôsobom a to tak, že ..... a viete čo, skúste sa mu ozvať a zistite ako pracuje. Prípadne navštívte jeho stránku, kde sa o ňom dozviete viac ...
+
+[Martin Letko](https://www.facebook.com/martin.letko.37)
+
+---
+
 Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
 
 [Advit Tiple](https://www.linkedin.com/in/advittiple/)
