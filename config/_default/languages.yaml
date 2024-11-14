@@ -12,7 +12,7 @@ sk:
      - name: Úvod
        url: '/'
        weight: 1
-     - name: O mne
+     - name: Môj príbeh
        url: '/o-mne'
        weight: 2
      - name: Služby
@@ -61,7 +61,7 @@ en:
   
   menu:
     main:
-      - name: About
+      - name: My Story
         url: '/about'
         weight: 2
       - name: Services
@@ -79,7 +79,7 @@ en:
         parent: Services
         url: '/soft-skills'
         weight: 3
-      - name: Personal consultations
+      - name: Personal Consultations
         parent: Services
         url: '/personal-consultations'
         weight: 4
