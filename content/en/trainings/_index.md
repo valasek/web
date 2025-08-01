@@ -1,5 +1,5 @@
 ---
-title: 'Soft Skills'  
+title: 'Trainings'
 date: 2023-10-24  
 ---
 
@@ -7,4 +7,5 @@ In my own management practice, I have found that focusing solely on results, har
 
 In this area, I primarily work on the following topics:
 - Communication skills
+- Group dynamics
 - [Basic Management Essentials](./Team%20Management%20Essentials.pdf)

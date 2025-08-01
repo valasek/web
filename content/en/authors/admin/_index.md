@@ -10,14 +10,14 @@ first_name: Stanislav
 last_name: Valasek
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Coach and mentor
+role: coach - mentor
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -165,16 +165,33 @@ profiles:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-<br/><br/>
+<br/>
 
 # Your authenticity is important
 
 The most we can give to the world is to express ourselves fully. In everything we do. In our own way. We have it within us. Sometimes we are ready and brave, sometimes not. We lack resources. A coach can help find them.
 
-<div class="text-center">
-<a
-    href="about"
-    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
-my story
+<a href="about"
+  class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+My story
 </a>
+
+<br/>
+
+# Services
+
+<div>
+  <a href="coaching"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+  Coaching
+  </a>
+  <span class="px-4"></span>
+  <a href="mentoring"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+  Mentoring
+  </a>
+  <a href="trainings"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 rounded-lg hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:text-gray-400 dark:hover:text-white">
+  Trainings
+  </a>
 </div>

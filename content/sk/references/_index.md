@@ -3,7 +3,43 @@ title: 'Referencie'
 date: 2024-11-11
 ---
 
-Priatelia, ak máte pocit, že čosi potrebujete v živote zmeniť, že vás to kamsi ťahá, denne počúvate ten vnútorný hlas, že máte čosi spraviť, ale neviete čo, tak vedzte, že Stanislav Valášek je koučom, mentorom, jednoducho je človekom, ktorý mi už viac krát významne pomohol nazrieť do môjho vnútra. Robí to zaujímavým spôsobom a to tak, že ..... a viete čo, skúste sa mu ozvať a zistite ako pracuje. Prípadne navštívte jeho stránku, kde sa o ňom dozviete viac ...
+„Počas nášho mentoringového procesu mi Stanislav odovzdal množstvo užitočných nástrojov, techník a postrehov, ktoré mi pomohli ďalej rozvíjať moje zručnosti a sebauvedomenie.
+
+Stanislav vytvára bezpečný a otvorený priestor pre mentoring, v ktorom je jednoduché zdieľať aj osobnejšie myšlienky a dilemy.
+
+Stanislava srdečne odporúčam ako mentora a kouča!“
+
+[Anne Puranen](https://www.linkedin.com/in/anne-puranen-bb28885/), Senior Project Manager, Tietoevry
+
+---
+
+"Dobre ukotvené rozhovory. V skutočnosti si postupoval podľa všetkých krokov GROWTH koučingu, vrátane kladenia správnych otázok, ktoré viedli k hľadaniu možností a riešení bez hodnotiaceho prístupu.
+
+Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu."
+
+[Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
+
+---
+
+"Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
+
+To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore."
+
+[Ľubomíra Kapustová, Koučka](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
+
+---
+
+"Stanley, vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe jeho skúseností a systémov, ktoré ma integrované, sa vie z nadhľadu pozrieť na daný problém a pomôct dostať sa do môjho vytúženého cieľa.
+
+Za mňa je to človek s otvoreným srdcom a čo sa uňho nedá prehliadnuť je, že viac cíti ako myslí."
+
+[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
+
+---
+
+Priatelia, ak máte pocit, že čosi potrebujete v živote zmeniť, že vás to kamsi ťahá, denne počúvate ten vnútorný hlas, že máte čosi spraviť, ale neviete čo, tak vedzte, že Stanislav Valášek je koučom, mentorom, jednoducho je človekom, ktorý mi už viac krát významne pomohol nazrieť do môjho vnútra.
+
+Robí to zaujímavým spôsobom a to tak, že ..... a viete čo, skúste sa mu ozvať a zistite ako pracuje. Prípadne navštívte jeho stránku, kde sa o ňom dozviete viac ...
 
 [Martin Letko](https://www.facebook.com/martin.letko.37)
 

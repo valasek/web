@@ -10,14 +10,14 @@ first_name: Stanislav
 last_name: Valášek
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Kouč, mentor, lektor
+role: kouč - mentor
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -171,8 +171,27 @@ profiles:
 
 To najviac čo môžeme svetu dať je naplno sa prejaviť. Vo všetkom, čo robíme. Po svojom. Máme to v sebe. Niekedy sme pripravení a odvážni, niekedy nie. Chýbajú nám zdroje. Kouč môže pomôcť ich nájsť. 
 
-<a
-    href="o-mne"
-    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
-môj príbeh
+<a href="o-mne"
+  class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+Môj príbeh
 </a>
+
+<br/>
+
+# Služby
+
+<div>
+  <a href="coaching"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+  Koučing
+  </a>
+  <span class="px-4"></span>
+  <a href="mentoring"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
+  Mentoring
+  </a>
+  <a href="trainings"
+    class="inline-flex items-center px-8 py-2 font-medium text-gray-900 rounded-lg hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:text-gray-400 dark:hover:text-white">
+  Školenia
+  </a>
+</div>

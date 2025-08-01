@@ -1,5 +1,5 @@
 ---
-title: 'Soft skills'
+title: 'Školenia'
 date: 2023-10-24
 ---
 

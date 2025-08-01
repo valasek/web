@@ -3,6 +3,41 @@ title: 'References'
 date: 2023-10-24
 ---
 
+"During our mentoring journey, EmpowerHer shared with me a wealth of useful tools, techniques and insights that helped me further develop my skills and self-awareness.
+
+Stanislav creates a safe and open space for mentoring and it's easy to share even more personal thoughts and dilemmas with him.
+
+I warmly recommend Stanislav as a mentor and coach!"
+
+[Anne Puranen](https://www.linkedin.com/in/anne-puranen-bb28885/), Senior Project Manager, Tietoevry
+
+---
+
+"Well grounded discussions. In fact, you have followed all the steps of GROWTH coaching process including right questions lead to finding options and solutions without judgemental mindset.
+
+Your questions got me hooked to the discussions and final goal finding path."
+
+[Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
+
+---
+
+"His approach, focused on body awareness and inner experience, served as an excellent guide to deeper self-understanding and solution-finding. Although some of his suggestions initially surprised me, they ultimately helped me realize many important things about myself.
+
+This wouldn’t have been possible without the safe space and Stanislav’s sensitive and respectful approach — which he managed to create even in an online setting."
+
+[Ľubomíra Kapustová, Coach](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
+
+
+---
+
+"Stanley always listens deeply and attentively to what the client says. Thanks to his experience and the systems he has integrated, he is able to look at a problem from a broader perspective and help guide me toward my desired goal.
+
+To me, he’s someone with an open heart — and what stands out the most is that he feels more than he thinks."
+
+[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
+
+---
+
 Friends, if you feel that you need to change something in your life, that something is pulling you somewhere, if you hear that inner voice daily telling you to do something but don't know what, then know that Stanislav Valášek is a coach, mentor, simply put - he's a person who has helped me significantly multiple times to look into my inner self. He does it in an interesting way... and you know what, try to reach out to him and find out how he works. Or visit his website where you can learn more about him...
 
 [Martin Letko](https://www.facebook.com/martin.letko.37)
@@ -15,7 +50,7 @@ I am impressed, and I like how you structure your questions. Answers are spontan
 
 --
 
-I am pleased to provide a reference for Stansilav, whom I have had the privilege of working with through the [Femme Palette](https://www.femmepalette.com) mentoring program aimed at strengthening women’s position in IT. Stanislav has demonstrated exceptional commitment to the program, consistently offering his guidance with a genuine desire to empower me and address all the mentoring goals we identified.
+I am pleased to provide a reference for Stanislav, whom I have had the privilege of working with through the [Femme Palette](https://www.femmepalette.com) mentoring program aimed at strengthening women’s position in IT. Stanislav has demonstrated exceptional commitment to the program, consistently offering his guidance with a genuine desire to empower me and address all the mentoring goals we identified.
 
 He has a profound understanding of the unique strengths women bring to IT management, particularly their collaborative leadership style, attention to detail, and resilience. 
 

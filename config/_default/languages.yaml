@@ -13,35 +13,31 @@ sk:
        url: '/'
        weight: 1
      - name: Môj príbeh
-       url: '/o-mne'
+       url: '/about'
        weight: 2
      - name: Služby
-       url: '/sluzby'
+       url: '/services'
        weight: 3
+     - name: Koučing
+       parent: Služby
+       url: '/coaching'
+       weight: 1
      - name: Mentoring
        parent: Služby
        url: '/mentoring'
-       weight: 1
-     - name: Koučing
-       parent: Služby
-       url: '/koucing'
        weight: 2
-     - name: Soft skills
+     - name: Školenia
        parent: Služby
-       url: '/soft-skills'
+       url: '/trainings'
        weight: 3
-     - name: Osobné konzultácie
-       parent: Služby
-       url: '/osobne-konzultacie'
-       weight: 4
      - name: Referencie
-       url: '/referencie'
+       url: '/references'
        weight: 4
     #  - name: Blog
     #    url: '/blog'
     #    weight: 5
      - name: Kontakt
-       url: '/kontakt'
+       url: '/contact'
        weight: 6
 
 
@@ -67,22 +63,18 @@ en:
       - name: Services
         url: '/services'
         weight: 3
-      - name: Mentoring
-        parent: Services
-        url: '/en/mentoring'
-        weight: 1
       - name: Coaching
         parent: Services
         url: '/en/coaching'
+        weight: 1
+      - name: Mentoring
+        parent: Services
+        url: '/en/mentoring'
         weight: 2
-      - name: Soft skills
+      - name: Trainings
         parent: Services
-        url: '/soft-skills'
+        url: '/trainings'
         weight: 3
-      - name: Personal Consultations
-        parent: Services
-        url: '/personal-consultations'
-        weight: 4
       - name: References
         url: '/references'
         weight: 4
