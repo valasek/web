@@ -171,8 +171,10 @@ profiles:
 
 The most we can give to the world is to express ourselves fully. In everything we do. In our own way. We have it within us. Sometimes we are ready and brave, sometimes not. We lack resources. A coach can help find them.
 
+<div class="text-center">
 <a
     href="about"
     class="inline-flex items-center px-8 py-2 font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
 my story
 </a>
+</div>

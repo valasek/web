@@ -3,9 +3,9 @@ title: 'Contacts'
 date: 2023-10-24
 ---
 
-Email: valasek@gmail.com<br/>
-Phone/WhatsApp: +421 949 888 634<br/>
-Calendar: [Book a 15 minutes online call](https://calendar.app.google/fNxKmJxX3D3HStkb9)<br/>
+valasek@gmail.com<br/>
++421 949 888 634<br/>
+[Message via WhatsApp](https://wa.me/421949888634)<br/>
 [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)
 
 ---
