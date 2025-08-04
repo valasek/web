@@ -1,31 +1,54 @@
 ---
-title: 'My story'
+title: 'My Story'
 date: 2023-10-24
 ---
 
-Hello. I am a former C-level manager (CTO), line and project manager, and leader in the agile transformation of product teams. For the past 20 years, I have worked in international companies in managerial positions in the Czech Republic and Slovakia in the IT sector in companies such as [Siemens](https://www.siemens.com/sk/sk.html), [NESS](https://www.ness.com/ness-czech/), [Ataccama](https://www.ataccama.com/), or [uLékaře.cz](https://www.ulekare.cz/). You can find more about my career on [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/).
+> I’m curious and honest — about myself, others, and the world around me.
+
+![](/images/profil.jpg)
+
+> I’m curious and honest — about myself, others, and the world around me.
+> In many roles: as a man, father, manager, colleague, IT guy, mentor, and coach — but most of all, as a human being.
+>
+> I love deep and real conversations. I value honesty — with myself and with others.
+>
+> It brings me real joy when I or others can express ourselves clearly.
+>
+> What I enjoy the most is supporting people who are ready for change.
+> Some want to change their inner attitudes or principles — I help them as a coach.
+> Others want to improve how they communicate or take responsibility in their team — I support them through career mentoring or management mentoring.
+>
+> I deeply understand the work of managers, the world of IT, and how companies function. I enjoy finding connections that help set clear and fair rules.
+
+I’m a manager with a strong background in the IT sector. I'm here to offer you valuable insights, experience, and support.
+I’ve worked in leadership roles at companies like [Siemens Healthineers](https://www.siemens-healthineers.com), [NESS](https://www.ness.com/ness-czech/), [Ataccama](https://www.ataccama.com/), and [uLékaře.cz](https://www.ulekare.cz/), where I led projects, teams, and agile transformations.
+
+You can read more about my professional background on my [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/) profile.
 
 ![](/images/Stanislav%20Valasek.HEIC)
 
-In the last 5 years, I have experienced many changes in both my personal and professional life.
+In the past 5 years, I’ve gone through many changes — both personally and professionally.
 
-I moved from the Czech Republic to Slovakia, and I am training to become a qualified coach under the auspices of the International Coaching Federation ([ICF](https://coachingfederation.org/)) at the [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
+I moved from the Czech Republic to Slovakia. I started working professionally as a coach and mentor for managers.
 
-I provide coaching and mentoring services for my clients or under the auspices of organizations like [Femme Palette](https://www.femmepalette.com/), [DoToho](https://dotoho.pro/), or [Tour De App](https://tourdeapp.cz/).
+I continue learning through the International Coaching Federation ([ICF](https://coachingfederation.org/)) at the [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
 
-If you face a challenge and don't know where to start, or if you have a problem that seems unsolvable, don’t hesitate to contact me.
+I provide coaching and mentoring services either directly or through organizations like [Femme Palette](https://www.femmepalette.com/), [DoToho](https://dotoho.pro/), and [Tour De App](https://tourdeapp.cz/).
 
-Choose [coaching](../coaching), [mentoring](../mentoring), or [book a free 30-minute online consultation](https://calendar.app.google/fNxKmJxX3D3HStkb9), or contact me [by phone or email](../contact), and together we can decide whether mutual collaboration makes sense or not.
+If you’re facing a challenge, stuck with a decision, or unsure about your next step — don’t hesitate to contact me. We’ll talk and see if working together makes sense for you.
 
-### Education
-- 2024 - ([ICF](https://coachingfederation.org/)) accredited coach at the ACC level in [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
-- 2023, [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy.
-- 2022, [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure.
-- 2022, An Annual Course: Management, Ján Hausmann.
-- 2015 - [Managing the Company of the Future](https://www.coursera.org/account/accomplishments/verify/mbHTGpaVp9czYC2z), University of London.
+### My education and certifications include:
+
+* Ongoing study toward ICF-accredited ACC-level coach at [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 - 2025)
+* [CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
+* [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure (2022)
+* One-year management course led by Ján Hausmann (2022)
+* [Managing the Company of the Future](https://www.coursera.org/account/accomplishments/verify/mbHTGpaVp9czYC2z), University of London (2015)
 
 ---
 
-I occasionally still program, mainly to stay up to date with trends or familiarize myself with new technologies and their applications. A list of software I have created can be found on [GitHub](https://github.com/valasek/).
+To stay connected with new trends, I still code from time to time. You can find my software work on [GitHub](https://github.com/valasek/).
 
-At the moment I work on SW for coaches to manage clients and coaching sessions which I use. At the moment it is freely available for other coaches as well - www.findacoach.eu.
+Right now, I’m developing software to track my coaching clients and sessions. It’s currently free for all coaches at [www.findacoach.eu](http://www.findacoach.eu).
+
+> I’m here to help you grow, overcome challenges, and reach your goals. Let’s explore your potential together!

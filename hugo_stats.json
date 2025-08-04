@@ -136,14 +136,11 @@
       "h-10",
       "h-100",
       "h-12",
-      "h-13",
-      "h-14",
       "h-2/4",
       "h-24",
       "h-4",
       "h-6",
       "h-7",
-      "h-8",
       "h-[18px]",
       "hb-docs-link",
       "hb-scrollbar",
@@ -300,7 +297,6 @@
       "py-2",
       "py-3",
       "py-4",
-      "py-8",
       "relative",
       "resume-biography",
       "ring-1",
@@ -323,8 +319,6 @@
       "shadow-md",
       "shrink-0",
       "sidebar-active-item",
-      "sm:flex-row",
-      "sm:gap-8",
       "sm:h-64",
       "sm:text-lg",
       "sticky",
@@ -380,7 +374,6 @@
       "budget",
       "camps",
       "cenník",
-      "clienta",
       "clients",
       "closing-notes",
       "coaching-app",
@@ -398,6 +391,7 @@
       "moon",
       "most-common-topics-clients-bring",
       "most-common-topics-clients-come-with",
+      "my-education-and-certifications-include",
       "najčastejšie-oblasti-s-ktorými-klienti-prichádzajú",
       "nav-menu",
       "nav-toggle",
@@ -430,7 +424,8 @@
       "what-would-ikeep",
       "why-have-consultations-with-me",
       "why-work-with-me",
-      "your-authenticity-is-important"
+      "your-authenticity-is-important",
+      "zvedavo-a-úprimne-sa-zaujímam-o-seba-iných-i-svet-okolo-seba"
     ]
   }
 }
