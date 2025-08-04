@@ -3,45 +3,99 @@ title: 'Koučing'
 date: 2023-10-24
 ---
 
-### Koučing je pre mňa súhra a spolupráca.
+### Koučujem jednotlivcov aj tímy
 
-***Moju rolu v tejto spolupráci vidím v***
-- objavovaní zdrojov a potenciálu klienta
-- pomoci pri pomenovanie prekážok a hľadaní stratégie ako sa s prekážkami vysporiadať
-- neustálom sebarozvoji a vzdelávaní, aby som bol dobrým partnerom pre túto spoluprácu
+![](/images/coaching.jpg)
 
-Jedna rovina koučinku je proces, ktorým klienta vediem. Na pozadí tohoto procesu je hľadanie klientových /tímových zdrojov a neustále smerovanie k cieľu / zámeru klienta. Druhou rovinou je širší kontext zákazky. I to je moja práca. Vidieť nielen detail, ale aj celok a klientovi pomôcť rozšíriť horizont, ak je to potrebné. Otázkami, spätnou väzbou, cvičením, hrou.
+#### Najčastejšie oblasti s ktorými klienti prichádzajú:
 
-***Svoje koučovacie vzdelanie som získal na dvoch miestach***
-- certifikovaného koučovacieho programu v rámci medzinárodnej federácie koučovania ([ICF](https://coachingfederation.org/)) v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
-- praxou koučovaním v posledných dvoch firmách uLékaře.cz a DataArch, obe sídliace v Prahe.
+- **Sebapoznanie** - Chcem pochopiť vlastné motivácie, hodnoty, vzorce správania i limitujúce presvedčenia a naučiť sa robiť vedomejšie životné rozhodnutia.
+- **Motivácia** - Chcem nájsť svoju vnútornú motiváciu na dosiahnutie svojho cieľa a udržať si dlhodobé nadšenie pre to, čo robím.
+- **Zmysel** - Mám pred sebou dôležité rozhodnutie a chcem ho urobiť v súlade s mojimi životnými hodnotami a víziou budúcnosti.
+- **Kariérny rozvoj** - Chcem inú zodpovednosť, pozíciu alebo sa cítiť lepšie vo svojej súčasnej roli a objaviť svoje profesionálne možnosti.
+- **Vyriešenie problému** - Čelím výzve, ktorú neviem vyriešiť vlastnými silami a potrebujem nový pohľad a systematický prístup k riešeniu.
+- **Well-being** - Chcem zlepšiť svoju životnú pohodu, nájsť lepšiu rovnováhu medzi prácou a životom alebo zvládnuť stres efektívnejšie.
+- **Výzvy v oblasti podnikania** - Potrebujem podporu pri rozvoji biznisu, strategických rozhodnutiach alebo prekonávaní prekážok v podnikaní.
+- **Efektivita tímu** - Chcem zlepšiť komunikáciu, spoluprácu a výkonnosť svojho tímu alebo si rozvinúť líderské schopnosti.
 
-***Moji klienti sú rôznorodí***
-- Manažéri a tím-leaderi
-- Tímy
-- Majitelia firiem
-- Operatívni pracovníci
 
-Nie je pre mňa dôležité zadanie, je pre mňa dôležité či klient skutočne chce zmenu a či ten/tá koho koučujem je zo zmenou v súlade. 
+#### Prečo so mnou?
 
-<a
-    href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2sepIGc8sosu7oevx1Xk3fYGiGule7mdjFghy02Uxslk_TfTEAKBMw2bsN5Ja3WZ4nHWgMTcsM"
-    class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-gray-100 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">
-Rezervuj si 15 minútový úvodný telefonát
-</a>
+Koučing je nástroj, možnosť, kde si človek môže premyslieť/zažiť a **urobiť jasno** v téme, ktorou sa práve zaoberá.
 
-{{% ako-konzultacie-prebiehaju %}}
+Je realizovaný formou **partnerského rozhovoru**, kde klient prichádza s tým, že je expertom na svoj život.
 
-### Cena
+Kouč klientom pomáha získať **iné pohľady a perspektívy**.
 
-*Do začiatku roku 2025 som vo výcviku, i keď už profesionálne koučujem. Z toho dôvodu mám stále uvádzacie ceny.*
+Pomáha cez reformuláciu zvedomiť si funkčné a nefunkčné presvedčenia a nájsť existujúce alebo **nové zdroje** na to, aby v danej téme urobil/urobila rozhodnutie v súlade so svojimi hodnotami. Pomôže mu/jej zvedomiť si, čo bude pre klienta/klientku **podporné v realizácii svojho rozhodnutia** a vhodnými otázkami im pomôže sformulovať ich vlastné kroky a akcie, ktoré smerujú k realizácii tohto rozhodnutia v ich živote.
 
-- 40,- EUR / 1h
-- 1 000,- Kč / 1h
+Koučovanie pre mňa nie je o dávaní rád klientom alebo navrhovaní riešení, ktoré sú mne dostupné, ale naopak láskavým, **zaujímajúcim sa a podporným spôsobom** im zvedomil ich vlastné zdroje a pomohol dospieť k vlastným uvedomeniam.
 
-Nie som plátcom DPH.
+Na to celé využívam štruktúru koučovacieho rozhovoru, etické princípy a kvality kouča (tak ako ich definuje Medzinárodná koučovacia federácia [ICF](https://icf.sk/)).
 
-V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzultáciu v priebehu koučingu.
+Mojimi klientami sú najčastejšie ľudia, ktorí vedia, že chcú zmenu, vedia i v akej oblasti, a pomôže im sformulovať si ••smer ďalšej cesty a prvé kroky•• na nej s niekým, kto ich nehodnotí, prijíma ich takých, akí sú, a fandí im v ich rozhodnutiach.
+
+Na koučingu ma najviac bavia dve veci.
+1) Vidieť a zažiť to nadšenie u klientov, keď nájdu spôsob, ako sa postaviť k svojej téme.
+2) Objem vnútornej práce, ktorý na každom koučingu konám na to, aby som svoje dobré nápady, riešenia a návrhy nechal prísť a odísť bez toho, aby narušili moje zotrvanie v mieste, kde som „iba“ zaujímajúcim sa, fandiacim a podporným parťákom v tomto štrukturovanom rozhovore.
+
+#### Cenník
+
+Súčasnú cenu mám 70 €/hod. Nie som platcom DPH.
+
+*V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzultáciu v priebehu koučingu.*
+
+#### Priestory
+
+Mentoring môžete absolvovať online alebo vo vašej firme. Po dohode je možné mať stretnutie i na inom mieste.
+
+[Mentoring](/mentoring) alebo koučing? Čo si mám vybrať?
+
+[Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
+
+#### Referencie
+
+Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe. To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore.
+Ľubomíra Kapustová, Koučka
+
+---
+
+Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
+
+[Advit Tiple](https://www.linkedin.com/in/advittiple/)
+
+---
+
+"Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
+
+To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore."
+
+[Ľubomíra Kapustová, Koučka](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
+
+---
+
+"Stanley, vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe jeho skúseností a systémov, ktoré ma integrované, sa vie z nadhľadu pozrieť na daný problém a pomôct dostať sa do môjho vytúženého cieľa.
+
+Za mňa je to človek s otvoreným srdcom a čo sa uňho nedá prehliadnuť je, že viac cíti ako myslí."
+
+[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
+
+---
+
+"Dobre ukotvené rozhovory. V skutočnosti si postupoval podľa všetkých krokov GROWTH koučingu, vrátane kladenia správnych otázok, ktoré viedli k hľadaniu možností a riešení bez hodnotiaceho prístupu.
+
+Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu."
+
+[Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
+
+#### Vzdelanie
+
+Praxou koučovaním jednotlivcov a vo firmách ako [Siemens Healthineers](https://www.siemens-healthineers.com/sk), [Tietoevry](https://www.tietoevry.com/en/), [Make](https://www.make.com), [uLékaře.cz](https://www.ulekare.cz).
+
+Ročné školenie v medzinárodnej federácii koučovania [ICF](https://coachingfederation.org/) realizované v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
+
+
+<!-- {{% ako-konzultacie-prebiehaju %}} -->
 
 ---
 
