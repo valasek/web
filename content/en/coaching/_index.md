@@ -9,14 +9,19 @@ date: 2023-10-24
 
 #### Most common topics clients bring:
 
-* **Self-awareness** – I want to understand my own motivations, values, behavior patterns, and limiting beliefs, and learn to make more conscious life decisions.
-* **Motivation** – I want to find my inner motivation to reach my goal and stay excited about what I do.
-* **Purpose** – I need to make an important decision and want to make it in line with my life values and future vision.
-* **Career growth** – I want a new responsibility or role, or I want to feel better in my current role and discover my professional options.
-* **Problem solving** – I’m facing a challenge I can’t solve alone and need a new perspective and a structured approach.
-* **Well-being** – I want to improve my quality of life, find better work-life balance, or manage stress more effectively.
-* **Business challenges** – I need support with business growth, strategic decisions, or overcoming obstacles in business.
-* **Team effectiveness** – I want to improve communication, collaboration, and performance in my team, or develop my leadership skills.
+```markmap {height="200px"}
+- 🤔
+  - I want to understand and change my behavior  
+  - I need find my inner motivation to reach my goal  
+  - I want to make this decision in line with my life values  
+  - I need help with career development  
+  - I need a new perspective on my problem or opportunity  
+  - I’m looking for balance between work, family, and hobbies  
+  - I need support with growing my business or team  
+  - How to improve the performance of my team  
+```
+
+Coaching is a partnership conversation where the coach is curious, supportive, gives honest reflection, and deeply believes that the client is the expert on their own life.
 
 #### Why work with me?
 
@@ -57,33 +62,25 @@ Coaching sessions can be online or at your workplace. Other meeting locations ca
 
 #### Testimonials
 
----
-
-"His approach, focused on body awareness and inner experience, is a great guide to deeper self-understanding and finding solutions. Some of his suggestions surprised me at first, but they helped me realize many important things about myself.
-
-This wouldn’t have been possible without the safe space and Stanislav’s sensitive and respectful approach – which he was able to create even online."
+> His approach, focused on body awareness and inner experience, is a great guide to deeper self-understanding and finding solutions. Some of his suggestions surprised me at first, but they helped me realize many important things about myself.
+> 
+> This wouldn’t have been possible without the safe space and Stanislav’s sensitive and respectful approach – which he was able to create even online.
 
 [Ľubomíra Kapustová, Coach](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
 
----
-
-I really like how you structure your questions. They immediately trigger answers in my mind.
+> I really like how you structure your questions. They immediately trigger answers in my mind.
 
 [Advit Tiple](https://www.linkedin.com/in/advittiple/)
 
----
-
-"Stanley always listens deeply and carefully to what the client says. Thanks to his experience and integrated systems, he can look at the problem from a higher perspective and help guide me toward my desired goal.
-
-For me, he is a person with an open heart, and it’s clear that he feels more than he thinks."
+> Stanley always listens deeply and carefully to what the client says. Thanks to his experience and integrated systems, he can look at the problem from a higher perspective and help guide me toward my desired goal.
+> 
+> For me, he is a person with an open heart, and it’s clear that he feels more than he thinks.
 
 [Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
 
----
-
-"Well-structured conversations. You actually followed all the steps of GROWTH coaching, including asking the right questions that led to finding options and solutions without judgment.
-
-Your questions drew me into the discussion and helped me find my way toward the goal."
+> Well-structured conversations. You actually followed all the steps of GROWTH coaching, including asking the right questions that led to finding options and solutions without judgment.
+> 
+> Your questions drew me into the discussion and helped me find my way toward the goal.
 
 [Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
 

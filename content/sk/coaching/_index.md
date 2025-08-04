@@ -7,16 +7,21 @@ date: 2023-10-24
 
 ![](/images/coaching.jpg)
 
-#### Najčastejšie oblasti s ktorými klienti prichádzajú:
+#### Najčastejšie oblasti s ktorými klienti prichádzajú
 
-- **Sebapoznanie** - Chcem pochopiť vlastné motivácie, hodnoty, vzorce správania i limitujúce presvedčenia a naučiť sa robiť vedomejšie životné rozhodnutia.
-- **Motivácia** - Chcem nájsť svoju vnútornú motiváciu na dosiahnutie svojho cieľa a udržať si dlhodobé nadšenie pre to, čo robím.
-- **Zmysel** - Mám pred sebou dôležité rozhodnutie a chcem ho urobiť v súlade s mojimi životnými hodnotami a víziou budúcnosti.
-- **Kariérny rozvoj** - Chcem inú zodpovednosť, pozíciu alebo sa cítiť lepšie vo svojej súčasnej roli a objaviť svoje profesionálne možnosti.
-- **Vyriešenie problému** - Čelím výzve, ktorú neviem vyriešiť vlastnými silami a potrebujem nový pohľad a systematický prístup k riešeniu.
-- **Well-being** - Chcem zlepšiť svoju životnú pohodu, nájsť lepšiu rovnováhu medzi prácou a životom alebo zvládnuť stres efektívnejšie.
-- **Výzvy v oblasti podnikania** - Potrebujem podporu pri rozvoji biznisu, strategických rozhodnutiach alebo prekonávaní prekážok v podnikaní.
-- **Efektivita tímu** - Chcem zlepšiť komunikáciu, spoluprácu a výkonnosť svojho tímu alebo si rozvinúť líderské schopnosti.
+```markmap {height="200px"}
+- 🤔
+  - Chcem pochopiť a zmeniť svoje správanie
+  - Potrebujem nájsť vnútornú motiváciu na dosiahnutie svojho cieľa
+  - Toto rozhodnutie chcem urobiť v súlade s mojimi životnými hodnotami
+  - Potrebujem pomôcť s s kariérnym rozvojom
+  - Potrebujem nový pohľad na svoj problém, príležitosť
+  - Hľadám rovnováhu medzi prácou, rodinou i koníčkami
+  - Potrebujem podporu pri rozvoji firmy, svojho tímu
+  - Ako zlepšiť výkonnosť tímu 
+```
+
+Koučing je partnerský rozhovor, kde kouč je ten zvedavý, fandiaci, pravdivo reflektujúci a pracujúci s hlbokým presvedčením, že klient je expertom na svoj život.
 
 #### Prečo so mnou?
 
@@ -56,31 +61,25 @@ Mentoring môžete absolvovať online alebo vo vašej firme. Po dohode je možn�
 
 #### Referencie
 
-"Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
-
-To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore."
+> Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
+> 
+> To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore.
 
 [Ľubomíra Kapustová, Koučka](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
 
----
-
-Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
+> Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
 
 [Advit Tiple](https://www.linkedin.com/in/advittiple/)
 
----
-
-"Stanley, vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe jeho skúseností a systémov, ktoré ma integrované, sa vie z nadhľadu pozrieť na daný problém a pomôct dostať sa do môjho vytúženého cieľa.
-
-Za mňa je to človek s otvoreným srdcom a čo sa uňho nedá prehliadnuť je, že viac cíti ako myslí."
+> Stanley, vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe jeho skúseností a systémov, ktoré ma integrované, sa vie z nadhľadu pozrieť na daný problém a pomôct dostať sa do môjho vytúženého cieľa.
+> 
+> Za mňa je to človek s otvoreným srdcom a čo sa uňho nedá prehliadnuť je, že viac cíti ako myslí.
 
 [Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
 
----
-
-"Dobre ukotvené rozhovory. V skutočnosti si postupoval podľa všetkých krokov GROWTH koučingu, vrátane kladenia správnych otázok, ktoré viedli k hľadaniu možností a riešení bez hodnotiaceho prístupu.
-
-Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu."
+> Dobre ukotvené rozhovory. V skutočnosti si postupoval podľa všetkých krokov GROWTH koučingu, vrátane kladenia správnych otázok, ktoré viedli k hľadaniu možností a riešení bez hodnotiaceho prístupu.
+> 
+> Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu.
 
 [Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
 
