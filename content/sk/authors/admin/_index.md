@@ -177,6 +177,8 @@ Môj príbeh
 </a>
 
 <br/>
+<br/>
+<br/>
 
 # Služby
 
@@ -194,4 +196,18 @@ Môj príbeh
     class="inline-flex items-center px-8 py-2 font-medium text-gray-900 rounded-lg hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:text-gray-400 dark:hover:text-white">
   Školenia
   </a>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# Klienti
+
+<div class="flex flex-col lg:flex-row items-center justify-center gap-6 lg:gap-8 py-4">
+ <img src="/images/ulekare-logo.svg" class="h-10 w-auto object-contain">
+ <img src="/images/siemens_healthineers_logo.svg.png" class="h-12 w-auto object-contain">
+ <img src="/images/Make-logo.png" class="h-12 w-auto object-contain">
+ <img src="/images/Tietoevry_logo.png" class="h-10 w-auto object-contain">
 </div>
