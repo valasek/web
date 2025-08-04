@@ -12,6 +12,12 @@ Static page generator [Hugo](https://gohugo.io/) using [**HugoBlox**](https://hu
 
 Copyright 2020-present [Stanislav Valasek](www.stanislavvalasek.com)
 
+## Usefull commands
+
+hugo mod clean
+hugo mod get -u ./...
+hugo server
+
 ## ToDo
 
 Doplnit testimoials podla awards / https://github.com/HugoBlox/hugo-blox-builder/blob/4f621dfa3a5ab798bea17ad2760bd61815c76f25/modules/blox-tailwind/layouts/partials/blox/resume-awards.html#L37

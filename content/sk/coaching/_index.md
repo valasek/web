@@ -18,7 +18,6 @@ date: 2023-10-24
 - **Výzvy v oblasti podnikania** - Potrebujem podporu pri rozvoji biznisu, strategických rozhodnutiach alebo prekonávaní prekážok v podnikaní.
 - **Efektivita tímu** - Chcem zlepšiť komunikáciu, spoluprácu a výkonnosť svojho tímu alebo si rozvinúť líderské schopnosti.
 
-
 #### Prečo so mnou?
 
 Koučing je nástroj, možnosť, kde si človek môže premyslieť/zažiť a **urobiť jasno** v téme, ktorou sa práve zaoberá.
@@ -33,7 +32,7 @@ Koučovanie pre mňa nie je o dávaní rád klientom alebo navrhovaní riešení
 
 Na to celé využívam štruktúru koučovacieho rozhovoru, etické princípy a kvality kouča (tak ako ich definuje Medzinárodná koučovacia federácia [ICF](https://icf.sk/)).
 
-Mojimi klientami sú najčastejšie ľudia, ktorí vedia, že chcú zmenu, vedia i v akej oblasti, a pomôže im sformulovať si ••smer ďalšej cesty a prvé kroky•• na nej s niekým, kto ich nehodnotí, prijíma ich takých, akí sú, a fandí im v ich rozhodnutiach.
+Mojimi klientami sú najčastejšie ľudia, ktorí vedia, že chcú zmenu, vedia i v akej oblasti, a pomôže im sformulovať si **smer ďalšej cesty a prvé kroky** na nej s niekým, kto ich nehodnotí, prijíma ich takých, akí sú, a fandí im v ich rozhodnutiach.
 
 Na koučingu ma najviac bavia dve veci.
 1) Vidieť a zažiť to nadšenie u klientov, keď nájdu spôsob, ako sa postaviť k svojej téme.
@@ -49,28 +48,25 @@ Súčasnú cenu mám 70 €/hod. Nie som platcom DPH.
 
 Mentoring môžete absolvovať online alebo vo vašej firme. Po dohode je možné mať stretnutie i na inom mieste.
 
+{{% callout note %}}
 [Mentoring](/mentoring) alebo koučing? Čo si mám vybrať?
 
 [Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
+{{% /callout %}}
 
 #### Referencie
-
-Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe. To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore.
-Ľubomíra Kapustová, Koučka
-
----
-
-Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
-
-[Advit Tiple](https://www.linkedin.com/in/advittiple/)
-
----
 
 "Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
 
 To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore."
 
 [Ľubomíra Kapustová, Koučka](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
+
+---
+
+Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
+
+[Advit Tiple](https://www.linkedin.com/in/advittiple/)
 
 ---
 
@@ -94,6 +90,9 @@ Praxou koučovaním jednotlivcov a vo firmách ako [Siemens Healthineers](https:
 
 Ročné školenie v medzinárodnej federácii koučovania [ICF](https://coachingfederation.org/) realizované v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
 
+![](/images/coaching-absolvent.jpg)
+
+![](/images/GROWTH.pdf)
 
 <!-- {{% ako-konzultacie-prebiehaju %}} -->
 
