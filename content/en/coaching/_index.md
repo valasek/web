@@ -92,7 +92,7 @@ One-year training with the International Coaching Federation [ICF](https://coach
 
 ![](/images/coaching-absolvent.jpg)
 
-![](/images/GROWTH.pdf)
+![](/images/growth-certificate.png)
 
 <!-- {{% ako-konzultacie-prebiehaju %}} -->
 

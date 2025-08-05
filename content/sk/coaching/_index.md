@@ -91,7 +91,7 @@ Ročné školenie v medzinárodnej federácii koučovania [ICF](https://coaching
 
 ![](/images/coaching-absolvent.jpg)
 
-![](/images/GROWTH.pdf)
+![](/images/growth-certificate.png)
 
 <!-- {{% ako-konzultacie-prebiehaju %}} -->
 
