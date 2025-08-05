@@ -207,7 +207,7 @@ My story
 
 <div class="flex flex-col lg:flex-row items-center justify-center gap-6 lg:gap-8 py-4">
  <img src="/images/ulekare-logo.svg" class="h-10 w-auto object-contain">
- <img src="/images/siemens_healthineers_logo.svg.png" class="h-12 w-auto object-contain">
+ <img src="/images/siemens_healthineers_logo.png" class="h-12 w-auto object-contain">
  <img src="/images/Make-logo.png" class="h-12 w-auto object-contain">
  <img src="/images/Tietoevry_logo.png" class="h-10 w-auto object-contain">
 </div>
