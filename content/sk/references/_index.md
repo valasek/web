@@ -7,7 +7,9 @@ Chcete mi zanechať referenciu alebo ma kontaktovať?
 
 [Napíšte mi](/contact).
 
----
+## Neveríte mi? Vypočujte si ich!
+
+Nemusíte veriť tomu, čo hovorím. Prečítajte si, čo o spolupráci so mnou hovoria moji spokojní zákazníci:
 
 > Počas nášho mentoringového procesu mi Stanislav odovzdal množstvo užitočných nástrojov, techník a postrehov, ktoré mi pomohli ďalej rozvíjať moje zručnosti a sebauvedomenie.
 > 

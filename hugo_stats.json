@@ -46,13 +46,13 @@
       "ul"
     ],
     "classes": [
+      "!mb-4",
       "-mr-4",
       "-mt-[105px]",
       "[&.active]:font-bold",
       "[&.active]:text-black/90",
       "[&:not(dark)]:hidden",
       "[hyphens:auto]",
-      "active",
       "avatar",
       "avatar-wrapper",
       "bg-gray-100",
@@ -202,6 +202,7 @@
       "max-lg:[transform:translate3d(0,-100%,0)]",
       "max-w-6xl",
       "max-w-[65ch]",
+      "max-w-none",
       "max-w-prose",
       "max-w-screen-xl",
       "max-xl:hidden",
@@ -377,6 +378,7 @@
       "clients",
       "closing-notes",
       "coaching-app",
+      "dont-believe-me-listen-to-them",
       "education",
       "fakturačné-údaje",
       "hide-button",
@@ -395,6 +397,7 @@
       "najčastejšie-oblasti-s-ktorými-klienti-prichádzajú",
       "nav-menu",
       "nav-toggle",
+      "neveríte-mi-vypočujte-si-ich",
       "page-bg",
       "prečo-konzultácie-so-mnou",
       "prečo-so-mnou",
@@ -424,8 +427,7 @@
       "what-would-ikeep",
       "why-have-consultations-with-me",
       "why-work-with-me",
-      "your-authenticity-is-important",
-      "zvedavo-a-úprimne-sa-zaujímam-o-seba-iných-i-svet-okolo-seba"
+      "your-authenticity-is-important"
     ]
   }
 }

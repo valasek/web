@@ -7,8 +7,9 @@ Do you want to leave a reference or contact me?
 
 [Write me](/contact).
 
----
+## Don't believe me, listen to them!
 
+You don't need to believe what I am saing, read what my happy customers have to say about working with me:
 
 > During our mentoring journey, EmpowerHer shared with me a wealth of useful tools, techniques and insights that helped me further develop my skills and self-awareness.
 > 

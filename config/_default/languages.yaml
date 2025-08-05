@@ -9,15 +9,12 @@ sk:
   contentDir: content/sk
   menu:
    main:
-     - name: Úvod
-       url: '/'
-       weight: 1
      - name: Môj príbeh
        url: '/about'
-       weight: 2
+       weight: 1
      - name: Služby
        url: '/services'
-       weight: 3
+       weight: 2
      - name: Koučing
        parent: Služby
        url: '/coaching'
@@ -32,13 +29,13 @@ sk:
        weight: 3
      - name: Referencie
        url: '/references'
+       weight: 3
+     - name: Blog
+       url: '/blog'
        weight: 4
-    #  - name: Blog
-    #    url: '/blog'
-    #    weight: 5
      - name: Kontakt
        url: '/contact'
-       weight: 6
+       weight: 5
 
 
 # Uncomment the lines below to configure your website in a second language.
@@ -59,17 +56,17 @@ en:
     main:
       - name: My Story
         url: '/about'
-        weight: 2
+        weight: 1
       - name: Services
         url: '/services'
-        weight: 3
+        weight: 2
       - name: Coaching
         parent: Services
-        url: '/en/coaching'
+        url: '/coaching'
         weight: 1
       - name: Mentoring
         parent: Services
-        url: '/en/mentoring'
+        url: '/mentoring'
         weight: 2
       - name: Trainings
         parent: Services
@@ -77,10 +74,10 @@ en:
         weight: 3
       - name: References
         url: '/references'
-        weight: 4
+        weight: 3
       - name: Blog
-        url: 'blog'
-        weight: 5
+        url: '/blog'
+        weight: 4
       - name: Contact
         url: '/contact'
-        weight: 6
+        weight: 5
