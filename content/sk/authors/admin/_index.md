@@ -17,7 +17,7 @@ last_name: Valášek
 superuser: true
 
 # Role/position/tagline
-role: kouč - mentor
+role: <a href="coaching">kouč</a> - <a href="mentoring">mentor</a><br/>tvorca <a href="https://kicoma.stanislavvalasek.com/">KiCoMa</a> a <a href="https://findacoach.eu/">Find a Coach</a><br/>Scrum master a manažér v Siemens Healthineers
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:

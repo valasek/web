@@ -17,7 +17,7 @@ last_name: Valasek
 superuser: true
 
 # Role/position/tagline
-role: coach - mentor
+role: <a href="coaching">coach</a> - <a href="mentoring">mentor</a><br/>creator of  <a href="https://kicoma.stanislavvalasek.com/">KiCoMa</a> and <a href="https://findacoach.eu/">Find a Coach</a><br/>Scrum master and manager in Siemens Healthineers
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:

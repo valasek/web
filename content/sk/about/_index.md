@@ -36,7 +36,7 @@ Ak máš pred sebou výzvu, problém, potrebuješ skutočne dobre zvážiť a ro
 
 ### Moje vzdelanie a certifikácie zahŕňajú:
 
-- Prebiehajúce štúdium na [ICF](https://coachingfederation.org/) akreditovaného kouča úrovne ACC v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 - 2025)
+- [ICF](https://coachingfederation.org/) akreditovaný kouč úrovne ACC v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 - 2025)
 - [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
 - [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure (2022)
 - Ročný kurz managementu pod vedením Jána Hausmanna (2022)
@@ -44,8 +44,10 @@ Ak máš pred sebou výzvu, problém, potrebuješ skutočne dobre zvážiť a ro
 
 ---
 
-Aby som zostal v kontakte s najnovšími trendmi, občas sa venujem aj programovaniu. Ak vás zaujíma môj softwarový vývoj, nájdete ukážky mojej práce na [GitHub](https://github.com/valasek/).
+Keďže som myseľ zvedavá, som v kontakte s najnovšími trendmi, venujem sa seba-rozvoju, AI i  programovaniu.
 
-Aktuálne pracujem na SW na evidenciu klientov a koučovacích sedení pre seba. V súčasnosti je zdarma dostupný všetkým koučom - www.findacoach.eu.
+Ak vás zaujíma môj softwarový vývoj, nájdete ukážky mojej práce na [GitHub](https://github.com/valasek/). Aktuálne pracujem na:
+- SW na evidenciu klientov a koučovacích sedení. V súčasnosti zdarma dostupný - www.findacoach.eu.
+- SW pre správu skladu i receptov v kuchyni, ktorý je využívaný hospicom v Čechách - [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
 
 > Som tu, aby som vám pomohol rásť, prekonávať prekážky a dosahovať vaše ciele. Poďme spolu objaviť váš potenciál!

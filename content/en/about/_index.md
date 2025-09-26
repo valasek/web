@@ -39,7 +39,7 @@ If you’re facing a challenge, stuck with a decision, or unsure about your next
 
 ### My education and certifications include:
 
-* Ongoing study toward ICF-accredited ACC-level coach at [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 - 2025)
+* ICF-accredited ACC-level coach at [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 - 2025)
 * [CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
 * [LeaderShip](https://souladventure.cz/souladventure-leadership/), SoulAdventure (2022)
 * One-year management course led by Ján Hausmann (2022)
@@ -47,8 +47,10 @@ If you’re facing a challenge, stuck with a decision, or unsure about your next
 
 ---
 
-To stay connected with new trends, I still code from time to time. You can find my software work on [GitHub](https://github.com/valasek/).
+Since I am a curious mind, I stay in touch with the latest trends, focusing on self-development, AI, and programming.
 
-Right now, I’m developing software to track my coaching clients and sessions. It’s currently free for all coaches at [www.findacoach.eu](http://www.findacoach.eu).
+If you are interested in my software development, you can find examples of my work on [GitHub](https://github.com/valasek/). I am currently working on:
+- Software for recording clients and coaching sessions. Currently available for free – www.findacoach.eu.
+- Software for managing kitchen inventory and recipes, which is used by a hospice in the Czech Republic – [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
 
 > I’m here to help you grow, overcome challenges, and reach your goals. Let’s explore your potential together!
