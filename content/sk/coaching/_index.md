@@ -53,11 +53,10 @@ Súčasnú cenu mám 70 €/hod. Nie som platcom DPH.
 
 Mentoring môžete absolvovať online alebo vo vašej firme. Po dohode je možné mať stretnutie i na inom mieste.
 
-{{% callout note %}}
-[Mentoring](/mentoring) alebo koučing? Čo si mám vybrať?
-
-[Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
-{{% /callout %}}
+> [!NOTE]
+> [Mentoring](/mentoring) alebo koučing? Čo si mám vybrať?
+>
+> [Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
 
 #### Referencie
 

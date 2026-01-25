@@ -282,7 +282,7 @@
 # Published with
 
 - id: published_with
-  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: "{hugoblox} Published with {hugo} and {blox}"
 
 # Feedback widget
 
@@ -297,3 +297,6 @@
 
 - id: feedback_widget_answer_negative
   translation: 😡 No
+
+- id: callout_note
+  translation: Poznámka

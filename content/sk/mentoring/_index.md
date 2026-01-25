@@ -40,11 +40,10 @@ Súčasnú cenu mám 70 € / hod. Nie som platcom DPH.
 ### Priestory
 Mentoring môžete absolvovať online, vo vašej firme, po dohode je možné mať stretnutie i na inom mieste.
 
-{{% callout note %}}
-Mentoring alebo [koučing](/coaching)? Čo si mám vybrať?
-
-[Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
-{{% /callout %}}
+> [!NOTE]
+> Mentoring alebo [koučing](/coaching)? Čo si mám vybrať?
+>
+> [Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
 
 <!-- {{% ako-konzultacie-prebiehaju %}} -->
 

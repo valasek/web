@@ -54,11 +54,10 @@ My current rate is 70 € / hour. I’m not a VAT payer.
 
 Coaching sessions can be online or at your workplace. Other meeting locations can be arranged upon request.
 
-{{% callout note %}}
-[Mentoring](/en/mentoring) or coaching? What should I choose?
-
-[Contact me](/en/contact). We can have an informal talk and go over your topic and the best method for it.
-{{% /callout %}}
+> [!NOTE]
+> [Mentoring](/en/mentoring) or coaching? What should I choose?
+>
+> [Contact me](/en/contact). We can have an informal talk and go over your topic and the best method for it.
 
 #### Testimonials
 

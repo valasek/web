@@ -41,11 +41,10 @@ My current rate is 70 € / hour. I’m not a VAT payer.
 
 Mentoring can be done online, in your company, or — if agreed — at another place.
 
-{{% callout note %}}
-Mentoring or [coaching](/en/coaching)? What should I choose?
-
-[Contact me](/en/contact). We can have an informal talk and go over your topic and the right approach.
-{{% /callout %}}
+> [!NOTE]
+> Mentoring or [coaching](/en/coaching)? What should I choose?
+>
+> [Contact me](/en/contact). We can have an informal talk and go over your topic and the right approach.
 
 <!-- {{% ako-konzultacie-prebiehaju %}} -->
 

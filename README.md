@@ -20,6 +20,9 @@ hugo server
 
 Custom css styles are stored in /assets/css
 
+[HugoBlox Documentation](https://docs.hugoblox.com/)
+[New Blox docs](https://github.com/HugoBlox/kit/tree/main/modules/blox/blox)
+
 ## ToDo
 
 Doplnit testimoials podla awards / https://github.com/HugoBlox/hugo-blox-builder/blob/4f621dfa3a5ab798bea17ad2760bd61815c76f25/modules/blox-tailwind/layouts/partials/blox/resume-awards.html#L37

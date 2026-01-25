@@ -13,7 +13,7 @@ design:
 sections:
   - block: biography
     content:
-      username: admin
+      username: admin-en
       # Show a call-to-action button under your biography? (optional)
 #       button:
 #         text: Download
@@ -25,6 +25,27 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: center; font-size: 0.8em;'
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: rounded # Options: circle (default), square, rounded
+  - block: motto
+    content:
+      title: "Your authenticity is important"
+      text: The most we can give to the world is to express ourselves fully. In everything we do. In our own way. We have it within us. Sometimes we are ready and brave, sometimes not. We lack resources. A coach can help find them.
+      link: /about
+      name: "My Story"
+  - block: clients
+    content:
+      title: "Clients"
+      items:
+        - name: "uLékaře.cz"
+          logo: "ulekare-logo.svg"
+        - name: "Siemens Healthineers"
+          logo: "siemens-healthineers-logo.png"
+        - name: "Make"
+          logo: "make-logo.png"
+        - name: "Tietoevry"
+          logo: "tietoevry-logo.png"
 #   - block: experience
 #     content:
 #       username: admin

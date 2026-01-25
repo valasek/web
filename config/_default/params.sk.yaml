@@ -1,0 +1,14 @@
+
+hugoblox:
+  
+  identity:
+    name: "Stanislav Valášek"
+    description: "Osobné stránky, koučing, mentoring, agilný vývoj, scrum, manažérske nástroje, komunikácia, Stanislav Valášek"
+
+  copyright:
+    notice: '© {year} Stanislav Valášek'
+
+  locale:
+    date_format: "2.1.2006"
+    time_format: "15:04"
+    address_format: en-us
