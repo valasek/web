@@ -12,10 +12,11 @@ valasek@gmail.com<br/>
 
 ### Invoicing details
 
-Ing. Stanislav Valasek<br/>
-Moskovská 12, 811 08, Bratislava, Slovakia<br/>
-IČO: 56319266<br/>
-DIČ 1074496654
+Stanislav Valasek<br/>
+Za sokolovnou 3, 811 04, Bratislava, Slovakia<br/>
+Reg. No: 56319266<br/>
+Tax ID: 1074496654<br/>
+VAT: SK1074496654
 
 ### Bank contacts
 

@@ -20,9 +20,9 @@ date: 2023-10-24
 
 Som manažér s bohatými skúsenosťami v IT sektore a som pripravený vám poskytnúť cenné pohľady, skúsenosti a podporu. Moje pôsobenie zahŕňa významné pozície v spoločnostiach ako [Siemens Healthineers](https://www.siemens-healthineers.com), [NESS](https://www.ness.com/ness-czech/), [Ataccama](https://www.ataccama.com/) či [uLékaře.cz](https://www.ulekare.cz/), kde som sa venoval riadeniu projektov, vedeniu tímov a agilnej transformácii.
 
-Ak vás zaujíma viac o mojej profesionálnej dráhe, nájdete všetky podrobnosti na mojom [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)dIn profile.
+Ak vás zaujíma viac o mojej profesionálnej dráhe, nájdete všetky podrobnosti na mojom [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/) profile.
 
-![](/images/Stanislav%20Valasek.HEIC)
+![](/images/Stanislav_Valasek.jpg)
 
 Posledných 5 rokov som zažil v súkromnom i pracovnom živote mnoho zmien.
 

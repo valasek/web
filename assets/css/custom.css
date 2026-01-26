@@ -6,3 +6,17 @@
     visibility: hidden !important;
     opacity: 0 !important;
 }
+
+@media (max-width: 768px) {
+  /* Globálny padding pre text na mobiloch */
+  div.page-body {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  /* Reset pre biografiu - vytiahne ju von z paddingu */
+  #section-resume-biography {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+  }
+}

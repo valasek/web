@@ -11,8 +11,8 @@ valasek@gmail.com<br/>
 ---
 
 ### Fakturačné údaje
-Ing. Stanislav Valášek<br/>
-Moskovská 12, 811 08 Bratislava<br/>
+Stanislav Valášek<br/>
+Za sokolovňou 3, 811 04, Bratislava<br/>
 IČO: 56319266<br/>
 DIČ: 1074496654
 

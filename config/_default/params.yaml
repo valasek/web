@@ -117,7 +117,7 @@ hugoblox:
     notice: '© {year} Stanislav Valasek'
     license:
       type: cc                          # cc | custom
-      # enable: false
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

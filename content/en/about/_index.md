@@ -25,7 +25,7 @@ I’ve worked in leadership roles at companies like [Siemens Healthineers](https
 
 You can read more about my professional background on my [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/) profile.
 
-![](/images/Stanislav%20Valasek.HEIC)
+![](/images/Stanislav_Valasek.jpg)
 
 In the past 5 years, I’ve gone through many changes — both personally and professionally.
 

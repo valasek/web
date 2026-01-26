@@ -17,6 +17,7 @@ Copyright 2020-present [Stanislav Valasek](www.stanislavvalasek.com)
 hugo mod clean
 hugo mod get -u ./...
 hugo server
+hugo server --disableFastRender
 
 Custom css styles are stored in /assets/css
 
