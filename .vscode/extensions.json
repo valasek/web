@@ -1,5 +1,3 @@
 {
-  "recommendations": [
-    "lore.lore-studio"
-  ]
+  "recommendations": ["ownable.ownable"]
 }
