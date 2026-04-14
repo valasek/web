@@ -6,7 +6,7 @@ Personal website of [Stanislav Valasek](www.stanislavvalasek.com).
 
 ## Standing on the shoulded of giants
 
-Static page generator [Hugo](https://gohugo.io/) using [**HugoBlox**](https://hugoblox.com/) hosted on [Netlify](https://www.netlify.com/).
+Static page generator [Hugo](https://gohugo.io/) using [**HugoBlox**](https://hugoblox.com/) - resume theme, hosted on [Netlify](https://www.netlify.com/).
 
 ## License
 
@@ -14,15 +14,19 @@ Copyright 2020-present [Stanislav Valasek](www.stanislavvalasek.com)
 
 ## Usefull commands
 
+```
 hugo mod clean
 hugo mod get -u ./...
 hugo server
 hugo server --disableFastRender
+```
 
 Custom css styles are stored in /assets/css
 
-[HugoBlox Documentation](https://docs.hugoblox.com/)
+[HugoBlox Documentation](https://docs.ownable.dev/hugoblox/)
 [New Blox docs](https://github.com/HugoBlox/kit/tree/main/modules/blox/blox)
+
+[HugoBlox template source code](https://github.com/HugoBlox/kit/tree/main/templates/resume)
 
 ## ToDo
 
