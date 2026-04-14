@@ -24,7 +24,7 @@ Ak vás zaujíma viac o mojej profesionálnej dráhe, nájdete všetky podrobnos
 
 ![](/images/Stanislav_Valasek.jpg)
 
-Posledných 5 rokov som zažil v súkromnom i pracovnom živote mnoho zmien.
+Posledných 10 rokov som zažil v súkromnom i pracovnom živote mnoho zmien.
 
 Presunul som za z Čiech na Slovensko, začal sa profesionálne venovať koučingu i mentoringu manažérov.
 

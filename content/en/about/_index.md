@@ -14,7 +14,7 @@ date: 2023-10-24
 >
 > It brings me real joy when I or others can express ourselves clearly.
 >
-> What I enjoy the most is supporting people who are ready for change.
+> What I enjoy the most is guiding people who are ready for change.
 > Some want to change their inner attitudes or principles — I help them as a coach.
 > Others want to improve how they communicate or take responsibility in their team — I support them through career mentoring or management mentoring.
 >
