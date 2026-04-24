@@ -53,7 +53,7 @@ I have been supported by many teachers, their workshops, and various self-develo
 
 The most important ones, starting from the most recent:
 
-  * A 1.5-year coaching certification at [Business Coaching College](https://www.koucovaciaskola.sk/), led by [Zuzana Karpinská](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska) and [Denisa Kmecová](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska).
+  * A 1.5-year coaching certification at [Business Coaching College](https://www.koucovaciaskola.sk/), led by [Zuzana Karpinská](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska) and [Denisa Kmecová](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska), finished by [ICF ACC certification](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
 
   * 5 years of ongoing training (ranging from monthly sessions to daily practice) with [Elias Bohunický](https://www.dojo.sk/elias-bohunicky). This training covered: process-oriented psychology, craniosacral therapy, systemic constellations, working with shame, circle facilitation, men's circles, and martial arts.
 
@@ -79,7 +79,7 @@ If you are facing a challenge, a problem, need to carefully weigh your options t
 
 ### My Further Education and Certifications Include:
 
-  * [ICF](https://coachingfederation.org/) Accredited Coach (ACC level) via [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2025)
+  * [Associate Certified Coach (ACC)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871) via [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2026)
   * [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
   * [Spirála LeaderShipu](https://souladventure.cz/uvod/soul-skills-pro-firmy/), [SoulAdventure](https://souladventure.cz) (2022)
   * Year-long Management Course led by Ján Hausmann (2022)

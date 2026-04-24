@@ -87,7 +87,9 @@ Coaching sessions can be online or at your workplace. Other meeting locations ca
 
 Experience coaching individuals and companies such as [Siemens Healthineers](https://www.siemens-healthineers.com/sk), [Tietoevry](https://www.tietoevry.com/en/), [Make](https://www.make.com), [uLékaře.cz](https://www.ulekare.cz).
 
-One-year training with the International Coaching Federation [ICF](https://coachingfederation.org/) delivered by [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
+One-year training with the International Coaching Federation [ICF](https://coachingfederation.org/) delivered by [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing), finished by certifikáciou [IFC ACC certification](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
+
+[![](/images/associate-certified-coach-acc.png)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871)
 
 ![](/images/coaching-absolvent.jpg)
 
