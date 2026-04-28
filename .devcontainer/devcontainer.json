@@ -14,7 +14,7 @@
       "nodeGypDependencies": false
     }
   },
-  "postCreateCommand": "npm install && hugo mod get ./...",
+  "postCreateCommand": "rm -rf node_modules package-lock.json && npm install && hugo mod get ./...",
   "postStartCommand": "hugo server --bind 0.0.0.0 --disableFastRender",
   "customizations": {
     "vscode": {
