@@ -106,7 +106,7 @@ Asi po ďalších 30 minútach sa novinka, už s chybou (kto mal snežnice a kto
 
 ## Pár fotiek
 
-Prvá lavína, tá po nás nedošla.
+Už spadnutá lavína okolo ktorej sme prechádzali.
 ![](blog/avalanche/images/avalanche2.jpeg)
 
 Toto už je naša lavína.
