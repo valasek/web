@@ -48,7 +48,7 @@ Tým sa začalo moje putovanie a hľadanie mojej "živej" časti mňa, ktoré po
 
 V priebehu tohto obdobia som zažil mnohé. Veci, na ktoré som hrdý, i také, ktoré by som najradšej nikomu nehovoril.
 
-Prešiel som rozvodom, majetkovým vysporiadaním. Z Čiech som sa presťahoval na Slovensko. Zmenil prácu, mnohé sa naučil, mnohé prijal i mnohé pustil. Znovu som sa oženil a s manželkou čakáme spolu dcéru.
+Prešiel som rozvodom, majetkovým vysporiadaním. Z Čiech som sa presťahoval na Slovensko. Zmenil prácu, mnohé sa naučil, mnohé prijal i mnohé pustil. Znovu som sa oženil a s manželkou vychovávame našu malú dcéru.
 
 Podporou mi boli mnohí učitelia, ich školenia a sebarozvojové i terapeutické programy.
 

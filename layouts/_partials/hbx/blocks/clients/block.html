@@ -13,6 +13,9 @@
         <div class="flex flex-col items-center px-6 py-4">
           {{ $image := resources.Get (printf "media/logos/%s" .logo) }}
           {{ if $image }}
+              {{ with .crop }}
+                {{ $image = $image.Crop . }}
+              {{ end }}
               <img src="{{ $image.RelPermalink }}" alt="{{ .name }}" class="h-12 w-auto object-contain dark:brightness-0 dark:invert">
           {{ else }}
             <span class="text-gray-900 dark:text-white font-medium">{{ .name }}</span>

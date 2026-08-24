@@ -47,7 +47,7 @@ That marked the beginning of my journey to find the "living" part of myself—a 
 
 During this period, I’ve experienced many things. There are things I am proud of, and others I’d rather not tell anyone.
 
-I went through a divorce and a property settlement. I moved from the Czech Republic to Slovakia. I changed jobs, learned much, accepted much, and let go of much. I have since remarried, and my wife and I are expecting a daughter together.
+I went through a divorce and a property settlement. I moved from the Czech Republic to Slovakia. I changed jobs, learned much, accepted much, and let go of much. I have since remarried, and my wife and I are raising our newborn daughter.
 
 I have been supported by many teachers, their workshops, and various self-development and therapeutic programs.
 

@@ -47,6 +47,12 @@ sections:
           logo: "make-logo.png"
         - name: "Tietoevry"
           logo: "tietoevry-logo.png"
+        - name: "Tipsport"
+          logo: "tipsport-logo.png"
+          crop: "290x61 center"
+        - name: "FormFactory"
+          logo: "formfactory-logo.png"
+          crop: "252x50 center"
   # - block: experience
   #   content:
   #     username: admin

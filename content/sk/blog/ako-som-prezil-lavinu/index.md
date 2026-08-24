@@ -107,19 +107,19 @@ Asi po ďalších 30 minútach sa novinka, už s chybou (kto mal snežnice a kto
 ## Pár fotiek
 
 Už spadnutá lavína okolo ktorej sme prechádzali.
-![](blog/avalanche/images/avalanche2.jpeg)
+![Široký horský svah pod Grosser Priel s veľkým nánosom už zosunutej lavíny, ktorý pretína trasu výstupu. Sneh je rozbitý na hrudky a valy, okolo sú strmé skalnaté steny a zimná vysokohorská krajina. Záber pôsobí varovne a pripomína silu prírodných podmienok.](blog/avalanche/images/avalanche2.jpeg)
 
 Toto už je naša lavína.
-![](blog/avalanche/images/avalanche1.jpeg)
+![Čerstvé lavínové pole pod strmým svahom, kde masa snehu zaplnila žľab a rozliala sa po úbočí. V pozadí sú vysoké alpské vrchy a jasné nebo, v popredí nerovný stlačený sneh po zosuve. Atmosféra je napätá a ukazuje bezprostredné nebezpečenstvo po páde lavíny.](blog/avalanche/images/avalanche1.jpeg)
 
 A my v nej. Volám s chatou a dohadujem vrtuľník záchrannej služby.
-![](blog/avalanche/images/avalanche5.jpeg)
+![Skupina ľudí stojí na lavínisku v strmom horskom teréne, jeden človek telefonuje a koordinuje privolanie vrtuľníka. Okolo nich je rozhádzaný tvrdý sneh po zosuve a nad nimi sa dvíhajú svahy Totes Gebirge. Záber pôsobí sústredene a krízovo, no cítiť aj úľavu že všetci sú na povrchu.](blog/avalanche/images/avalanche5.jpeg)
 
 Záznam z mojich Coros Vertix hodiniek – takže presne viem, koľko výškových metrov nás vzala.
-![](blog/avalanche/images/avalanche3.jpeg)
+![Fotografia displeja športových hodiniek Coros Vertix so záznamom trasy a výškového profilu výstupu a následného pádu v lavíne. Na obrazovke sú grafické údaje a číselné metriky aktivity, ktoré dokumentujú stratu výšky približne o desiatky metrov. Okolie je interiér alebo blízky záber ruky s hodinkami, tón je analytický a dokumentačný.](blog/avalanche/images/avalanche3.jpeg)
 
 A toto je foto už od chaty.
-![](blog/avalanche/images/avalanche4.jpeg)
+![Pohľad od chaty na zasnežené alpské svahy a údolie pod Grosser Priel, kde je viditeľný terén po lavínovej aktivite. Scéna ukazuje široké horské prostredie s bielymi plochami snehu a tmavými skalami. Atmosféra je pokojnejšia po udalosti, s pocitom odstupu a reflexie.](blog/avalanche/images/avalanche4.jpeg)
 
 ---
 
