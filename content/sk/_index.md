@@ -38,6 +38,12 @@ sections:
   - block: clients
     content:
       title: "Klienti"
+      quote: "Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu."
+      quote_author: "Rajneesh Handa"
+      quote_role: "Business Head, Siemens Healthineers"
+      hours_caption: "hodín koučingu a mentoringu"
+      references_link: "/references/"
+      references_label: "Pozrieť referencie"
       items:
         - name: "uLékaře.cz"
           logo: "ulekare-logo.svg"

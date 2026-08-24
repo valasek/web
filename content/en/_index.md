@@ -37,6 +37,12 @@ sections:
   - block: clients
     content:
       title: "Clients"
+      quote: "Your questions drew me into the discussion and helped me find my way toward the goal."
+      quote_author: "Rajneesh Handa"
+      quote_role: "Business Head, Siemens Healthineers"
+      hours_caption: "hours of coaching and mentoring"
+      references_link: "/en/references/"
+      references_label: "View references"
       items:
         - name: "uLékaře.cz"
           logo: "ulekare-logo.svg"
@@ -46,6 +52,12 @@ sections:
           logo: "make-logo.png"
         - name: "Tietoevry"
           logo: "tietoevry-logo.png"
+        - name: "Tipsport"
+          logo: "tipsport-logo.png"
+          crop: "290x61 center"
+        - name: "FormFactory"
+          logo: "formfactory-logo.png"
+          crop: "252x50 center"
 #   - block: experience
 #     content:
 #       username: admin
