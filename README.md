@@ -31,3 +31,19 @@ Custom css styles are stored in /assets/css
 ## ToDo
 
 Doplnit testimoials podla awards / https://github.com/HugoBlox/hugo-blox-builder/blob/4f621dfa3a5ab798bea17ad2760bd61815c76f25/modules/blox-tailwind/layouts/partials/blox/resume-awards.html#L37
+
+# Update
+
+## Hugo
+
+Update hugo version in the following files:
+devcontainer.json:7
+netlify.toml:24
+hugoblox.yaml:2
+
+and rebuild
+
+hugo mod get -u
+hugo mod tidy
+pnpm update
+pnpm run build
