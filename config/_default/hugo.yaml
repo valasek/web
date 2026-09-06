@@ -35,8 +35,6 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
-permalinks:
-  authors: '/author/:slug/'
 disableAliases: true
 outputs:
   # LLM is the blox module's llms.txt format - keep it when overriding `home`
@@ -48,10 +46,9 @@ imaging:
   anchor: smart
   hint: picture
 timeout: 600000
-taxonomies:
-  author: authors
-  tag: tags
-  publication_type: publication_types
+# No taxonomies: nothing in content/ is tagged, so tag/author term pages would
+# only add empty, crawlable URLs. Re-add here if posts start using them.
+taxonomies: {}
 markup:
   _merge: deep
   highlight:

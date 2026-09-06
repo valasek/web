@@ -300,3 +300,16 @@
 
 - id: callout_note
   translation: Poznámka
+
+# Search result type labels
+- id: questions
+  translation: Otázky
+
+- id: faq
+  translation: Časté otázky
+
+- id: docs
+  translation: Dokumentácia
+
+- id: poweredby_button
+  translation: Vytvorené v Hugo Blox

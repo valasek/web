@@ -1,0 +1,8 @@
+{{- /* Overrides the theme's bare robots.txt. Policy mirrors hugoblox.seo.ai in params.yaml. */ -}}
+# All crawlers, including AI training and AI answer engines, are welcome.
+# See {{ "llms.txt" | absURL }} for content guidance.
+
+User-agent: *
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}

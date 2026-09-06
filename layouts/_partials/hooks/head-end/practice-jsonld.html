@@ -1,0 +1,97 @@
+{{- /* Person + ProfessionalService schema. The blox module emits neither when identity.type is `person`. */ -}}
+{{- $p := site.Params.practice -}}
+{{- if and $p $p.enable -}}
+  {{- $home := site.Home.Permalink -}}
+  {{- $personID := printf "%s#person" $home -}}
+  {{- $practiceID := printf "%s#practice" $home -}}
+
+  {{- /* Resolve each service against the current language's page tree */ -}}
+  {{- $services := slice -}}
+  {{- range $p.services -}}
+    {{- $svc := . -}}
+    {{- with site.GetPage $svc.url -}}
+      {{- $services = $services | append (dict
+          "id" (printf "%s#service" .Permalink)
+          "url" .Permalink
+          "relPermalink" .RelPermalink
+          "name" $svc.name
+          "description" $svc.description
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $graph := slice -}}
+  {{- if .IsHome -}}
+    {{- $person := dict
+        "@type" "Person"
+        "@id" $personID
+        "name" $p.founder
+        "jobTitle" $p.job_title
+        "url" $home
+        "knowsLanguage" $p.languages
+    -}}
+    {{- with $p.same_as }}{{ $person = merge $person (dict "sameAs" .) }}{{ end -}}
+
+    {{- $offers := slice -}}
+    {{- range $services -}}
+      {{- $offers = $offers | append (dict
+          "@type" "Offer"
+          "itemOffered" (dict
+            "@type" "Service"
+            "@id" .id
+            "name" .name
+            "description" .description
+            "url" .url
+            "serviceType" .name
+            "provider" (dict "@id" $practiceID)
+            "areaServed" $p.area_served
+          )
+      ) -}}
+    {{- end -}}
+
+    {{- $practice := dict
+        "@type" "ProfessionalService"
+        "@id" $practiceID
+        "name" $p.name
+        "description" $p.description
+        "url" $home
+        "founder" (dict "@id" $personID)
+        "provider" (dict "@id" $personID)
+        "areaServed" $p.area_served
+        "availableLanguage" $p.languages
+        "address" (dict "@type" "PostalAddress" "addressLocality" $p.city "addressCountry" $p.country)
+    -}}
+    {{- with $p.email }}{{ $practice = merge $practice (dict "email" .) }}{{ end -}}
+    {{- with $p.telephone }}{{ $practice = merge $practice (dict "telephone" .) }}{{ end -}}
+    {{- with $offers -}}
+      {{- $practice = merge $practice (dict "hasOfferCatalog" (dict
+          "@type" "OfferCatalog"
+          "name" $p.name
+          "itemListElement" .
+      )) -}}
+    {{- end -}}
+
+    {{- $graph = slice $person $practice -}}
+  {{- else -}}
+    {{- range $services -}}
+      {{- if eq $.RelPermalink .relPermalink -}}
+        {{- $graph = slice (dict
+            "@type" "Service"
+            "@id" .id
+            "name" .name
+            "description" .description
+            "url" .url
+            "serviceType" .name
+            "provider" (dict "@id" $practiceID)
+            "areaServed" $p.area_served
+            "availableLanguage" $p.languages
+        ) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with $graph }}
+    {{- /* safeJS: html/template would otherwise re-encode the JSON as a JS string literal */ -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" . | jsonify | safeJS }}</script>
+  {{- end -}}
+{{- end -}}

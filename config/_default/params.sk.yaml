@@ -8,7 +8,30 @@ hugoblox:
   copyright:
     notice: '© {year} Stanislav Valášek'
 
+  search:
+    suggestions:
+      - "koučing"
+      - "mentoring"
+      - "školenia"
+
   locale:
     date_format: "2.1.2006"
     time_format: "15:04"
     address_format: en-us
+
+practice:
+  name: "Stanislav Valášek – koučing, mentoring a školenia"
+  description: "Certifikovaný kouč (ICF ACC), mentor pre manažérov a lektor komunikačných a manažérskych zručností. Pôsobím v Bratislave, na Slovensku aj v Česku a online kdekoľvek."
+  founder: "Stanislav Valášek"
+  job_title: "Kouč (ICF ACC), mentor a lektor"
+  area_served: ["Slovensko", "Česko", "Celosvetovo (online)"]
+  services:
+    - name: "Koučing"
+      url: "/coaching/"
+      description: "Koučing pre jednotlivcov aj tímy – zmena správania, vnútorná motivácia, kariérny rozvoj, rovnováha medzi prácou a životom a výkonnosť tímu."
+    - name: "Mentoring"
+      url: "/mentoring/"
+      description: "Mentoring pre manažérov a tímy – vedenie ľudí, spätná väzba, kariérne plánovanie, delegovanie a fungovanie v korporátnom prostredí."
+    - name: "Školenia"
+      url: "/trainings/"
+      description: "Školenia komunikačných a manažérskych zručností – základné manažérske minimum, spolupráca v tímoch a firemná kultúra."

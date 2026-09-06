@@ -171,8 +171,11 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   search:
     enable: true
-    # Trending/suggested search terms
-    suggestions: []
+    # Trending/suggested search terms - falls back to "Search term 1/2" demo text if empty
+    suggestions:
+      - "coaching"
+      - "mentoring"
+      - "trainings"
     # Quick action shortcuts in search modal
     quick_actions: []
 
@@ -266,8 +269,40 @@ hugoblox:
   # Development and debugging (hidden in production)
   # ────────────────────────────────────────────────────────────────────────────
   debug:
-    enable: true
+    enable: false
     hud:
       position: bottom-left             # top-left | top-right | bottom-left | bottom-right
       opacity: 1.0
     export_logs: true
+
+# ══════════════════════════════════════════════════════════════════════════════
+# PRACTICE
+# Structured data (schema.org) for the coaching practice.
+# Rendered by layouts/_partials/hooks/head-end/practice-jsonld.html
+# Translated in params.sk.yaml
+# ══════════════════════════════════════════════════════════════════════════════
+practice:
+  enable: true
+  name: "Stanislav Valasek - Coaching, Mentoring & Trainings"
+  description: "ICF ACC certified coach, mentor for managers, and trainer in communication and management skills. Based in Bratislava, working across Slovakia and Czechia and online worldwide."
+  founder: "Stanislav Valasek"
+  job_title: "Coach (ICF ACC), Mentor and Trainer"
+  email: "valasek@gmail.com"
+  telephone: "+421949888634"
+  city: "Bratislava"
+  country: "SK"
+  languages: ["sk", "cs", "en"]
+  area_served: ["Slovakia", "Czechia", "Worldwide (online)"]
+  same_as:
+    - "https://www.linkedin.com/in/stanislavvalasek/"
+  # Each service also emits a Service node on its own page
+  services:
+    - name: "Coaching"
+      url: "/coaching/"
+      description: "Coaching for individuals and teams - changing behaviour, finding intrinsic motivation, career development, work-life balance and team performance."
+    - name: "Mentoring"
+      url: "/mentoring/"
+      description: "Mentoring for managers and teams - leading people, feedback, career planning, delegation and thriving in a corporate environment."
+    - name: "Trainings"
+      url: "/trainings/"
+      description: "Communication and management skills trainings - team management essentials, collaboration in teams and company culture."

@@ -4,7 +4,7 @@
 
 # Default language
 sk:
-  languageCode: sk-sk
+  locale: sk-SK
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/sk
   menu:
@@ -40,7 +40,7 @@ sk:
 
 # Uncomment the lines below to configure your website in a second language.
 en:
-  languageCode: en-us
+  locale: en-US
   contentDir: content/en
   title: Stanislav Valasek
   params:

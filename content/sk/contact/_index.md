@@ -1,7 +1,7 @@
 ---
 title: 'Kontakty na mňa'
 date: 2023-10-24
-description: 'Kontakt na Stanislava Valáška – e-mail, telefón, WhatsApp, LinkedIn a fakturačné údaje.'
+description: 'Kontakt na Stanislava Valáška – e-mail, telefón, WhatsApp a LinkedIn.'
 aliases:
   - /kontakt/
 ---
@@ -15,13 +15,7 @@ valasek@gmail.com<br/>
 
 ### Fakturačné údaje
 Stanislav Valášek<br/>
-Za sokolovňou 3, 811 04, Bratislava<br/>
 IČO: 56319266<br/>
 DIČ: 1074496654
 
-### Bankové spojenie
-
-IBAN: SK4111000000002935840178<br/>
-Názov účtu: Valášek Stanislav<br/>
-SWIFT: TATRSKBX<br/>
-Názov banky: Tatra banka, a.s.
+Kompletné fakturačné a bankové údaje uvádzam na faktúre. Ak ich potrebujete vopred, [napíšte mi](mailto:valasek@gmail.com).
