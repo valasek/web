@@ -1,7 +1,7 @@
 ---
 title: 'Mentoring'
 date: 2023-10-24
-
+description: 'Mentoring pre manažérov a tímy – vedenie ľudí, spätná väzba, kariérne plánovanie, delegovanie a fungovanie v korporátnom prostredí.'
 ---
 
 ### Mentorujem jednotlivcov aj tímy

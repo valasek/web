@@ -14,7 +14,7 @@
       "nodeGypDependencies": false
     }
   },
-  "postCreateCommand": "rm -rf node_modules package-lock.json && npm install && hugo mod get ./...",
+  "postCreateCommand": "corepack enable && pnpm install --frozen-lockfile && hugo mod get ./...",
   "postStartCommand": "hugo server --bind 0.0.0.0 --disableFastRender",
   "customizations": {
     "vscode": {

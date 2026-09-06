@@ -144,8 +144,8 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      note: "Personal site of Stanislav Valasek - ICF ACC coach, mentor and trainer for managers and teams. Content is published in Slovak (/) and English (/en/)."
+      contact: "valasek@gmail.com"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
@@ -250,7 +250,7 @@ hugoblox:
     csp:
       policy: ""
       report_only: false
-    frame_options: allow                 # deny | sameorigin | allow - allow enables iframe embedding
+    frame_options: sameorigin           # deny | sameorigin | allow - allow enables iframe embedding
     permissions_policy: ""
 
   # ────────────────────────────────────────────────────────────────────────────

@@ -1,6 +1,7 @@
 ---
 title: 'My Story' 
 date: 2023-10-24
+description: 'Stanislav Valasek - long-time IT manager, ICF ACC coach and mentor. I accompany people who want to change their mindset, communication and the way they lead teams.'
 ---
 
 > I am curiously and sincerely interested in myself, others, and the world around me.

@@ -1,6 +1,7 @@
 ---
 title: 'Mentoring'  
 date: 2023-10-24  
+description: 'Mentoring for managers and teams - leading people, feedback, career planning, delegation and thriving in a corporate environment.'
 ---
 
 ### I mentor individuals and teams

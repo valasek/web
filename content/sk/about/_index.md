@@ -1,6 +1,9 @@
 ---
 title: 'Môj príbeh'
 date: 2023-10-24
+description: 'Stanislav Valášek – dlhoročný IT manažér, kouč (ICF ACC) a mentor. Sprevádzam ľudí, ktorí chcú zmenu vo svojich postojoch, komunikácii i vedení tímov.'
+aliases:
+  - /o-mne/
 ---
 
 > Zvedavo a úprimne sa zaujímam o seba, iných i svet okolo seba

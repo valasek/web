@@ -1,6 +1,9 @@
 ---
 title: 'Referencie'
 date: 2024-11-11
+description: 'Čo o spolupráci hovoria klienti koučingu a mentoringu – referencie manažérov a projektových lídrov.'
+aliases:
+  - /referencie/
 ---
 
 Chcete mi zanechať referenciu alebo ma kontaktovať?

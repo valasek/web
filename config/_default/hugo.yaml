@@ -24,9 +24,10 @@ removePathAccents: true
 
 pluralizelisttitles: false
 
-build:
-  writeStats: true
-enableGitInfo: false
+# `build` intentionally omitted: the blox module already sets build.buildStats
+# plus the assets/hugo_stats.json cachebuster. Redefining `build` here replaces
+# the theme's cachebusters and breaks Tailwind rebuilds.
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
@@ -38,7 +39,8 @@ permalinks:
   authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects]
+  # LLM is the blox module's llms.txt format - keep it when overriding `home`
+  home: [HTML, RSS, LLM, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos

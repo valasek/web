@@ -1,6 +1,7 @@
 ---
 title: 'Trainings'
 date: 2023-10-24  
+description: 'Communication and management skills trainings - team management essentials, collaboration in teams and company culture.'
 ---
 
 In my own management practice, I have found that focusing solely on results, hard data, and facts is not enough. Additional resources are needed for effective collaboration within teams, for leading people, for the atmosphere in the company, and for a corporate culture where people can thrive and feel satisfied.

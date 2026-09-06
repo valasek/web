@@ -1,0 +1,63 @@
+name: CI
+
+# Netlify performs the actual deployment (hugoblox.yaml -> deploy.host: netlify).
+# This workflow only validates that the site still builds, so a broken commit is
+# caught before it reaches the Netlify build.
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          fetch-depth: 0 # required by enableGitInfo for accurate lastmod dates
+
+      - name: Read pinned Hugo version
+        id: hugo
+        run: echo "version=$(grep -oP "hugo_version:\s*'\K[^']+" hugoblox.yaml)" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ steps.hugo.outputs.version }}
+          extended: true
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build
+        env:
+          HUGO_ENV: production
+        run: hugo --gc --minify --printI18nWarnings --printPathWarnings
+
+      - name: Build search index
+        run: pnpm run pagefind

@@ -1,6 +1,9 @@
 ---
 title: 'Kontakty na mňa'
 date: 2023-10-24
+description: 'Kontakt na Stanislava Valáška – e-mail, telefón, WhatsApp, LinkedIn a fakturačné údaje.'
+aliases:
+  - /kontakt/
 ---
 
 valasek@gmail.com<br/>

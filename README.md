@@ -36,14 +36,17 @@ Doplnit testimoials podla awards / https://github.com/HugoBlox/hugo-blox-builder
 
 ## Hugo
 
-Update hugo version in the following files:
-devcontainer.json:7
-netlify.toml:24
-hugoblox.yaml:2
+The Hugo version is pinned in three places - keep them in sync, then rebuild:
 
-and rebuild
+- `.devcontainer/devcontainer.json` (`features` -> hugo -> `version`)
+- `netlify.toml` (`HUGO_VERSION`)
+- `hugoblox.yaml` (`build.hugo_version`) - also read by the CI workflow
 
+```
 hugo mod get -u
 hugo mod tidy
 pnpm update
 pnpm run build
+```
+
+> This project uses **pnpm**. Do not run `npm install` - it would create a competing `package-lock.json`.

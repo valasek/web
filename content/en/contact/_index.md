@@ -1,6 +1,7 @@
 ---
 title: 'Contacts'
 date: 2023-10-24
+description: 'Get in touch with Stanislav Valasek - email, phone, WhatsApp and LinkedIn.'
 ---
 
 valasek@gmail.com<br/>

@@ -1,6 +1,7 @@
 ---
 title: 'Coaching'
 date: 2023-10-24
+description: 'Coaching for individuals and teams - changing behaviour, finding intrinsic motivation, career development, work-life balance and team performance.'
 ---
 
 ### I coach individuals and teams

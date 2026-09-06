@@ -1,6 +1,9 @@
 ---
 title: 'Koučing'
 date: 2023-10-24
+description: 'Koučing pre jednotlivcov aj tímy – zmena správania, vnútorná motivácia, kariérny rozvoj, rovnováha medzi prácou a životom a výkonnosť tímu.'
+aliases:
+  - /koucing/
 ---
 
 ### Koučujem jednotlivcov aj tímy

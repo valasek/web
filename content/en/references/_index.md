@@ -1,6 +1,7 @@
 ---
 title: 'References'
 date: 2023-10-24
+description: 'What clients say about coaching and mentoring with Stanislav Valasek - testimonials from managers and project leaders.'
 ---
 
 Do you want to leave a reference or contact me?
