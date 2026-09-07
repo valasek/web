@@ -1,0 +1,159 @@
+{{- /*
+  Publishes the machine-readable agent discovery artifacts from site.Params.agents.
+  Runs once per build, in the root-language site, so every URL is root-scoped and
+  follows the baseURL of the current deploy context.
+*/ -}}
+{{- $agents := site.Params.agents -}}
+{{- if and $agents $agents.enable (not site.LanguagePrefix) (not (hugo.Store.Get "agentArtifactsPublished")) -}}
+  {{- hugo.Store.Set "agentArtifactsPublished" true -}}
+
+  {{- /* absURL avoids touching page objects, which would deadlock this hook. */ -}}
+  {{- $root := printf "%s/" (strings.TrimSuffix "/" (absURL "/")) -}}
+  {{- $host := (urls.Parse $root).Host -}}
+  {{- $langs := $agents.languages -}}
+  {{- $defaultLang := index $langs 0 -}}
+
+  {{- $langCodes := slice -}}
+  {{- range $lang := $langs -}}
+    {{- $langCodes = $langCodes | append $lang.code -}}
+  {{- end -}}
+
+  {{- $sections := dict -}}
+  {{- range $section := $agents.sections -}}
+    {{- $urls := dict -}}
+    {{- range $lang := $langs -}}
+      {{- $rel := printf "%s%s" $lang.prefix $section.path -}}
+      {{- $urls = merge $urls (dict $lang.code (cond (eq $rel "") $root (absURL $rel))) -}}
+    {{- end -}}
+    {{- $sections = merge $sections (dict $section.key $urls) -}}
+  {{- end -}}
+
+  {{- $services := slice -}}
+  {{- range $service := $agents.services -}}
+    {{- $services = $services | append (dict
+      "name" $service.name
+      "url" (index (index $sections $service.section) $defaultLang.code)) -}}
+  {{- end -}}
+
+  {{- $profile := dict
+    "name" $agents.profile.name
+    "description" $agents.profile.description
+    "url" $root
+    "languages" $langCodes
+    "areaServed" $agents.profile.area_served
+    "services" $services
+    "contact" (index (index $sections $agents.profile.contact_section) $defaultLang.code) -}}
+
+  {{- $skillURL := absURL ".well-known/agent-skills/site-navigation/SKILL.md" -}}
+  {{- $skillDescription := printf "Find public information about %s's coaching, mentoring, training, references, articles, and contact details." $agents.profile.name -}}
+
+  {{- $skillLines := slice
+    "---"
+    "name: site-navigation"
+    (printf "description: %s" $skillDescription)
+    "---"
+    ""
+    "# Site Navigation"
+    ""
+    (printf "Use this skill to locate public information on `%s`." $host)
+    ""
+    "## Languages" -}}
+  {{- range $lang := $langs -}}
+    {{- $skillLines = $skillLines | append (printf "- `%s` pages are served under `/%s`." $lang.code $lang.prefix) -}}
+  {{- end -}}
+  {{- $skillLines = $skillLines | append "" "## Main Resources" -}}
+  {{- range $section := $agents.sections -}}
+    {{- $paths := slice -}}
+    {{- range $lang := $langs -}}
+      {{- $paths = $paths | append (printf "`/%s%s`" $lang.prefix $section.path) -}}
+    {{- end -}}
+    {{- $skillLines = $skillLines | append (printf "- %s: %s" $section.key (delimit $paths " or ")) -}}
+  {{- end -}}
+  {{- $skillLines = $skillLines | append
+    ""
+    "Use `/api/site-profile.json` for a machine-readable summary,"
+    "`/api/sections.json` for canonical section URLs, `/openapi.json` for their"
+    "schema, and `/llms.txt` for the site's content index."
+    ""
+    "When WebMCP is available in the browser, use `search_site`,"
+    "`get_site_profile`, or `navigate_site` for structured access."
+    "" -}}
+  {{- $skill := delimit $skillLines "\n" -}}
+
+  {{- $artifacts := slice
+    (dict "target" "api/site-profile.json" "content" (jsonify (dict "indent" "  ") $profile))
+    (dict "target" "api/sections.json" "content" (jsonify (dict "indent" "  ") (dict
+      "languages" $langCodes
+      "sections" $sections)))
+    (dict "target" "api/status.json" "content" (jsonify (dict "indent" "  ") (dict
+      "status" "ok"
+      "service" "site-profile"
+      "version" $agents.version)))
+    (dict "target" "openapi.json" "content" (jsonify (dict "indent" "  ") (merge hugo.Data.openapi (dict
+      "info" (dict "version" $agents.version)
+      "servers" (slice (dict "url" (strings.TrimSuffix "/" $root)))
+      "externalDocs" (dict "url" (absURL "api/README.md"))))))
+    (dict "target" ".well-known/mcp/server-card.json" "content" (jsonify (dict "indent" "  ") (dict
+      "serverInfo" (dict "name" $agents.mcp.name "version" $agents.mcp.version)
+      "transport" (dict "type" "streamable-http" "endpoint" (absURL "mcp"))
+      "capabilities" (dict "tools" true "resources" false "prompts" false))))
+    (dict "target" ".well-known/agent-skills/site-navigation/SKILL.md" "content" $skill)
+    (dict "target" ".well-known/agent-skills/index.json" "content" (jsonify (dict "indent" "  ") (dict
+      "$schema" "https://schemas.agentskills.io/discovery/0.2.0/schema.json"
+      "skills" (slice (dict
+        "name" "site-navigation"
+        "type" "skill-md"
+        "description" $skillDescription
+        "url" $skillURL
+        "digest" (printf "sha256:%s" (crypto.SHA256 $skill)))))))
+    (dict "target" ".well-known/ai-catalog.json" "content" (jsonify (dict "indent" "  ") (dict
+      "specVersion" "1.0"
+      "host" (dict "displayName" $agents.profile.name "identifier" $root)
+      "entries" (slice
+        (dict
+          "identifier" (printf "urn:air:%s:api:site-profile" $host)
+          "displayName" "Site Profile API"
+          "type" "application/vnd.oai.openapi+json"
+          "url" (absURL "openapi.json")
+          "representativeQueries" $agents.representative_queries.api)
+        (dict
+          "identifier" (printf "urn:air:%s:skill:site-navigation" $host)
+          "displayName" "Site Navigation Skill"
+          "type" "text/markdown"
+          "url" $skillURL
+          "representativeQueries" $agents.representative_queries.skill)
+        (dict
+          "identifier" (printf "urn:air:%s:server:site-information" $host)
+          "displayName" "Site Information MCP Server"
+          "type" "application/mcp-server-card+json"
+          "url" (absURL ".well-known/mcp/server-card.json")
+          "representativeQueries" $agents.representative_queries.mcp)))))
+    (dict "target" ".well-known/api-catalog" "content" (jsonify (dict "indent" "  ") (dict
+      "linkset" (slice
+        (dict
+          "anchor" (absURL "api/site-profile.json")
+          "service-desc" (slice (dict
+            "href" (absURL "openapi.json")
+            "type" "application/vnd.oai.openapi+json;version=3.1"))
+          "service-doc" (slice (dict
+            "href" (absURL "api/README.md")
+            "type" "text/markdown"))
+          "status" (slice (dict
+            "href" (absURL "api/status.json")
+            "type" "application/json")))
+        (dict
+          "anchor" (absURL "mcp")
+          "service-desc" (slice (dict
+            "href" (absURL ".well-known/mcp/server-card.json")
+            "type" "application/mcp-server-card+json"))
+          "service-doc" (slice (dict
+            "href" $skillURL
+            "type" "text/markdown")))))))
+  -}}
+
+  {{- $publish := slice -}}
+  {{- range $artifact := $artifacts -}}
+    {{- $resource := resources.FromString $artifact.target $artifact.content -}}
+    {{- $publish = $publish | append $resource.RelPermalink -}}
+  {{- end -}}
+{{- end -}}

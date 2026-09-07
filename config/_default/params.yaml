@@ -306,3 +306,71 @@ practice:
     - name: "Trainings"
       url: "/trainings/"
       description: "Communication and management skills trainings - team management essentials, collaboration in teams and company culture."
+
+# ══════════════════════════════════════════════════════════════════════════════
+# AGENTS
+# Single source of truth for the machine-readable discovery artifacts.
+# Rendered by layouts/_partials/hooks/head-end/agent-artifacts.html into
+# /.well-known/, /api/ and /openapi.json using the active baseURL, so deploy
+# previews describe themselves instead of production.
+# Contract, not marketing copy: keep it English and stable.
+# See docs/agent-discovery.md
+# ══════════════════════════════════════════════════════════════════════════════
+agents:
+  enable: true
+  version: "1.0.0"
+  profile:
+    name: "Stanislav Valasek"
+    description: "ICF ACC certified coach, mentor for managers, and trainer in communication and management skills."
+    area_served: ["Slovakia", "Czechia", "Worldwide (online)"]
+    contact_section: "contact"
+  mcp:
+    name: "stanislav-valasek-site"
+    version: "1.0.0"
+  # The default language must be listed first; its prefix is the canonical root.
+  languages:
+    - code: "sk"
+      prefix: ""
+    - code: "en"
+      prefix: "en/"
+  # Routes agents may navigate to. Every entry must resolve to a real page in
+  # every language; `pnpm run verify:build` fails when one does not. Menu entries
+  # are deliberately not reused: the menu also contains grouping links such as
+  # /services that have no page of their own.
+  sections:
+    - key: "home"
+      path: ""
+    - key: "about"
+      path: "about/"
+    - key: "coaching"
+      path: "coaching/"
+    - key: "mentoring"
+      path: "mentoring/"
+    - key: "trainings"
+      path: "trainings/"
+    - key: "references"
+      path: "references/"
+    - key: "blog"
+      path: "blog/"
+    - key: "contact"
+      path: "contact/"
+  services:
+    - name: "Coaching"
+      section: "coaching"
+    - name: "Mentoring"
+      section: "mentoring"
+    - name: "Trainings"
+      section: "trainings"
+  representative_queries:
+    api:
+      - "What coaching services does Stanislav Valasek provide?"
+      - "Where does Stanislav offer mentoring?"
+      - "How can I contact Stanislav Valasek?"
+    skill:
+      - "Find Stanislav Valasek's coaching references"
+      - "Show me articles written by Stanislav Valasek"
+      - "Open the English mentoring page"
+    mcp:
+      - "Get Stanislav Valasek's public profile"
+      - "Find the English coaching page"
+      - "Find Stanislav Valasek's contact page"

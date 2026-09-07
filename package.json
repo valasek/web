@@ -7,13 +7,29 @@
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "build": "hugo --minify && pnpm run pagefind",
-    "pagefind": "pagefind --site public"
+    "pagefind": "pagefind --site public",
+    "check": "pnpm run check:versions && pnpm run check:netlify",
+    "check:versions": "node scripts/check-versions.mjs",
+    "check:netlify": "tsc --noEmit --strict --allowSyntheticDefaultImports --moduleResolution bundler --module preserve --types node --lib ES2022,DOM netlify/edge-functions/markdown.ts netlify/functions/mcp.ts",
+    "verify:build": "node scripts/verify-build.mjs",
+    "verify:site": "node scripts/verify-site.mjs"
   },
   "dependencies": {
+    "@modelcontextprotocol/hono": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.0.0",
     "@tailwindcss/cli": "^4.3.3",
     "@tailwindcss/typography": "^0.5.20",
+    "hono": "^4.13.7",
     "pagefind": "^1.5.2",
     "preact": "^10.29.8",
-    "tailwindcss": "^4.3.3"
+    "tailwindcss": "^4.3.3",
+    "turndown": "^7.2.4",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@netlify/edge-functions": "^4.0.0",
+    "@types/node": "^26.5.0",
+    "@types/turndown": "^5.0.6",
+    "typescript": "^7.0.2"
   }
 }

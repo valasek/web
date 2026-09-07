@@ -1,0 +1,122 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Stanislav Valasek Site Profile API",
+    "description": "Read-only public information about coaching, mentoring, and training services."
+  },
+  "paths": {
+    "/api/site-profile.json": {
+      "get": {
+        "operationId": "getSiteProfile",
+        "summary": "Get the public site profile",
+        "responses": {
+          "200": {
+            "description": "Public profile and services",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SiteProfile"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/sections.json": {
+      "get": {
+        "operationId": "getSections",
+        "summary": "Get canonical URLs for the public site sections",
+        "responses": {
+          "200": {
+            "description": "Section routes per language",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Sections"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/status.json": {
+      "get": {
+        "operationId": "getStatus",
+        "summary": "Check static API availability",
+        "responses": {
+          "200": {
+            "description": "API is available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Status"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SiteProfile": {
+        "type": "object",
+        "required": ["name", "description", "url", "languages", "services", "contact"],
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "languages": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "areaServed": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "services": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "url"],
+              "properties": {
+                "name": { "type": "string" },
+                "url": { "type": "string", "format": "uri" }
+              }
+            }
+          },
+          "contact": { "type": "string", "format": "uri" }
+        }
+      },
+      "Sections": {
+        "type": "object",
+        "required": ["languages", "sections"],
+        "properties": {
+          "languages": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "sections": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "object",
+              "additionalProperties": { "type": "string", "format": "uri" }
+            }
+          }
+        }
+      },
+      "Status": {
+        "type": "object",
+        "required": ["status", "service", "version"],
+        "properties": {
+          "status": { "type": "string", "const": "ok" },
+          "service": { "type": "string" },
+          "version": { "type": "string" }
+        }
+      }
+    }
+  }
+}

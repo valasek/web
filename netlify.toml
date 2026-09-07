@@ -4,13 +4,14 @@
     pnpm install --no-frozen-lockfile
     hugo --gc --minify -b $URL --printI18nWarnings --printPathWarnings
     pnpm run pagefind
+    pnpm run verify:build
   """
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.162.0"
   GO_VERSION = "1.21.5"
-  NODE_VERSION = "22"
+  NODE_VERSION = "24"
   # Ensure Netlify's implicit install step does not enforce frozen lockfiles
   PNPM_FLAGS = "--no-frozen-lockfile"
   HUGO_ENABLEGITINFO = "true"
@@ -24,6 +25,7 @@
     pnpm install --no-frozen-lockfile
     hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --printI18nWarnings --printPathWarnings
     pnpm run pagefind
+    pnpm run verify:build
   """
 
 [context.branch-deploy]
@@ -32,6 +34,7 @@
     pnpm install --no-frozen-lockfile
     hugo --gc --minify -b $DEPLOY_PRIME_URL --printI18nWarnings --printPathWarnings
     pnpm run pagefind
+    pnpm run verify:build
   """
 
 [[plugins]]

@@ -15,6 +15,9 @@ resources/
 # Hugo build lock
 .hugo_build.lock
 
+# Netlify local build state
+.netlify/
+
 # Hugo stats
 hugo_stats.json
 

@@ -1,0 +1,98 @@
+{{- $agents := site.Params.agents -}}
+{{- $sections := dict -}}
+{{- range $section := $agents.sections -}}
+  {{- $sections = merge $sections (dict $section.key $section.path) -}}
+{{- end -}}
+{{- $languages := slice -}}
+{{- $prefixes := dict -}}
+{{- range $lang := $agents.languages -}}
+  {{- $languages = $languages | append $lang.code -}}
+  {{- $prefixes = merge $prefixes (dict $lang.code $lang.prefix) -}}
+{{- end -}}
+<link rel="ai-catalog" href="{{ ".well-known/ai-catalog.json" | relURL }}">
+<script>
+(() => {
+  const modelContext = document.modelContext || navigator.modelContext;
+  if (!modelContext) return;
+
+  const controller = new AbortController();
+  const sections = {{ $sections | jsonify }};
+  const languages = {{ $languages | jsonify }};
+  const prefixes = {{ $prefixes | jsonify }};
+  const defaultLanguage = languages[0];
+  const tools = [
+    {
+      name: "get_site_profile",
+      title: "Get site profile",
+      description: "Return public details about Stanislav Valasek and his coaching, mentoring, and training services.",
+      inputSchema: { type: "object", properties: {}, additionalProperties: false },
+      annotations: { readOnlyHint: true, untrustedContentHint: false, consequentialHint: false },
+      execute: async () => {
+        const response = await fetch("/api/site-profile.json");
+        if (!response.ok) throw new Error(`Profile request failed with ${response.status}`);
+        return response.json();
+      }
+    },
+    {
+      name: "search_site",
+      title: "Search this site",
+      description: "Search public pages and articles on this site and return matching titles, URLs, and excerpts.",
+      inputSchema: {
+        type: "object",
+        properties: {
+          query: { type: "string", minLength: 1, maxLength: 120 },
+          limit: { type: "integer", minimum: 1, maximum: 10, default: 5 }
+        },
+        required: ["query"],
+        additionalProperties: false
+      },
+      annotations: { readOnlyHint: true, untrustedContentHint: false, consequentialHint: false },
+      execute: async ({ query, limit = 5 }, { signal }) => {
+        signal.throwIfAborted();
+        const pagefind = await import("/pagefind/pagefind.js");
+        const search = await pagefind.search(query);
+        const matches = await Promise.all(search.results.slice(0, limit).map(async (result) => {
+          const data = await result.data();
+          return {
+            title: data.meta.title,
+            url: new URL(data.url, location.origin).href,
+            excerpt: data.excerpt
+          };
+        }));
+        signal.throwIfAborted();
+        return { query, matches };
+      }
+    },
+    {
+      name: "navigate_site",
+      title: "Open a site section",
+      description: "Navigate the current tab to a named public section in Slovak or English.",
+      inputSchema: {
+        type: "object",
+        properties: {
+          section: { type: "string", enum: Object.keys(sections) },
+          language: { type: "string", enum: languages, default: defaultLanguage }
+        },
+        required: ["section"],
+        additionalProperties: false
+      },
+      annotations: { readOnlyHint: true, untrustedContentHint: false, consequentialHint: false },
+      execute: async ({ section, language = defaultLanguage }) => {
+        const url = new URL(`/${prefixes[language]}${sections[section]}`, location.origin);
+        location.assign(url.href);
+        return { navigatingTo: url.href };
+      }
+    }
+  ];
+
+  if (typeof modelContext.registerTool === "function") {
+    for (const tool of tools) {
+      modelContext.registerTool(tool, { signal: controller.signal }).catch(() => {});
+    }
+  } else if (typeof modelContext.provideContext === "function") {
+    modelContext.provideContext({ tools }, { signal: controller.signal });
+  }
+
+  addEventListener("pagehide", () => controller.abort(), { once: true });
+})();
+</script>
