@@ -1,7 +1,7 @@
 ---
 title: 'Ako som prežil lavínu na Grosser Priel'
 date: 2026-04-05
-
+tags: ["Osobné"]
 ---
 
 Napriek tomu, že po horách chodím posledných 20 rokov (od lezenia cez skialpy až po viacdĺžkové lezenie), lavína, ktorú som nedávno zažil, ma prekvapila a pripomenula, že v kopcoch človek musí byť ostražitý neustále.
@@ -129,3 +129,7 @@ A toto je foto už od chaty.
 - Nenechať sa skupinou ovplyvniť. Komunikovať prečo iná trasa, a ak nie je súhlas a nemôžem pokračovať, vrátiť sa.
 - Ak sú okolo mňa malé lavíny, vrátiť sa. Zvlášť ak som s ľuďmi, za ktorých som zodpovedný.
 - Pozrieť si lavínovú situáciu a ak sa o stupeň zhoršila, byť na pozore.
+
+---
+
+*Poučenie o tlaku skupiny platí ďaleko za hranicami hôr. Manažéri a tímy mu čelia každý deň – kedy sa ozvať, kedy zmeniť smer, kedy sa vrátiť. Ak je to téma aj pre vás, [porozprávajme sa](https://findacoach.eu/coach/valasek).*

@@ -1,6 +1,7 @@
 ---
 title: 'Europe Road Trip 2020'
 date: 2024-11-07
+tags: ["Personal"]
 ---
 
 ---

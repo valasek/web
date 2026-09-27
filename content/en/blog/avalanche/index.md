@@ -1,6 +1,8 @@
 ---
 title: 'How I Survived an Avalanche on Grosser Priel'
 date: 2026-04-05
+tags: ["Personal"]
+---
 
 ---
 
@@ -129,3 +131,7 @@ And this photo is already from the hut.
 - Don't let the group override your judgment. Explain why you want a different route, and if there's no agreement and you can't continue safely, turn back.
 - If there are small avalanches around you, turn back — especially when you are with people you are responsible for.
 - Check the avalanche forecast and if the risk has gone up even one level, be on high alert.
+
+---
+
+*The lesson about group pressure applies far beyond the mountains. Managers and teams face it every day – when to speak up, when to change course, when to turn back. If that's a topic for you, [let's talk](https://findacoach.eu/coach/valasek).*

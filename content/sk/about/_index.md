@@ -21,6 +21,10 @@ aliases:
 >
 > Hlboko rozumiem práci manažérov, svetu IT i procesom vo firmách. Baví ma v nich nachádzať kontexty, ktoré dokážu pomôcť jasnejšie nastaviť čisté pravidlá hry.
 
+**Čo to znamená pre vás:** koučujem a mentorujem IT manažérov a team leadov. Vo vašich topánkach chodím 15 rokov a chodím v nich aj dnes, takže mi nemusíte vysvetľovať svoj svet. Ako certifikovaný kouč ICF vám nebudem len rozdávať rady – pomôžem vám nájsť odpovede, ktoré naozaj sedia vám.
+
+[**Rezervovať bezplatný 20-minútový úvodný hovor →**](https://findacoach.eu/coach/valasek)
+
 ### Pracovný život
 
 Som dlhoročný manažér s bohatými skúsenosťami v IT sektore, dodávaním SW produktov a vedením tímov. Moje pôsobenie zahŕňa významné pozície v spoločnostiach ako [NESS](https://www.ness.com/ness-czech/), [Ataccama](https://www.ataccama.com/) či [uLékaře.cz](https://www.ulekare.cz/), kde som sa venoval riadeniu projektov i agilnej transformácii.
@@ -57,9 +61,9 @@ Podporou mi boli mnohí učitelia, ich školenia a sebarozvojové i terapeutick�
 
 Tie najdôležitejšie, radené od najaktuálnejších:
 
-- 1,5-ročný výcvik koučingu v [Business Coaching College](https://www.koucovaciaskola.sk/), vedený [Zuzanou Karpinskou](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska) a [Denisou Kmecovou](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska), ukončený [ICF ACC certifikáciou](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
+- 1,5-ročný výcvik koučingu v [Business Coaching College](https://www.koucovaciaskola.sk/), vedený [Zuzanou Karpinskou](https://www.koucovaciaskola.sk/o-skole/nas-tim) a [Denisou Kmecovou](https://www.koucovaciaskola.sk/o-skole/nas-tim), ukončený [ICF ACC certifikáciou](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
 
-- 5 rokov priebežných výcvikov, s frekvenciou 1× mesačne až po každodennú prácu, u [Eliasa Bohunického](https://www.dojo.sk/elias-bohunicky). Výcvik obsahoval nasledujúce oblasti: procesovo orientovaná psychológia, kraniosakrálna terapia, systemické konštelácie, práca s hanbou, vedenie kruhov, mužské kruhy, bojové umenia.
+- 5 rokov priebežných výcvikov, s frekvenciou 1× mesačne až po každodennú prácu, u [Eliasa Bohunického](https://www.eliasbohunicky.com/). Výcvik obsahoval nasledujúce oblasti: procesovo orientovaná psychológia, kraniosakrálna terapia, systemické konštelácie, práca s hanbou, vedenie kruhov, mužské kruhy, bojové umenia.
 
 - 5 rokov som bol účastníkom a spoluorganizátorom stáleho mužského kruhu v Čechách.
 
@@ -79,11 +83,11 @@ Tie najdôležitejšie, radené od najaktuálnejších:
 
 Formou koučingu, mentoringu alebo telovej práce. Spolupracujem s organizáciami ako [Femme Palette](https://www.femmepalette.com/), [DoToho](https://dotoho.pro/) alebo [Tour De App](https://tourdeapp.cz/).
 
-Ak máš pred sebou výzvu, problém, potrebuješ skutočne dobre zvážiť a rozhodnúť sa pre svoju správnu možnosť, alebo iba nevieš spraviť svoj prvý krok, neváhaj a kontaktuj ma – a spoločne sa rozhodneme, či má spolupráca zmysel alebo nie.
+Ak máte pred sebou výzvu, problém, potrebujete skutočne dobre zvážiť a rozhodnúť sa pre svoju správnu možnosť, alebo iba neviete spraviť prvý krok, [rezervujte si bezplatný úvodný hovor](https://findacoach.eu/coach/valasek) – a spoločne sa rozhodneme, či má spolupráca zmysel alebo nie.
 
 ### Moje ďalšie vzdelanie a certifikácie zahŕňajú:
 
-- [Associate Certified Coach (ACC)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871) v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2026)
+- [Associate Certified Coach (ACC)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871) v [Business Coaching College](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2026)
 - [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
 - [Spirála LeaderShipu](https://souladventure.cz/uvod/soul-skills-pro-firmy/), [SoulAdventure](https://souladventure.cz) (2022)
 - Ročný kurz managementu pod vedením Jána Hausmanna (2022)
@@ -97,4 +101,8 @@ Ak vás zaujíma môj softvérový vývoj, nájdete ukážky mojej práce na [Gi
 - SW na evidenciu klientov a koučovacích sedení. V súčasnosti zdarma dostupný – www.findacoach.eu.
 - SW pre správu skladu i receptov v kuchyni, ktorý je využívaný hospicom v Čechách – [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
 
-> Som tu, aby som vám pomohol rásť, prekonávať prekážky a dosahovať vaše ciele. Poďme spolu objaviť váš potenciál!
+### Porožprávajme sa
+
+Som tu, aby som vám pomohol rásť, prekonávať prekážky a dosahovať vaše ciele. Prvým krokom je bezplatný 20-minútový úvodný hovor.
+
+[**Rezervovať úvodný hovor zdarma →**](https://findacoach.eu/coach/valasek)

@@ -1,40 +1,68 @@
 ---
-title: 'Home'
+title: 'Koučing a mentoring pre IT lídrov'
 date: 2023-10-24
 type: landing
+description: 'ICF ACC kouč a mentor pre IT manažérov a team leadov. Veďte s jasnosťou a istotou. Bezplatný 20-minútový úvodný hovor.'
 
 design:
-  # Default section spacing
   spacing: "4rem"
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: biography
     content:
       username: admin-sk
-    #   # Show a call-to-action button under your biography? (optional)
-    #   button:
-    #     text: Schôdzka - rezervuj si 15 minút online
-    #     url: uploads/resume.pdf
     design:
       banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg  #  IMG_4614.JPG
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
-        # Customize the style of your biography text
         style: 'text-align: center; font-size: 0.8em;'
-      # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
-  - block: motto
+        size: medium
+        shape: rounded
+
+  - block: features
     content:
-      title: "Tvoja autenticita je dôležitá"
-      text: To najviac čo môžeme svetu dať je naplno sa prejaviť. Vo všetkom, čo robíme. Po svojom. Máme to v sebe. Niekedy sme pripravení a odvážni, niekedy nie. Chýbajú nám zdroje. Kouč môže pomôcť ich nájsť.
-      link: /about
-      name: "Môj príbeh"
+      title: "Poznáte to?"
+      text: "Väčšina mojich klientov sú schopní a úspešní ľudia v IT, ktorí sa dostali do bodu, keď už „viac toho istého“ nefunguje."
+      items:
+        - name: "Nový v manažérskej role"
+          icon: hero/user-group
+          description: "Boli ste skvelý odborník. Teraz vediete ľudí – a nikto vám nepovedal ako."
+        - name: "Stále v zhone"
+          icon: hero/clock
+          description: "Všetko je urgentné, nedarí sa vám delegovať a na vlastnú prácu ostávajú večery."
+        - name: "Náročné rozhovory"
+          icon: hero/chat-bubble-left-right
+          description: "Spätná väzba, slabý výkon alebo konflikty v tíme, ktoré stále odkladáte."
+        - name: "Tlak zo všetkých strán"
+          icon: hero/scale
+          description: "Medzi vedením, klientmi a tímom sa snažíte vyhovieť všetkým."
+        - name: "Kariérna križovatka"
+          icon: hero/map
+          description: "Zostať, zmeniť firmu, ísť vyššie alebo ustúpiť? Potrebujete jasno, nie ďalšie názory."
+        - name: "Bez energie"
+          icon: hero/battery-50
+          description: "Práca, rodina a vaše vlastné potreby nie sú v rovnováhe a chcete to zmeniť."
+
+  - block: markdown
+    content:
+      title: "Ako vám môžem pomôcť"
+      text: |
+        **[Koučing](/coaching/)** – expertom na svoj život ste vy. Štruktúrovanými otázkami vám pomôžem urobiť si jasno, nájsť vlastné odpovede a premeniť ich na konkrétne kroky. Vhodný, keď viete, *čo* chcete zmeniť, ale nie *ako*.
+
+        **[Mentoring](/mentoring/)** – odovzdám vám, čo ma naučilo 15 rokov vedenia IT tímov: delegovanie, spätná väzba, priority, firemná politika. Vhodný, keď chcete skúseného sparing partnera.
+
+        Neviete, čo z toho potrebujete? Presne na to slúži bezplatný úvodný hovor.
+
+  - block: cta-card
+    content:
+      title: "Poďme sa porozprávať"
+      text: "Rezervujte si bezplatný 20-minútový úvodný hovor. Pozrieme sa na vašu situáciu a dohodneme sa, či má spolupráca zmysel – nezáväzne."
+      button:
+        text: "Rezervovať úvodný hovor zdarma"
+        url: "https://findacoach.eu/coach/valasek"
+        icon: hero/calendar-days
+
   - block: clients
     content:
       title: "Klienti"
@@ -59,24 +87,34 @@ sections:
         - name: "FormFactory"
           logo: "formfactory-logo.png"
           crop: "252x50 center"
-  # - block: experience
-  #   content:
-  #     username: admin
-  #   design:
-  #     # Hugo date format
-  #     date_format: 'January 2006'
-  #     # Education or Experience section first?
-  #     is_education_first: false
-  # - block: skills
-  #  content:
-  #    title: Skills & Hobbies
-  #    username: admin-sk
-  # - block: awards
-  #   content:
-  #     title: Awards
-  #     username: admin
-  # - block: languages
-  #   content:
-  #     title: Languages
-  #     username: admin
+
+  - block: features
+    content:
+      title: "Ako to prebieha"
+      items:
+        - name: "1. Úvodný hovor zdarma"
+          icon: hero/phone
+          description: "20 minút online. Poviete mi, čo riešite, a ja vám úprimne poviem, či vám viem pomôcť."
+        - name: "2. Ciele a forma"
+          icon: hero/flag
+          description: "Dohodneme, čo sa má zmeniť, vyberieme koučing alebo mentoring a jednotlivé stretnutie alebo balíček."
+        - name: "3. Pravidelné stretnutia"
+          icon: hero/arrow-trending-up
+          description: "60-minútové stretnutia online alebo v Bratislave a Prahe, s podporou aj medzi stretnutiami."
+
+  - block: motto
+    content:
+      title: "Vaša autenticita je dôležitá"
+      text: To najviac, čo môžeme svetu dať, je naplno sa prejaviť. Vo všetkom, čo robíme. Po svojom. Niekedy nám chýbajú zdroje. Kouč vám ich môže pomôcť nájsť.
+      link: /about/
+      name: "Môj príbeh"
+
+  - block: cta-card
+    content:
+      title: "Ste pripravení na zmenu?"
+      text: "Prvý krok trvá 20 minút a nič vás nestojí."
+      button:
+        text: "Rezervovať úvodný hovor zdarma"
+        url: "https://findacoach.eu/coach/valasek"
+        icon: hero/calendar-days
 ---

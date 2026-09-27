@@ -1,2 +1,9 @@
 - id: callout_note
   translation: Note
+
+# Blog tag filter
+- id: blog_all_posts
+  translation: All
+
+- id: blog_filter_by_tag
+  translation: Filter articles by topic

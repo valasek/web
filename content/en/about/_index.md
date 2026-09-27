@@ -18,6 +18,10 @@ description: 'Stanislav Valasek - long-time IT manager, ICF ACC coach and mentor
 >
 > I have a deep understanding of managerial work, the IT world, and corporate processes. I enjoy finding the contexts within them that help establish clear and fair rules of the game.
 
+**What this means for you:** I coach and mentor IT managers and tech leads. I have been in your shoes for 15 years and still am today, so you don't have to explain your world to me. As an ICF-certified coach I won't just give you advice – I'll help you find answers that really fit you.
+
+[**Book a free 20-minute intro call →**](https://findacoach.eu/coach/valasek)
+
 ### Professional Life
 
 I am a long-time manager with extensive experience in the IT sector, delivering software products and leading teams. My career includes significant roles at companies like [NESS](https://www.ness.com/ness-czech/), [Ataccama](https://www.ataccama.com/), and [uLékaře.cz](https://www.ulekare.cz/), where I focused on project management and agile transformation.
@@ -54,9 +58,9 @@ I have been supported by many teachers, their workshops, and various self-develo
 
 The most important ones, starting from the most recent:
 
-  * A 1.5-year coaching certification at [Business Coaching College](https://www.koucovaciaskola.sk/), led by [Zuzana Karpinská](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska) and [Denisa Kmecová](https://www.koucovaciaskola.sk/o-skole/lektorky/zuzana-karpinska), finished by [ICF ACC certification](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
+  * A 1.5-year coaching certification at [Business Coaching College](https://www.koucovaciaskola.sk/), led by [Zuzana Karpinská](https://www.koucovaciaskola.sk/o-skole/nas-tim) and [Denisa Kmecová](https://www.koucovaciaskola.sk/o-skole/nas-tim), finished by [ICF ACC certification](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
 
-  * 5 years of ongoing training (ranging from monthly sessions to daily practice) with [Elias Bohunický](https://www.dojo.sk/elias-bohunicky). This training covered: process-oriented psychology, craniosacral therapy, systemic constellations, working with shame, circle facilitation, men's circles, and martial arts.
+  * 5 years of ongoing training (ranging from monthly sessions to daily practice) with [Elias Bohunický](https://www.eliasbohunicky.com/). This training covered: process-oriented psychology, craniosacral therapy, systemic constellations, working with shame, circle facilitation, men's circles, and martial arts.
 
   * 5 years as a participant and co-organizer of a standing men's circle in the Czech Republic.
 
@@ -76,11 +80,11 @@ The most important ones, starting from the most recent:
 
 Through coaching, mentoring, or bodywork. I collaborate with organizations such as [Femme Palette](https://www.femmepalette.com/), [DoToho](https://dotoho.pro/), and [Tour De App](https://tourdeapp.cz/).
 
-If you are facing a challenge, a problem, need to carefully weigh your options to make the right decision, or simply don't know how to take the first step—don't hesitate to contact me. Together, we can decide if a collaboration makes sense for you.
+If you are facing a challenge, a problem, need to carefully weigh your options to make the right decision, or simply don't know how to take the first step – [book a free intro call](https://findacoach.eu/coach/valasek). Together, we can decide if a collaboration makes sense for you.
 
 ### My Further Education and Certifications Include:
 
-  * [Associate Certified Coach (ACC)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871) via [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2026)
+  * [Associate Certified Coach (ACC)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871) via [Business Coaching College](https://www.koucovaciaskola.sk/kurz-biznis-koucing) (2024 – 2026)
   * [The CTO Leadership Foundation Course](https://platform.cto.academy/course_certificate/1698655958859x486784929617848100), CTO Academy (2023)
   * [Spirála LeaderShipu](https://souladventure.cz/uvod/soul-skills-pro-firmy/), [SoulAdventure](https://souladventure.cz) (2022)
   * Year-long Management Course led by Ján Hausmann (2022)
@@ -95,4 +99,8 @@ If you’re interested in my software development work, you can find samples on 
   * Software for tracking clients and coaching sessions. Currently available for free at www.findacoach.eu.
   * Software for managing inventory and kitchen recipes, currently used by a hospice in the Czech Republic – [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
 
-> I am here to help you grow, overcome obstacles, and achieve your goals. Let’s discover your potential together!
+### Let's talk
+
+I am here to help you grow, overcome obstacles, and achieve your goals. The first step is a free 20-minute intro call.
+
+[**Book a free intro call →**](https://findacoach.eu/coach/valasek)

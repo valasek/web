@@ -23,6 +23,8 @@ removePathAccents: true
 ############################
 
 pluralizelisttitles: false
+# Tag titles are derived from front matter; AP title case breaks Slovak ("Vedenie Tímu").
+titleCaseStyle: firstupper
 
 # `build` intentionally omitted: the blox module already sets build.buildStats
 # plus the assets/hugo_stats.json cachebuster. Redefining `build` here replaces
@@ -46,14 +48,16 @@ imaging:
   anchor: smart
   hint: picture
 timeout: 600000
-# No taxonomies: nothing in content/ is tagged, so tag/author term pages would
-# only add empty, crawlable URLs. Re-add here if posts start using them.
-taxonomies: {}
+# Only tags: blog posts are tagged Personal vs Coaching/Mentoring.
+taxonomies:
+  tag: tags
 markup:
   _merge: deep
   highlight:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow: ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
 sitemap:
   _merge: deep

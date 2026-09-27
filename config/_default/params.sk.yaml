@@ -3,16 +3,21 @@ hugoblox:
   
   identity:
     name: "Stanislav Valášek"
-    description: "Osobné stránky, koučing, mentoring, agilný vývoj, scrum, manažérske nástroje, komunikácia, Stanislav Valášek"
+    tagline: "Koučing a mentoring pre IT lídrov"
+    description: "ICF ACC kouč a mentor pre IT manažérov a team leadov. Veďte s jasnosťou a istotou - online, v Bratislave aj v Prahe. Bezplatný 20-minútový úvodný hovor."
 
   copyright:
     notice: '© {year} Stanislav Valášek'
+
+  header:
+    cta:
+      text: "Rezervovať hovor zdarma"
 
   search:
     suggestions:
       - "koučing"
       - "mentoring"
-      - "školenia"
+      - "leadership"
 
   locale:
     date_format: "2.1.2006"
@@ -20,18 +25,18 @@ hugoblox:
     address_format: en-us
 
 practice:
-  name: "Stanislav Valášek – koučing, mentoring a školenia"
-  description: "Certifikovaný kouč (ICF ACC), mentor pre manažérov a lektor komunikačných a manažérskych zručností. Pôsobím v Bratislave, na Slovensku aj v Česku a online kdekoľvek."
+  name: "Stanislav Valášek – koučing a mentoring pre IT lídrov"
+  description: "Certifikovaný kouč (ICF ACC) a mentor pre IT manažérov a team leadov. Pôsobím v Bratislave, na Slovensku aj v Česku a online kdekoľvek."
   founder: "Stanislav Valášek"
-  job_title: "Kouč (ICF ACC), mentor a lektor"
+  job_title: "Kouč (ICF ACC) a mentor pre IT lídrov"
   area_served: ["Slovensko", "Česko", "Celosvetovo (online)"]
   services:
     - name: "Koučing"
       url: "/coaching/"
-      description: "Koučing pre jednotlivcov aj tímy – zmena správania, vnútorná motivácia, kariérny rozvoj, rovnováha medzi prácou a životom a výkonnosť tímu."
+      description: "Koučing pre IT manažérov a team leadov – jasnosť v rozhodnutiach, sebaistota, kariérny smer, rovnováha medzi prácou a životom a výkonnosť tímu."
     - name: "Mentoring"
       url: "/mentoring/"
-      description: "Mentoring pre manažérov a tímy – vedenie ľudí, spätná väzba, kariérne plánovanie, delegovanie a fungovanie v korporátnom prostredí."
+      description: "Mentoring pre nových aj skúsených IT manažérov – vedenie ľudí, spätná väzba, delegovanie, priority a fungovanie v korporátnom prostredí."
     - name: "Školenia"
       url: "/trainings/"
       description: "Školenia komunikačných a manažérskych zručností – základné manažérske minimum, spolupráca v tímoch a firemná kultúra."

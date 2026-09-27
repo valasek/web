@@ -16,9 +16,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Coaching & mentoring for IT leaders"
     # Site meta description for search engines and social sharing
-    description: "Personal homepage, coaching, mentoring, agile delivery, scrum,management, communication, Stanislav Valasek"
+    description: "ICF ACC coach and mentor for IT managers and tech leads. Lead with clarity and confidence - online or in Bratislava and Prague. Free 20-minute intro call."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "valasek"              # Twitter/X handle for Twitter Cards (without @)
@@ -91,9 +91,9 @@ hugoblox:
     language_switcher: true
     # Call-to-action button
     cta:
-      enable: false
-      text: ""
-      url: ""
+      enable: true
+      text: "Book a free call"
+      url: "https://findacoach.eu/coach/valasek"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
@@ -144,7 +144,7 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Personal site of Stanislav Valasek - ICF ACC coach, mentor and trainer for managers and teams. Content is published in Slovak (/) and English (/en/)."
+      note: "Personal site of Stanislav Valasek - ICF ACC coach and mentor for IT managers and tech leads. Content is published in Slovak (/) and English (/en/)."
       contact: "valasek@gmail.com"
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -175,7 +175,7 @@ hugoblox:
     suggestions:
       - "coaching"
       - "mentoring"
-      - "trainings"
+      - "leadership"
     # Quick action shortcuts in search modal
     quick_actions: []
 
@@ -283,10 +283,10 @@ hugoblox:
 # ══════════════════════════════════════════════════════════════════════════════
 practice:
   enable: true
-  name: "Stanislav Valasek - Coaching, Mentoring & Trainings"
-  description: "ICF ACC certified coach, mentor for managers, and trainer in communication and management skills. Based in Bratislava, working across Slovakia and Czechia and online worldwide."
+  name: "Stanislav Valasek - Coaching & Mentoring for IT Leaders"
+  description: "ICF ACC certified coach and mentor for IT managers and tech leads. Based in Bratislava, working across Slovakia and Czechia and online worldwide."
   founder: "Stanislav Valasek"
-  job_title: "Coach (ICF ACC), Mentor and Trainer"
+  job_title: "Coach (ICF ACC) and Mentor for IT Leaders"
   email: "valasek@gmail.com"
   telephone: "+421949888634"
   city: "Bratislava"
@@ -299,10 +299,10 @@ practice:
   services:
     - name: "Coaching"
       url: "/coaching/"
-      description: "Coaching for individuals and teams - changing behaviour, finding intrinsic motivation, career development, work-life balance and team performance."
+      description: "Coaching for IT managers and tech leads - clarity in decisions, confidence, career direction, work-life balance and team performance."
     - name: "Mentoring"
       url: "/mentoring/"
-      description: "Mentoring for managers and teams - leading people, feedback, career planning, delegation and thriving in a corporate environment."
+      description: "Mentoring for new and experienced IT managers - leading people, feedback, delegation, prioritization and thriving in a corporate environment."
     - name: "Trainings"
       url: "/trainings/"
       description: "Communication and management skills trainings - team management essentials, collaboration in teams and company culture."

@@ -103,6 +103,10 @@ PharmDr. Monika Horníková, MHA, ředitel, [TŘI, z.ú., Hospic Čerčany](http
 
 ---
 
-Chcete mi zanechať referenciu alebo ma kontaktovať?
+### Chcete to zažiť aj vy?
 
-[Napíšte mi](/contact).
+Začnite bezplatným 20-minútovým úvodným hovorom – nezáväzne.
+
+[**Rezervovať úvodný hovor zdarma →**](https://findacoach.eu/coach/valasek)
+
+Spolupracovali sme? Budem vám vďačný za referenciu – [napíšte mi](/contact/).

@@ -1,106 +1,98 @@
 ---
 title: 'Koučing'
 date: 2023-10-24
-description: 'Koučing pre jednotlivcov aj tímy – zmena správania, vnútorná motivácia, kariérny rozvoj, rovnováha medzi prácou a životom a výkonnosť tímu.'
+description: 'Koučing pre IT manažérov a team leadov – jasnosť v rozhodnutiach, sebaistota, kariérny smer, rovnováha medzi prácou a životom a výkonnosť tímu. Úvodný 20-minútový hovor zdarma.'
 aliases:
   - /koucing/
 ---
 
-### Koučujem jednotlivcov aj tímy
+### Koučing pre IT manažérov a team leadov
+
+Urobte si jasno v tom, na čom naozaj záleží, prijmite rozhodnutia, za ktorými si stojíte, a urobte prvé konkrétne kroky – s partnerom, ktorý sám sedí na manažérskej stoličke.
+
+[**Rezervovať bezplatný 20-minútový úvodný hovor →**](https://findacoach.eu/coach/valasek)
 
 ![](/images/coaching.jpg)
 
-#### Najčastejšie oblasti s ktorými klienti prichádzajú
+#### Je to pre vás?
 
-```markmap {height="200px"}
-- 🤔
-  - Chcem pochopiť a zmeniť svoje správanie
-  - Potrebujem nájsť vnútornú motiváciu na dosiahnutie svojho cieľa
-  - Toto rozhodnutie chcem urobiť v súlade s mojimi životnými hodnotami
-  - Potrebujem pomôcť s s kariérnym rozvojom
-  - Potrebujem nový pohľad na svoj problém, príležitosť
-  - Hľadám rovnováhu medzi prácou, rodinou i koníčkami
-  - Potrebujem podporu pri rozvoji firmy, svojho tímu
-  - Ako zlepšiť výkonnosť tímu 
-```
+Klienti ku mne najčastejšie prichádzajú, keď:
 
-Koučing je partnerský rozhovor, kde kouč je ten zvedavý, fandiaci, pravdivo reflektujúci a pracujúci s hlbokým presvedčením, že klient je expertom na svoj život.
+- chcú **pochopiť a zmeniť svoje správanie** – v práci alebo doma,
+- stoja pred **veľkým rozhodnutím** a chcú, aby bolo v súlade s ich hodnotami,
+- hľadajú **kariérny smer** – ďalší krok, novú rolu, novú firmu,
+- stratili **motiváciu alebo energiu** a chcú ju späť,
+- potrebujú **nový pohľad** na problém alebo príležitosť,
+- hľadajú **rovnováhu** medzi prácou, rodinou a vlastnými potrebami,
+- chcú **rozvíjať svoj tím alebo firmu** a zlepšiť ich výkonnosť.
 
-#### Prečo so mnou?
+#### Čo sa zmení
 
-Koučing je nástroj, možnosť, kde si človek môže premyslieť/zažiť a **urobiť jasno** v téme, ktorou sa práve zaoberá.
+- **Jasnosť.** Viete, čo chcete a prečo je to pre vás dôležité.
+- **Rozhodnutia.** Vyberiete si smer, ktorý zodpovedá vašim hodnotám – nie očakávaniam iných.
+- **Akcia.** Z každého stretnutia odchádzate s konkrétnymi krokmi, ktoré ste si sami stanovili.
 
-Je realizovaný formou **partnerského rozhovoru**, kde klient prichádza s tým, že je expertom na svoj život.
+#### Ako pracujem
 
-Kouč klientom pomáha získať **iné pohľady a perspektívy**.
+Koučing je partnerský rozhovor. Expertom na svoj život ste vy – ja prinášam štruktúru, zvedavosť a úprimnú reflexiu. Nedávam rady ani nepresadzujem vlastné riešenia; vhodnými otázkami vám pomôžem nájsť vaše vlastné zdroje a uvedomenia.
 
-Pomáha cez reformuláciu zvedomiť si funkčné a nefunkčné presvedčenia a nájsť existujúce alebo **nové zdroje** na to, aby v danej téme urobil/urobila rozhodnutie v súlade so svojimi hodnotami. Pomôže mu/jej zvedomiť si, čo bude pre klienta/klientku **podporné v realizácii svojho rozhodnutia** a vhodnými otázkami im pomôže sformulovať ich vlastné kroky a akcie, ktoré smerujú k realizácii tohto rozhodnutia v ich živote.
+Pracujem podľa štruktúry, etických princípov a kompetencií Medzinárodnej koučovacej federácie ([ICF](https://icf.sk/)). Keď to pomáha, pracujem aj s **vnímaním tela** – s tým, čo cítite, nielen s tým, čo si myslíte. To často otvorí veci, na ktoré čisto racionálny rozhovor nedosiahne.
 
-Koučovanie pre mňa nie je o dávaní rád klientom alebo navrhovaní riešení, ktoré sú mne dostupné, ale naopak láskavým, **zaujímajúcim sa a podporným spôsobom** im zvedomil ich vlastné zdroje a pomohol dospieť k vlastným uvedomeniam.
+Moji typickí klienti vedia, že chcú zmenu, a zhruba tušia, v akej oblasti. Potrebujú niekoho, kto ich nehodnotí, prijíma ich takých, akí sú, a podporí ich pri hľadaní smeru a prvých krokov.
 
-Na to celé využívam štruktúru koučovacieho rozhovoru, etické princípy a kvality kouča (tak ako ich definuje Medzinárodná koučovacia federácia [ICF](https://icf.sk/)).
-
-Mojimi klientami sú najčastejšie ľudia, ktorí vedia, že chcú zmenu, vedia i v akej oblasti, a pomôže im sformulovať si **smer ďalšej cesty a prvé kroky** na nej s niekým, kto ich nehodnotí, prijíma ich takých, akí sú, a fandí im v ich rozhodnutiach.
-
-Na koučingu ma najviac bavia dve veci.
-1) Vidieť a zažiť to nadšenie u klientov, keď nájdu spôsob, ako sa postaviť k svojej téme.
-2) Objem vnútornej práce, ktorý na každom koučingu konám na to, aby som svoje dobré nápady, riešenia a návrhy nechal prísť a odísť bez toho, aby narušili moje zotrvanie v mieste, kde som „iba“ zaujímajúcim sa, fandiacim a podporným parťákom v tomto štrukturovanom rozhovore.
-
-#### Cenník
-
-Súčasnú cenu mám 70 €/hod. Nie som platcom DPH.
-
-*V cene je započítaná moja telefonická a emailová dostupnosť na operatívnu konzultáciu v priebehu koučingu.*
-
-#### Priestory
-
-Mentoring môžete absolvovať online alebo vo vašej firme. Po dohode je možné mať stretnutie i na inom mieste.
-
-> [!NOTE]
-> [Mentoring](/mentoring) alebo koučing? Čo si mám vybrať?
->
-> [Kontaktujte ma](/contact). Dáme si nezáväzný rozhovor a prejdeme spolu vašu tému i vhodný nástroj.
-
-#### Referencie
-
-> Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
-> 
-> To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu - ktorý dokázal vytvoriť aj v online priestore.
-
-[Ľubomíra Kapustová, Koučka](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
-
-> Veľmi sa mi páči, ako strukturuješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
-
-[Advit Tiple](https://www.linkedin.com/in/advittiple/)
-
-> Stanley, vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe jeho skúseností a systémov, ktoré ma integrované, sa vie z nadhľadu pozrieť na daný problém a pomôct dostať sa do môjho vytúženého cieľa.
-> 
-> Za mňa je to človek s otvoreným srdcom a čo sa uňho nedá prehliadnuť je, že viac cíti ako myslí.
-
-[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
+#### Čo hovoria klienti
 
 > Dobre ukotvené rozhovory. V skutočnosti si postupoval podľa všetkých krokov GROWTH koučingu, vrátane kladenia správnych otázok, ktoré viedli k hľadaniu možností a riešení bez hodnotiaceho prístupu.
-> 
+>
 > Tvoje otázky ma vtiahli do diskusie a pomohli nájsť cestu k cieľu.
 
 [Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
 
-#### Vzdelanie
+> Jeho prístup, zameraný na vnímanie tela a vnútorné prežívanie, vnímam ako výborné vodítko k hlbšiemu sebapoznaniu a hľadaniu riešení. Hoci ma niektoré jeho návrhy spočiatku prekvapili, nakoniec mi pomohli uvedomiť si mnoho dôležitých vecí o sebe.
+>
+> To by však nebolo možné bez bezpečného priestoru a Stanislavovho citlivého a rešpektujúceho prístupu – ktorý dokázal vytvoriť aj v online priestore.
 
-Praxou koučovaním jednotlivcov a vo firmách ako [Siemens Healthineers](https://www.siemens-healthineers.com/sk), [Tietoevry](https://www.tietoevry.com/en/), [Make](https://www.make.com), [uLékaře.cz](https://www.ulekare.cz).
+[Ľubomíra Kapustová](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/), koučka
 
-Ročné školenie v medzinárodnej federácii koučovania [ICF](https://coachingfederation.org/) realizované v [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing), ukončené certifikáciou [IFC ACC](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
+> Stanley vždy veľmi hlboko vníma a pozorne načúva, čo mu klient hovorí. Na základe svojich skúseností a systémov, ktoré má integrované, sa vie z nadhľadu pozrieť na daný problém a pomôcť dostať sa do môjho vytúženého cieľa.
 
-[![](/images/associate-certified-coach-acc.png)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871)
+[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
 
-![](/images/coaching-absolvent.jpg)
+> Veľmi sa mi páči, ako štruktúruješ svoje otázky. Na základe nich sa mi ihneď v hlave vytvárajú odpovede.
 
-![](/images/growth-certificate.png)
+[Advit Tiple](https://www.linkedin.com/in/advittiple/)
 
-<!-- {{% ako-konzultacie-prebiehaju %}} -->
+[Ďalšie referencie →](/references/)
+
+#### Prečo so mnou
+
+- **Som praktizujúci IT líder.** 20 rokov v IT, z toho 15 v manažmente, a dodnes vediem delivery tím v Siemens Healthineers. Vášmu kontextu rozumiem bez dlhého vysvetľovania.
+- **Certifikovaný kouč.** ICF Associate Certified Coach (ACC) po 1,5-ročnom výcviku v [Business Coaching College](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
+- **Skúsenosti.** Viac ako 170 hodín koučingu a mentoringu s klientmi z firiem ako Siemens Healthineers, Tietoevry, Make a uLékaře.cz.
+- **Váš jazyk.** Stretnutia v slovenčine, češtine alebo angličtine.
+
+{{% include "/snippets/pricing" %}}
+
+{{% include "/snippets/how-it-works" %}}
+
+{{% include "/snippets/faq" %}}
+
+**Je koučing to isté ako terapia?**
+
+Nie. Koučing sa zameriava na vašu prítomnosť a vaše ciele. Ak budem mať pocit, že vaša téma patrí k terapeutovi, otvorene vám to poviem.
+
+**Koučing alebo mentoring?**
+
+V koučingu nachádzate vlastné odpovede; v [mentoringu](/mentoring/) sa s vami delím aj o svoje skúsenosti a rady. Neviete sa rozhodnúť? Vyberieme spolu počas bezplatného úvodného hovoru.
+
+#### Certifikácie
+
+[![ICF Associate Certified Coach](/images/associate-certified-coach-acc.png)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871)
+
+![Absolvent Business Coaching College](/images/coaching-absolvent.jpg)
+
+![Certifikát GROWTH koučing](/images/growth-certificate.png)
 
 ---
 
-### Aplikácia pre koučov
-
-Evidenciu si vediem vo vlastnej aplikácií na správu klientov a koučovacích sedení. V súčasnosti je aplikácia zdarma dostupná všetkým koučom - www.findacoach.eu.
+{{% include "/snippets/cta" %}}

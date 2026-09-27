@@ -41,6 +41,7 @@ Before pushing a change, run:
 pnpm run check         # toolchain pins agree, Netlify functions type-check
 pnpm run build
 pnpm run verify:build   # generated agent artifacts are correct and complete
+pnpm run verify:site
 ```
 
 For a full local simulation of Netlify packaging:
@@ -62,6 +63,20 @@ When adding, renaming, moving, or removing a menu item:
 2. Update both menus in `config/_default/languages.yaml`.
 3. If agents should be able to navigate to the section, add or remove it in `agents.sections` in `config/_default/params.yaml`. Everything machine-readable is generated from there, so no other file needs editing.
 4. Run `pnpm run build && pnpm run verify:build`. The verifier fails when an advertised section has no built page in either language, which is why menu entries are not reused: the menu also contains grouping links such as `/services` that have no page.
+
+### Reusable sections
+
+Sections shared by several pages (pricing, FAQ, how it works, call to action) live in `content/sk/snippets/` and `content/en/snippets/`. They are never published on their own. Embed one with:
+
+```markdown
+{{% include "/snippets/pricing" %}}
+```
+
+The snippet is picked from the page's language, so the same line works in both `content/sk/` and `content/en/`. Page-specific FAQ questions are written directly below the `faq` include.
+
+### Blog tags
+
+The blog list and every tag page show a tag filter bar. Use a few topic tags per post and keep the Slovak and English tag sets parallel. Link translations of a post with the same `translationKey`.
 
 ## Upgrades
 

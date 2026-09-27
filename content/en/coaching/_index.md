@@ -1,105 +1,96 @@
 ---
 title: 'Coaching'
 date: 2023-10-24
-description: 'Coaching for individuals and teams - changing behaviour, finding intrinsic motivation, career development, work-life balance and team performance.'
+description: 'Coaching for IT managers and tech leads - clarity in decisions, confidence, career direction, work-life balance and team performance. Free 20-minute intro call.'
 ---
 
-### I coach individuals and teams
+### Coaching for IT managers and tech leads
+
+Get clarity on what really matters, make decisions you can stand behind and take the first concrete steps – with a partner who has sat in the manager's chair himself.
+
+[**Book a free 20-minute intro call →**](https://findacoach.eu/coach/valasek)
 
 ![](/images/coaching.jpg)
 
-#### Most common topics clients bring:
+#### Is this for you?
 
-```markmap {height="200px"}
-- 🤔
-  - I want to understand and change my behavior  
-  - I need find my inner motivation to reach my goal  
-  - I want to make this decision in line with my life values  
-  - I need help with career development  
-  - I need a new perspective on my problem or opportunity  
-  - I’m looking for balance between work, family, and hobbies  
-  - I need support with growing my business or team  
-  - How to improve the performance of my team  
-```
+Clients most often come when:
 
-Coaching is a partnership conversation where the coach is curious, supportive, gives honest reflection, and deeply believes that the client is the expert on their own life.
+- they want to **understand and change a pattern** in their behaviour – at work or at home,
+- they have to make **a big decision** and want it to be in line with their values,
+- they are looking for **career direction** – next step, new role, new company,
+- they have lost **motivation or energy** and want it back,
+- they need **a new perspective** on a problem or an opportunity,
+- they want **balance** between work, family and their own needs,
+- they want to **grow their team or business** and improve its performance.
 
-#### Why work with me?
+#### What changes
 
-Coaching is a tool, a space where people can think things through and **get clarity** on a topic they’re dealing with.
+- **Clarity.** You know what you want and why it matters to you.
+- **Decisions.** You choose a direction that fits your values – not other people's expectations.
+- **Action.** You leave every session with concrete steps you have defined yourself.
 
-It’s done through a **partnership conversation**, where the client is the expert on their own life.
+#### How I work
 
-A coach helps clients gain **new perspectives and insights**.
+Coaching is a partnership conversation. You are the expert on your life – I bring structure, curiosity and honest reflection. I don't give advice or push my own solutions; with the right questions I help you find your own resources and insights.
 
-By reframing thoughts, I help clients recognize helpful or unhelpful beliefs and find existing or **new resources** to make decisions aligned with their values. I help them realize what will **support them in taking action** and guide them with the right questions to define their own steps towards making that decision a reality.
+I follow the structure, ethics and competencies of the International Coaching Federation ([ICF](https://coachingfederation.org)). Where it helps, I also work with **body awareness** – noticing what you feel, not just what you think – which often opens things that a purely rational conversation cannot reach.
 
-For me, coaching is not about giving advice or offering solutions based on my view. It’s about kindly and **supportively helping clients discover their own resources** and reach their own insights.
+My typical clients know they want a change and roughly in which area. They need someone who doesn't judge, accepts them as they are and supports them in defining their direction and first steps.
 
-I use the coaching conversation structure, ethical principles, and coaching competencies (as defined by the International Coaching Federation [ICF](https://coachingfederation.org)).
+#### What clients say
 
-My typical clients are people who know they want change, know the area they want to change, and just need help to **define their direction and first steps** – with someone who doesn’t judge them, accepts them as they are, and supports them in their decisions.
-
-What I enjoy most about coaching are two things:
-
-1. Seeing and feeling the client's excitement when they find their own way forward.
-2. The amount of internal work I do during every session to let go of my own good ideas and solutions, so I can stay in the role of a curious, supportive partner in this structured conversation.
-
-#### Pricing
-
-My current rate is 70 € / hour. I’m not a VAT payer.
-
-*The price includes phone and email availability for quick consultations during the coaching process.*
-
-#### Location
-
-Coaching sessions can be online or at your workplace. Other meeting locations can be arranged upon request.
-
-> [!NOTE]
-> [Mentoring](/en/mentoring) or coaching? What should I choose?
+> Well-structured conversations. You actually followed all the steps of GROWTH coaching, including asking the right questions that led to finding options and solutions without judgment.
 >
-> [Contact me](/en/contact). We can have an informal talk and go over your topic and the best method for it.
+> Your questions drew me into the discussion and helped me find my way toward the goal.
 
-#### Testimonials
+[Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
 
 > His approach, focused on body awareness and inner experience, is a great guide to deeper self-understanding and finding solutions. Some of his suggestions surprised me at first, but they helped me realize many important things about myself.
-> 
-> This wouldn’t have been possible without the safe space and Stanislav’s sensitive and respectful approach – which he was able to create even online.
+>
+> This wouldn't have been possible without the safe space and Stanislav's sensitive and respectful approach – which he was able to create even online.
 
-[Ľubomíra Kapustová, Coach](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/)
+[Ľubomíra Kapustová](https://www.linkedin.com/in/lubomira-kapustova-9386ba2b8/), Coach
+
+> Stanley always listens deeply and carefully to what the client says. Thanks to his experience and integrated systems, he can look at the problem from a higher perspective and help guide me toward my desired goal.
+
+[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
 
 > I really like how you structure your questions. They immediately trigger answers in my mind.
 
 [Advit Tiple](https://www.linkedin.com/in/advittiple/)
 
-> Stanley always listens deeply and carefully to what the client says. Thanks to his experience and integrated systems, he can look at the problem from a higher perspective and help guide me toward my desired goal.
-> 
-> For me, he is a person with an open heart, and it’s clear that he feels more than he thinks.
+[More references →](/en/references/)
 
-[Tomáš Francan](https://www.linkedin.com/in/tomáš-francan-b05b9184/), Consultant, Veritas Technologies LLC
+#### Why me
 
-> Well-structured conversations. You actually followed all the steps of GROWTH coaching, including asking the right questions that led to finding options and solutions without judgment.
-> 
-> Your questions drew me into the discussion and helped me find my way toward the goal.
+- **I'm a practising IT leader.** 20 years in IT, 15 in management, and I still lead a delivery team at Siemens Healthineers. I understand your context without long explanations.
+- **Certified coach.** ICF Associate Certified Coach (ACC) after a 1.5-year training at the [Business Coaching College](https://www.koucovaciaskola.sk/kurz-biznis-koucing).
+- **Experience.** 170+ hours of coaching and mentoring with clients from companies like Siemens Healthineers, Tietoevry, Make and uLékaře.cz.
+- **Your language.** Sessions in English, Slovak or Czech.
 
-[Rajneesh Handa](https://www.linkedin.com/in/rajneesh-handa-6714a524/), Business Head, Siemens Healthineers
+{{% include "/snippets/pricing" %}}
 
-#### Education
+{{% include "/snippets/how-it-works" %}}
 
-Experience coaching individuals and companies such as [Siemens Healthineers](https://www.siemens-healthineers.com/sk), [Tietoevry](https://www.tietoevry.com/en/), [Make](https://www.make.com), [uLékaře.cz](https://www.ulekare.cz).
+{{% include "/snippets/faq" %}}
 
-One-year training with the International Coaching Federation [ICF](https://coachingfederation.org/) delivered by [Business Coaching Academy](https://www.koucovaciaskola.sk/kurz-biznis-koucing), finished by certifikáciou [IFC ACC certification](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871).
+**Is coaching the same as therapy?**
 
-[![](/images/associate-certified-coach-acc.png)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871)
+No. Coaching focuses on your present and your goals. If I feel your topic belongs to a therapist, I will tell you openly.
 
-![](/images/coaching-absolvent.jpg)
+**Coaching or mentoring?**
 
-![](/images/growth-certificate.png)
+In coaching you find your own answers; in [mentoring](/en/mentoring/) I also share my experience and advice. Not sure? We'll decide together during the free intro call.
 
-<!-- {{% ako-konzultacie-prebiehaju %}} -->
+#### Credentials
+
+[![ICF Associate Certified Coach](/images/associate-certified-coach-acc.png)](https://www.credly.com/badges/723f8eac-758a-41f6-b356-7dd29c51a871)
+
+![Business Coaching College graduate](/images/coaching-absolvent.jpg)
+
+![GROWTH coaching certificate](/images/growth-certificate.png)
 
 ---
 
-### Coaching App
-
-I use my own app to manage clients and coaching sessions. Right now, the app is available for free to all coaches – [www.findacoach.eu](https://www.findacoach.eu).
+{{% include "/snippets/cta" %}}

@@ -23,10 +23,6 @@ sk:
        parent: Služby
        url: '/mentoring'
        weight: 2
-     - name: Školenia
-       parent: Služby
-       url: '/trainings'
-       weight: 3
      - name: Referencie
        url: '/references'
        weight: 3
@@ -44,13 +40,13 @@ en:
   contentDir: content/en
   title: Stanislav Valasek
   params:
-    description: Mentoring, coaching, communication, management trainings
+    description: Coaching and mentoring for IT managers and tech leads
 
     header:
       navbar:
         logo:
           # Logo text
-          text: "Your authenticity is important"
+          text: "Stanislav Valasek"
   
   menu:
     main:
@@ -68,10 +64,6 @@ en:
         parent: Services
         url: '/mentoring'
         weight: 2
-      - name: Trainings
-        parent: Services
-        url: '/trainings'
-        weight: 3
       - name: References
         url: '/references'
         weight: 3

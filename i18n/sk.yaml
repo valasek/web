@@ -313,3 +313,10 @@
 
 - id: poweredby_button
   translation: Vytvorené v Hugo Blox
+
+# Blog tag filter
+- id: blog_all_posts
+  translation: Všetky
+
+- id: blog_filter_by_tag
+  translation: Filtrovať články podľa témy

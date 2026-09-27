@@ -1,6 +1,9 @@
 ---
 title: 'Niečo veľké sa deje'
 date: 2026-02-20
+tags: ["Osobné"]
+---
+
 ---
 
 Tento článok je prekladom originálu [Something Big Is Happening, By Matt Shumer • Feb 9, 2026](https://shumer.dev/something-big-is-happening)

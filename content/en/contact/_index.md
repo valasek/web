@@ -1,21 +1,31 @@
 ---
-title: 'Contacts'
+title: 'Contact'
 date: 2023-10-24
-description: 'Get in touch with Stanislav Valasek - email, phone, WhatsApp and LinkedIn.'
+description: 'Book a free 20-minute intro call or get in touch with Stanislav Valasek by email, phone, WhatsApp or LinkedIn.'
 ---
 
-valasek@gmail.com<br/>
-+421 949 888 634<br/>
-[Message via WhatsApp](https://wa.me/421949888634)<br/>
-[LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)
+### Start with a free intro call
+
+20 minutes online, free and with no obligation. You tell me what's going on and together we find out whether I can help – and whether coaching or mentoring is the better fit.
+
+[**Book a free intro call →**](https://findacoach.eu/coach/valasek)
+
+### Prefer to write?
+
+Send me a few sentences about your situation and what you would like to change. I usually reply within one working day.
+
+- Email: [valasek@gmail.com](mailto:valasek@gmail.com)
+- Phone: [+421 949 888 634](tel:+421949888634)
+- [Message via WhatsApp](https://wa.me/421949888634)
+- [LinkedIn](https://www.linkedin.com/in/stanislavvalasek/)
 
 ---
 
-### Invoicing details
+#### Invoicing details
 
 Stanislav Valasek<br/>
 Reg. No: 56319266<br/>
 Tax ID: 1074496654<br/>
-VAT: SK1074496654
+VAT ID: SK1074496654 (registered under §7a, not a VAT payer)
 
 Full invoicing and bank details are stated on the invoice. If you need them in advance, [email me](mailto:valasek@gmail.com).

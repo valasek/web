@@ -6,7 +6,7 @@ description: 'What clients say about coaching and mentoring with Stanislav Valas
 
 Do you want to leave a reference or contact me?
 
-[Write me](/contact).
+[Write me](/en/contact/).
 
 ## Don't believe me, listen to them!
 
@@ -98,6 +98,10 @@ PharmDr. Monika Horníková, MHA, ředitel, [TŘI, z.ú., Hospic Čerčany](http
 
 ---
 
-Do you want to leave a reference or contact me?
+### Want to experience it yourself?
 
-[Write me](/contact).
+Start with a free 20-minute intro call – no obligation.
+
+[**Book a free intro call →**](https://findacoach.eu/coach/valasek)
+
+Have we worked together? I'd be grateful for a reference – [write me](/en/contact/).

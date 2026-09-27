@@ -1,0 +1,61 @@
+{{- /* Blog listing with a tag filter bar. Shared by the blog section and tag term pages. */ -}}
+{{- $blog := site.GetPage "/blog" -}}
+{{- $current := . -}}
+
+<div class="max-w-prose mx-auto flex justify-center">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert">
+    <h1 class="lg:text-6xl">{{ $blog.Title }}</h1>
+    {{ .Content }}
+  </article>
+</div>
+
+{{- with site.Taxonomies.tags }}
+{{- $base := "no-underline text-sm font-medium px-4 py-1.5 rounded-full transition-colors" -}}
+{{- $idle := "bg-primary-100 text-primary-800 hover:bg-primary-300 dark:bg-primary-900 dark:text-primary-300 dark:hover:bg-primary-700" -}}
+{{- $active := "bg-primary-600 text-white dark:bg-primary-500 dark:text-white" -}}
+<nav aria-label="{{ i18n "blog_filter_by_tag" }}" class="max-w-4xl mx-auto flex flex-wrap justify-center gap-2 px-4 mt-6 mb-10">
+  {{- $on := eq $current.Kind "section" }}
+  <a href="{{ $blog.RelPermalink }}" class="{{ $base }} {{ cond $on $active $idle }}"{{ if $on }} aria-current="page"{{ end }}>
+    {{- i18n "blog_all_posts" }} <span class="opacity-70">{{ len $blog.RegularPagesRecursive }}</span>
+  </a>
+  {{- range .ByCount }}
+  {{- $on := eq .Page.RelPermalink $current.RelPermalink }}
+  <a href="{{ .Page.RelPermalink }}" class="{{ $base }} {{ cond $on $active $idle }}"{{ if $on }} aria-current="page"{{ end }}>
+    {{- .Page.LinkTitle }} <span class="opacity-70">{{ .Count }}</span>
+  </a>
+  {{- end }}
+</nav>
+{{- end }}
+
+{{- /* Below mirrors the blox module's list.html */ -}}
+{{ $view := .Params.view | default "card" }}
+{{ $block := . }}
+
+{{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+{{ $config := dict
+  "columns" (.Params.columns | default 2)
+  "len" (len $paginator.Pages)
+  "fill_image" (.Params.fill_image | default true)
+  "show_date" (.Params.show_date | default true)
+  "show_read_time" (.Params.show_read_time | default true)
+  "show_read_more" (.Params.show_read_more | default true)
+}}
+
+{{ range .Pages }}
+  {{ if isset .Params "author_notes" }}
+    {{ $.Store.Set "has_alpine" true }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+
+<div class="flex flex-col items-center">
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
+
+  {{ range $index, $item := $paginator.Pages }}
+  {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index "config" $config) }}
+  {{ end }}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+
+  {{ partial "components/paginator" . }}
+</div>
