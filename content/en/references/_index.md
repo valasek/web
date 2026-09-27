@@ -12,6 +12,18 @@ Do you want to leave a reference or contact me?
 
 You don't need to believe what I am saing, read what my happy customers have to say about working with me:
 
+> I met Stanislav through my employer's Femme Palette mentoring program. I had the privilege of spending six months working with him, and the experience gave me a great deal.
+>
+> I greatly appreciated his approach. Stanislav never told me what to do or how to act in a specific situation. Instead, his questions guided me to reflect on the situation, my options, and above all, myself. The answers often came quite naturally and effortlessly. At the end of each session, I was sometimes surprised to realize how simply certain things could be viewed and how easy it could be to find my own solution.
+>
+> The specific techniques Stanislav introduced me to were also very helpful. I still use some of them today, not only in my professional life but in my personal life as well.
+>
+> I also greatly appreciated Stanislav's genuine effort to help me. I never felt that the session's time limit mattered more to him than making sure we truly brought the topic to a close and that I left feeling I had made progress and found all the answers I needed.
+>
+> Stanislav, thank you for the entire six months, for your time, energy, support, and especially for guiding me to find the answers to my own questions. And thank you for letting me know I can reach out anytime if I ever “lose my way” again. 😊
+
+Petra Krystlová, Form Factory
+
 > During our mentoring journey, EmpowerHer shared with me a wealth of useful tools, techniques and insights that helped me further develop my skills and self-awareness.
 > 
 > Stanislav creates a safe and open space for mentoring and it's easy to share even more personal thoughts and dilemmas with him.

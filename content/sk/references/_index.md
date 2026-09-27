@@ -14,6 +14,18 @@ Chcete mi zanechať referenciu alebo ma kontaktovať?
 
 Nemusíte veriť tomu, čo hovorím. Prečítajte si, čo o spolupráci so mnou hovoria moji spokojní zákazníci:
 
+> So Stanislavom som sa stretla vďaka mentoringovému programu Femme Palette, ktorý mi sprostredkoval môj zamestnávateľ. Mala som tú česť stráviť s ním pol roka, ktorý mi dal naozaj veľa.
+>
+> Veľmi som ocenila jeho prístup. Stanislav mi nikdy nehovoril, čo mám robiť alebo ako sa mám v konkrétnej situácii zachovať. Naopak, svojimi otázkami ma viedol k tomu, aby som sa sama zamyslela nad situáciou, svojimi možnosťami a predovšetkým sama nad sebou. Odpovede potom často prichádzali úplne prirodzene a nenútene. Na konci každého stretnutia som niekedy až prekvapene zistila, ako jednoducho sa dá na niektoré veci pozerať a ako ľahko sa dá nájsť vlastné riešenie.
+>
+> Veľmi mi pomohli aj konkrétne techniky, s ktorými ma Stanislav oboznámil. Niektoré z nich používam dodnes, a to nielen v pracovnom, ale aj v súkromnom živote.
+>
+> Veľmi som ocenila aj Stanislavovu úprimnú snahu pomôcť mi. Nikdy som nemala pocit, že je preňho časový limit stretnutia dôležitejší než to, aby sme danú tému skutočne uzavreli a aby som odchádzala s pocitom, že som sa posunula a dostala všetky odpovede.
+>
+> Stanislav, ďakujem Ti za celý polrok, za Tvoj čas, energiu, podporu a hlavne za to, že si ma viedol k tomu, aby som si na svoje otázky dokázala nájsť odpovede sama. A ďakujem aj za možnosť kedykoľvek sa ozvať, ak by som na svojej ceste opäť trochu „zišla z cesty“. 😊
+
+Petra Krystlová, Form Factory
+
 > Počas nášho mentoringového procesu mi Stanislav odovzdal množstvo užitočných nástrojov, techník a postrehov, ktoré mi pomohli ďalej rozvíjať moje zručnosti a sebauvedomenie.
 > 
 > Stanislav vytvára bezpečný a otvorený priestor pre mentoring, v ktorom je jednoduché zdieľať aj osobnejšie myšlienky a dilemy.
