@@ -100,7 +100,7 @@ sections:
           description: "Dohodneme, čo sa má zmeniť, vyberieme koučing alebo mentoring a jednotlivé stretnutie alebo balíček."
         - name: "3. Pravidelné stretnutia"
           icon: hero/arrow-trending-up
-          description: "60-minútové stretnutia online alebo v Bratislave a Prahe, s podporou aj medzi stretnutiami."
+          description: "60-minútové stretnutia online alebo v Bratislave a okolí, s podporou aj medzi stretnutiami."
 
   - block: motto
     content:

@@ -4,7 +4,7 @@ hugoblox:
   identity:
     name: "Stanislav Valášek"
     tagline: "Koučing a mentoring pre IT lídrov"
-    description: "ICF ACC kouč a mentor pre IT manažérov a team leadov. Veďte s jasnosťou a istotou - online, v Bratislave aj v Prahe. Bezplatný 20-minútový úvodný hovor."
+    description: "ICF ACC kouč a mentor pre IT manažérov a team leadov. Veďte s jasnosťou a istotou - online, v Bratislave a v okolí. Bezplatný 20-minútový úvodný hovor."
 
   copyright:
     notice: '© {year} Stanislav Valášek'
@@ -26,7 +26,7 @@ hugoblox:
 
 practice:
   name: "Stanislav Valášek – koučing a mentoring pre IT lídrov"
-  description: "Certifikovaný kouč (ICF ACC) a mentor pre IT manažérov a team leadov. Pôsobím v Bratislave, na Slovensku aj v Česku a online kdekoľvek."
+  description: "Certifikovaný kouč (ICF ACC) a mentor pre IT manažérov a team leadov. Pôsobím v Bratislave, na Slovensku a v okolí a online kdekoľvek."
   founder: "Stanislav Valášek"
   job_title: "Kouč (ICF ACC) a mentor pre IT lídrov"
   area_served: ["Slovensko", "Česko", "Celosvetovo (online)"]

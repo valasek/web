@@ -69,6 +69,8 @@ My typical clients know they want a change and roughly in which area. They need 
 - **Experience.** 170+ hours of coaching and mentoring with clients from companies like Siemens Healthineers, Tietoevry, Make and uLékaře.cz.
 - **Your language.** Sessions in English, Slovak or Czech.
 
+{{% include "/snippets/coaching-vs-mentoring" %}}
+
 {{% include "/snippets/pricing" %}}
 
 {{% include "/snippets/how-it-works" %}}
@@ -78,10 +80,6 @@ My typical clients know they want a change and roughly in which area. They need 
 **Is coaching the same as therapy?**
 
 No. Coaching focuses on your present and your goals. If I feel your topic belongs to a therapist, I will tell you openly.
-
-**Coaching or mentoring?**
-
-In coaching you find your own answers; in [mentoring](/en/mentoring/) I also share my experience and advice. Not sure? We'll decide together during the free intro call.
 
 #### Credentials
 

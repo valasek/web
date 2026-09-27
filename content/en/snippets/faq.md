@@ -18,7 +18,11 @@ A specific topic or situation can often be handled in 1–3 sessions. A lasting 
 
 **Online or in person?**
 
-Both work well. Most clients meet online; in person we can meet in Bratislava, Prague or at your company.
+Both work well. Most clients meet online; in person we can meet in Bratislava, surrounding areas or at your company.
+
+**Do you also meet in person outside Bratislava?**
+
+Yes, by arrangement. Travel costs are added to the price.
 
 **Which language?**
 

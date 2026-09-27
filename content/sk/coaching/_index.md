@@ -71,6 +71,8 @@ Moji typickí klienti vedia, že chcú zmenu, a zhruba tušia, v akej oblasti. P
 - **Skúsenosti.** Viac ako 170 hodín koučingu a mentoringu s klientmi z firiem ako Siemens Healthineers, Tietoevry, Make a uLékaře.cz.
 - **Váš jazyk.** Stretnutia v slovenčine, češtine alebo angličtine.
 
+{{% include "/snippets/coaching-vs-mentoring" %}}
+
 {{% include "/snippets/pricing" %}}
 
 {{% include "/snippets/how-it-works" %}}
@@ -80,10 +82,6 @@ Moji typickí klienti vedia, že chcú zmenu, a zhruba tušia, v akej oblasti. P
 **Je koučing to isté ako terapia?**
 
 Nie. Koučing sa zameriava na vašu prítomnosť a vaše ciele. Ak budem mať pocit, že vaša téma patrí k terapeutovi, otvorene vám to poviem.
-
-**Koučing alebo mentoring?**
-
-V koučingu nachádzate vlastné odpovede; v [mentoringu](/mentoring/) sa s vami delím aj o svoje skúsenosti a rady. Neviete sa rozhodnúť? Vyberieme spolu počas bezplatného úvodného hovoru.
 
 #### Certifikácie
 

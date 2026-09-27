@@ -7,6 +7,11 @@
     opacity: 0 !important;
 }
 
+/* Role wraps on narrow screens; flex items-center doesn't center wrapped lines */
+#profile.resume-biography h3 {
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   /* Globálny padding pre text na mobiloch */
   div.page-body {

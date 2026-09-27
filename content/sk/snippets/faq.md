@@ -18,7 +18,11 @@ Konkrétnu tému alebo situáciu sa často podarí vyriešiť za 1–3 stretnuti
 
 **Online alebo osobne?**
 
-Oboje funguje dobre. Väčšina klientov sa stretáva online; osobne sa môžeme stretnúť v Bratislave, v Prahe alebo vo vašej firme.
+Oboje funguje dobre. Väčšina klientov sa stretáva online; osobne sa môžeme stretnúť v Bratislave a okolí alebo vo vašej firme.
+
+**Stretávate sa osobne aj mimo Bratislavy?**
+
+Áno, po vzájomnej dohode. K cene sa pripočítajú cestovné náklady.
 
 **V akom jazyku?**
 

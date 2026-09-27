@@ -41,15 +41,7 @@ Clients most often come with:
 
 More about my career on [LinkedIn](https://www.linkedin.com/in/stanislavvalasek).
 
-#### Coaching or mentoring?
-
-| | Coaching | Mentoring |
-|---|---|---|
-| **Who has the answers** | You – I ask questions | Both of us – I also share experience and advice |
-| **Best for** | Decisions, motivation, values, balance | Concrete management skills and situations |
-| **Typical topics** | Career direction, confidence, life balance | Delegation, feedback, team leadership, stakeholders |
-
-In practice I often combine both – and I always say which hat I'm wearing. Read more about [coaching](/en/coaching/).
+{{% include "/snippets/coaching-vs-mentoring" %}}
 
 #### What clients say
 

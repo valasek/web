@@ -100,7 +100,7 @@ sections:
           description: "We agree on what should change, choose coaching or mentoring and a single session or a package."
         - name: "3. Regular sessions"
           icon: hero/arrow-trending-up
-          description: "60-minute sessions online or in Bratislava and Prague, with support between sessions."
+          description: "60-minute sessions online or in Bratislava and surrounding areas, with support between sessions."
 
   - block: motto
     content:

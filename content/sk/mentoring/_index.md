@@ -41,15 +41,7 @@ Klienti ku mne najčastejšie prichádzajú s témami:
 
 Viac o mojej kariére nájdete na [LinkedIn](https://www.linkedin.com/in/stanislavvalasek).
 
-#### Koučing alebo mentoring?
-
-| | Koučing | Mentoring |
-|---|---|---|
-| **Kto má odpovede** | Vy – ja kladiem otázky | Obaja – delím sa aj o skúsenosti a rady |
-| **Vhodné na** | Rozhodnutia, motiváciu, hodnoty, rovnováhu | Konkrétne manažérske zručnosti a situácie |
-| **Typické témy** | Kariérny smer, sebaistota, životná rovnováha | Delegovanie, spätná väzba, vedenie tímu, stakeholderi |
-
-V praxi často kombinujem oboje – a vždy poviem, ktorý klobúk mám práve na hlave. Viac o [koučingu](/coaching/).
+{{% include "/snippets/coaching-vs-mentoring" %}}
 
 #### Čo hovoria klienti
 

@@ -18,7 +18,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Coaching & mentoring for IT leaders"
     # Site meta description for search engines and social sharing
-    description: "ICF ACC coach and mentor for IT managers and tech leads. Lead with clarity and confidence - online or in Bratislava and Prague. Free 20-minute intro call."
+    description: "ICF ACC coach and mentor for IT managers and tech leads. Lead with clarity and confidence - online or in Bratislava and surrounding areas. Free 20-minute intro call."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "valasek"              # Twitter/X handle for Twitter Cards (without @)
@@ -284,7 +284,7 @@ hugoblox:
 practice:
   enable: true
   name: "Stanislav Valasek - Coaching & Mentoring for IT Leaders"
-  description: "ICF ACC certified coach and mentor for IT managers and tech leads. Based in Bratislava, working across Slovakia and Czechia and online worldwide."
+  description: "ICF ACC certified coach and mentor for IT managers and tech leads. Based in Bratislava, working across Slovakia and surrounding areas and online worldwide."
   founder: "Stanislav Valasek"
   job_title: "Coach (ICF ACC) and Mentor for IT Leaders"
   email: "valasek@gmail.com"
