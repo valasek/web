@@ -96,8 +96,8 @@ Because I have a curious mind, I stay in touch with the latest trends and dedica
 
 If you’re interested in my software development work, you can find samples on [GitHub](https://github.com/valasek/). I am currently working on:
 
-  * Software for tracking clients and coaching sessions. Currently available for free at www.findacoach.eu.
-  * Software for managing inventory and kitchen recipes, currently used by a hospice in the Czech Republic – [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
+  * Software for tracking clients and coaching sessions. Currently available for free at [findacoach.eu](https://findacoach.eu).
+  * Software for managing inventory and kitchen recipes. For hospices, nursing homes, and other care facilities – [kicoma.eu](https://kicoma.eu/en/).
 
 ### Let's talk
 

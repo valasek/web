@@ -98,10 +98,10 @@ Ak máte pred sebou výzvu, problém, potrebujete skutočne dobre zvážiť a ro
 Keďže som myseľ zvedavá, som v kontakte s najnovšími trendami, venujem sa sebarozvoju, AI i programovaniu.
 
 Ak vás zaujíma môj softvérový vývoj, nájdete ukážky mojej práce na [GitHub](https://github.com/valasek/). Aktuálne pracujem na:
-- SW na evidenciu klientov a koučovacích sedení. V súčasnosti zdarma dostupný – www.findacoach.eu.
-- SW pre správu skladu i receptov v kuchyni, ktorý je využívaný hospicom v Čechách – [kicoma.stanislavvalasek.com](https://kicoma.stanislavvalasek.com)
+- SW na evidenciu klientov a koučovacích sedení. V súčasnosti zdarma dostupný – [findacoach.eu](https://www.findacoach.eu).
+- SW pre správu skladu, receptov i výživových údajov pre kuchyne. Pre hospice, domovy pre seniorov a ďalšie opatrovateľské ariadenia – [kicoma.eu](https://kicoma.eu)
 
-### Porožprávajme sa
+### Porozprávajme sa
 
 Som tu, aby som vám pomohol rásť, prekonávať prekážky a dosahovať vaše ciele. Prvým krokom je bezplatný 20-minútový úvodný hovor.
 
