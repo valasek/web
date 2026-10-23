@@ -26,9 +26,12 @@ pluralizelisttitles: false
 # Tag titles are derived from front matter; AP title case breaks Slovak ("Vedenie Tímu").
 titleCaseStyle: firstupper
 
-# `build` intentionally omitted: the blox module already sets build.buildStats
-# plus the assets/hugo_stats.json cachebuster. Redefining `build` here replaces
-# the theme's cachebusters and breaks Tailwind rebuilds.
+# `build` must use `_merge: deep`: the blox module sets build.buildStats plus the
+# assets/hugo_stats.json cachebuster, and replacing them breaks Tailwind rebuilds.
+build:
+  _merge: deep
+  # Writing assets/jsconfig.json on each build re-triggers the watcher (endless rebuild loop).
+  noJSConfigInAssets: true
 enableGitInfo: true
 summaryLength: 30
 pagination:
